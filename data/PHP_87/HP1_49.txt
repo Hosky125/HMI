@@ -1,0 +1,10 @@
+"Rumex acuta" "Cypeus rotundus" "Casia fistula" "Solanum tuberosum" "Brassica compestris" "Brassica oleracea" "Brassica oleracea var. botrytis" "Raphanus satius" "Brassica rapa" "Zea mays" "Triticum aestivum" "Avena sativa" "Hordeum vulgare" "Hibiscus sp." "Pisum sativum" "Trigonella fenumgraecum"
+"Aphis fabae" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis gossypii" 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Brevicoryne brassicae" 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+"Myzus persicae" 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0
+"Schizaphis graminum" 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+"Rhopalosiphum padi" 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0
+"Aphis craccivora" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"Lipaphis erysimi" 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+"Acrythosiphon pisum" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
