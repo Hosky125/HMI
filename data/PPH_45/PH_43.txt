@@ -1,0 +1,6 @@
+"Orius laevigatus" "Terellia ruficauda" "Orius majusculus" "Hemiptera nymph (?Orius)" "Ectopsocus briggsi" "Aulagromyza spp." "Aulagromyza hendeliana" "Ischnopterapion loti" "Stigmella auromarginella" "Metallus alabipes" "Metallus albipes" "Stigmella aurella" "Emmetia marginea" "Metallus pumilus" "Apteropdea orbiculata"
+"Cirsium arvense" 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Lonicera periclymenum" 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+"Lotus corniculatus" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Rubus fruticosus" 1 0 0 1 0 0 0 0 1 1 1 1 1 1 0
+"Teucrium scorodonia" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
