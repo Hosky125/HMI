@@ -1,0 +1,6 @@
+"Phaedrotoma mesoclypealis" "Thinodytes sp. B" "Chrysonotomyia sp. D" "Chrysocharis brethesi" "Phaedrotoma scabriventris" "Chrysocharis flacilla" "Pteromalidae sp. E" "Chrysonotomyia thysanoides" "Mymmaridae spp." "Halticoptera helioponi" "Chrysonotomyia xenodice" "Agrostocynips clavatus" "Diglyphus websteri" "Diaulinopsis sp." "Diglyphus pedicellus" "Chrysocharis sp. B" "Tetratischus sp."
+"Amauromyza maculosa" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia platensis" 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza brassicae" 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza huidobrensis" 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+"Liriomyza sativae" 0 0 0 1 1 1 0 0 0 0 0 0 1 0 0 0 1
