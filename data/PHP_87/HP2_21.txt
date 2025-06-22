@@ -1,0 +1,12 @@
+"Lysaphidus arvense" "Lysiphlebus cardui" "Trioxys angelicae" "Lysiphlebus hirticornis" "Trioxys falcatus" "Euaphidius setiger" "Aphidius funebris" "Aphidius absinthii" "Aphidius rosae" "Aphidius ervi" "Pauesia picta"
+"Coloradoa tanacetina" 1 0 0 0 0 0 0 0 0 0 0
+"Aphis fabae" 0 1 1 0 0 0 0 0 0 0 0
+"Metopeurum fuscoviride" 0 0 0 1 0 0 0 0 0 0 0
+"Periphyllus sp." 0 0 0 0 1 1 0 0 0 0 0
+"Uroleucon jaceae" 0 0 0 0 0 0 1 0 0 0 0
+"Macrosiphoniella absinthii" 0 0 0 0 0 0 0 1 0 0 0
+"Macrosiphoniella tanacetaria" 0 0 0 0 0 0 0 1 0 0 0
+"Macrosiphum rosae" 0 0 0 0 0 0 0 0 1 0 0
+"Uroleucon cirsii" 0 0 0 0 0 0 1 0 0 0 0
+"Acyrthosiphon pisum" 0 0 0 0 0 0 0 0 0 1 0
+"Cinara pinea" 0 0 0 0 0 0 0 0 0 0 1
