@@ -1,0 +1,10 @@
+"Anthomyiidae sp." "Lycaena phlaeas" "Sphaerophoria macrogaster" "Halictidae sp." "Diptera sp." "Staphylinidae sp." "Andrenidae sp." "Pseudozizeeria maha" "Eurema mandarina" "Episyrphus balteatus" "Pieris rapae" "Phytomia zonata" "Eristalinus quinquestriatus" "Stomorhina obsoleta" "Apoidea sp. 1" "Bombus sp." "Colias erate" "Parnara guttata" "Campsomeris prismatica" "Eristalis cerealis" "Pieris melete" "Apoidea sp." "Xylocopa appendiculata" "Everes argiades" "Euchrysops cnejus" "Sarcophagidae sp." "Melanostoma mellinum "
+"Conyza sumatrensis" 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Gnaphalium japonicum" 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Ixeridium dentatum" 0 0 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Lactuca indica" 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Picris hieracioides subsp. japonica" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Persicaria hydropiper" 0 0 1 0 0 0 0 0 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Kummerowia striata" 0 1 0 1 1 0 1 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0
+"Medicago lupulina" 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0
+"Pennisetum alopecuroides" 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
