@@ -1,0 +1,7 @@
+"Tessellana tessellata" "Theba pisana" "Mirini spp." "Oxycarenus hyalinipennis" "Thysanoptera" "Psilothrix viridicoerulea" "Miridae" "Bruchidae" "Cochlicella barbara" "Conocephalus dorsalis" "Brassicogethes spp." "Gryllus bimaculatus" "Cantharis coronata" "Cryptocephalus spp." "Cassida spp." "Aiolopus strepens" "Scyphophorus spp." "Malachius bipustulatus" "Meligethes spp." "Lasiocampa trifolii caterpillar" "Lepidoptera caterpillar" "Mordellidae" "Oedemeridae"
+"BEMA" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHFU" 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"LEMA" 1 1 0 0 0 1 0 0 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+"MESP" 1 1 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 1 1 0 0
+"PUPA" 1 1 0 0 0 1 0 0 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0
+"SCLA" 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
