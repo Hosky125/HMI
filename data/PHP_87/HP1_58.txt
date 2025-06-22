@@ -1,0 +1,13 @@
+"Piper amalago" "Piper Jacquemontianum" "Piper neesianum" "Piper yucatanense"
+"Consul fabius" 1 0 0 0
+"Dysschema gaumeri" 1 0 0 0
+"Dysschema sp." 1 0 0 0
+"Eois sp." 1 0 0 0
+"Gonodonta nitidimacula" 1 0 0 1
+"MORPHO 57" 1 0 0 0
+"MORPHO 58" 1 0 0 0
+"Quadrus cerialis" 1 1 0 0
+"MORPHO 62" 0 1 0 0
+"MORPHO 64" 0 1 0 0
+"Zanola verago" 0 0 1 0
+"MORPHO 20" 0 0 0 1
