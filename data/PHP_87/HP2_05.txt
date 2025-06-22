@@ -1,0 +1,6 @@
+"Aphidus B" "Aphidius microlophii" "Praon dorsale" "Binodoxys acalephae" "Aphelinus asychis" "Praon abjectum"
+"Capitophorus carduinis" 1 0 0 0 0 0
+"Microlophium carnosum" 0 1 0 0 0 0
+"Aphis epilobii" 0 0 1 1 1 1
+"Aphis grossulariae" 0 0 1 1 1 1
+"Sitobion ptericolens" 0 0 1 0 0 0
