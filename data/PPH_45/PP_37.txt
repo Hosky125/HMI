@@ -1,0 +1,7 @@
+"Lomatia spp." "Sphaerophoria scripta" "Andrena cinerea" "Andrena spp." "Calliphoridae" "Dilophus spp." "Diplazon spp." "Empis tesellata" "Episyrphus balteatus" "Eupeodes corollae" "Musca spp." "Nephrotoma spp." "Odontomyia spp." "Pangonius spp." "Sarcophaga spp." "Scaeva spp." "Chrysididae" "Sphaerophoria spp." "Ulidiidae" "Anastoechus spp." "Cylindromyia spp." "Andrena humilis" "Lasiocampa trifolii" "Lasioglossum malachurum" "Nemotelus spp." "Osmia ligurica" "Bombyliidae" "Eristalis spp." "Eucera spp." "Lasioglossum spp." "Thymelicus spp." "Vanessa cardui"
+"BEMA" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHFU" 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"LEMA" 1 1 1 1 0 1 0 0 1 0 1 0 1 0 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0
+"MESP" 0 1 1 0 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 0
+"PUPA" 0 0 1 1 0 1 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 1 1 1 1 1 1
+"SCLA" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
