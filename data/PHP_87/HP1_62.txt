@@ -1,0 +1,10 @@
+"plant sp.78" "plant sp.26" "plant sp.14" "plant sp.44" "plant sp.99" "plant sp.100" "plant sp.101" "plant sp.81" "plant sp.7" "plant sp.38" "plant sp.61" "plant sp.68" "plant sp.69" "plant sp.95"
+"aphid sp.1" 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"aphid sp.4" 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"aphid sp.5" 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"aphid sp.7" 0 0 0 1 1 1 1 0 0 0 0 0 0 0
+"aphid sp.13" 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"aphid sp.15" 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+"aphid sp.22" 0 0 0 0 0 0 0 0 0 1 1 1 1 0
+"aphid sp.27" 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"aphid sp.28" 0 0 1 0 0 0 0 0 0 0 0 0 0 0
