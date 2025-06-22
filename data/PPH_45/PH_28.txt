@@ -1,0 +1,11 @@
+"Bucculatrix maritima" "Calycomyza humeralis" "Hemiptera nymph (?Orius)" "Orius laevigatus" "Terellia ruficauda" "Hymenoptera-parasitica" "Dilophus febrilis(Herbivore)" "Orius majusculus" "Ectopsocus briggsi" "Ophiomyia cunctata" "Aulagromyza spp." "Aulagromyza hendeliana" "Chromatomyia periclymeni" "Chromatomyia lonicerae" "Chromatomyia aprilina" "Aulagromyza cornigera" "Phyllonorycter trifasciella" "Ischnopterapion loti" "Phytomyza plantaginis" "Stigmella aurella" "Stigmella splendidissimela" "Stigmella auromarginella" "Metallus alabipes" "Metallus pumilus" "Emmetia marginea" "Metallus albipes" "Coptotriche heinemanni" "Paragus haemorrhous" "Olibrus affinis" "Acidia cognata" "Apteropdea orbiculata" "Jassargus pseudocellaris"
+"Aster tripolium" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cirsium arvense" 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Hypochaeris radicata" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Lonicera periclymenum" 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Lotus corniculatus" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Plantago lanceolata" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Rubus fruticosus" 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0
+"Senecio jacobaea" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"Teucrium scorodonia" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Trifolium repens" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
