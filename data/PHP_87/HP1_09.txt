@@ -1,0 +1,16 @@
+"Cirsium palustre" "Urtica dioica" "Senecio jacobaea" "Lotus uliginosus" "Cytisus scoparius" "Rubus sp." "Rumex obtusifolius" "Rumex crispus" "Arrhenatherum elatius" "Dactylis glomerata" "Holcus lanatus" "Holcus mollis" "Poa trivialis" "Poa pratensis" "Anthoxanthum odoratum" "Agrostis stolonifera" "Deschampsia cespitosa" "Lathyrus pratensis" "Epilobium ciliatum" "Epilobium montanum" "Pteridium aquilinum" "Glechoma hederacea"
+"Capitophorus carduinis" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Brachycaudus sp.A" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Acyrthosiphon pisum" 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Macrosiphum funestum" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Amphorophora rubi" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis ruborum" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis rumicis" 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Metopolophium albidum" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Sitobion fragariae" 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0
+"Sitobion avenae" 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0
+"Megoura viciae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Aphis epilobii" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+"Sitobion ptericolens" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Ovatus glechomae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
