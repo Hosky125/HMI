@@ -1,0 +1,6 @@
+"Magnolia kobus" "Magnolia obovata" "Quercus crispula"
+"Caloptilia sp.2" 1 0 0
+"Gibbovalva kobusi" 1 0 0
+"Gibbovalva magnoliae" 0 1 0
+"Phyllonorycter bicinctella" 0 0 1
+"Phyllonorycter acutissimae" 0 0 1
