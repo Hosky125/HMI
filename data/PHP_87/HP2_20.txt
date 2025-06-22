@@ -1,0 +1,18 @@
+"Ephedrus persicae" "Ephedrus plagiator" "Lysiphlebus confuses" "Binodoxys angelicae" "Lysiphlebus sp." "Aphelinus abdominalis" "Aphidius colemani" "Falciconus pseudoplatanii" "Praon abjectum" "Praon volucre" "Aphidius rosae" "Aphidius setiger" "Trioxys falcatus" "Trioxys pallidus" "Aphidius cingulatus" "Praon flavinode"
+"Aphis fabae" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis farinosa" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis sambuci" 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Brachycaudus helichrysi" 1 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0
+"Cavariella pastinacae" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Drepanosiphum platanoides" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Hyalopterus pruni" 1 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0
+"Macrosiphum rosae" 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+"Periphyllus acericola" 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0
+"Periphyllus hirticornis" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Periphyllus testudinaceus" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Phorodon humuli" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Pterocallis alni" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"Pterocomma populeum" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Pterocomma salicis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Rhopalosiphum padi" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Tuberculatus annulatus" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1
