@@ -1,0 +1,28 @@
+"Anthriscus sylvestris" "Heracleum sphondylium" "Trifolium spp." "Urtica dioica" "Valeriana officinalis" "Veronica serpyllifolia" "Grass unknown" "Hordeum vulgare" "Triticum sp." "Secale cereale" "Avena spp." "Crataegus monogyna" "Corylus avellana" "Ranunculus repens" "Ranunculus ficaria" "Glechoma hederacea" "Brassica juncea" "Brassica sp." "Stachys sylvatica" "Galeopsis tetrahit" "Rosa sp."
+"Agonopterix heracliana" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Agromyza nana" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Anthophila fabriciana" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia horticola" 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Coleophora sp." 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Coleophora spinella" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Parornix anglicella" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Parornix devoniella" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Phyllonorycter corylifoliella" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Phytomyza ranunculi" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+"Phytomyza sp." 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phytomyza spondylii" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Plutella xylostella" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Scaptomyza flava" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Stigmella microtheriella" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Stigmella spp." 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+"ukD23" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"ukD26" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"ukD3" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"ukD38" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"ukD44" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"ukL10" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"ukL202" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"ukL232" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
