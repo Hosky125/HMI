@@ -1,0 +1,12 @@
+"Aphidius ervi" "Aphidius urticae" "Praon volucre" "Aphelinus abdominalis" "Binodoxys angelicae" "Ephedrus persicae" "Ephedrus plagiator" "Praon abjectum" "Aphidius ribis" "Diaeretiella rapae" "Lipolexis gracilis" "Aphelinus mali" "Aphidius matricariae"
+"Acyrthosiphon malvae" 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Amphoraphora idaei" 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Aphis fabae" 0 0 0 1 1 1 1 1 0 0 0 0 0
+"Aphis pomi" 0 0 0 0 0 1 1 0 0 0 0 0 0
+"Brachycaudus helichrysi" 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Cryptomyzus ribis" 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Dysaphis plantaginea" 1 0 0 0 1 1 1 1 0 1 1 0 0
+"Eriosoma lanigerum" 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Hyalopterus pruni" 0 0 1 0 0 1 1 1 0 0 0 0 0
+"Macrosiphum euphorbiae" 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Myzus cerasi" 0 0 0 0 1 1 0 0 0 0 0 0 1
