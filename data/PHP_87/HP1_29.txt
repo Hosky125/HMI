@@ -1,0 +1,10 @@
+"Fuchsia excorticata" "Blechnum fraseri" "Myrsine australis" "Laurelia novae-zelandiae" "Brachyglottis repandra" "Plagianthus regius" "Hedycarya arborea" "Aristotelia serrata" "Salix alba" "Macropiper excelsum" "Melicytus ramiflorus" "Beilschmiedia tawa" "Metrosideros umbellata" "plant sp.14" "Rubus cissoides" "Coprosma grandifolia" "Prumnopitys ferruginea" "Rubus fruticosus" "Parsonsia heterophylla" "Carpodetus serratus" "Schefflera digitata" "Genistoma rupestre" "Knightia excelsa" "Pennantia corymbosa" "Leptospermum scoparium" "Coprosma robusta" "Nestegis cunninghamii" "Pittosporum eugenioides" "Buddleia davidii" "Dacrycarpus dacrydioides" "Lophomyrtus bullata" "Ascarina lucida" "Pinus radiata" "Prumnopitys taxifolia" "Ripogonum scandens"
+"Planotortrix octo" 1 1 1 1 1 1 1 1 1 1 0 1 0 1 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1
+"Planotortrix excessana" 1 1 1 1 1 1 1 1 1 1 0 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 1
+"Ctenopseustis obliquana" 1 0 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0 0 0
+"Epalxiphora axenana" 1 0 1 1 0 0 1 1 0 1 1 0 0 1 0 0 0 0 0 0 1 1 1 0 0 0 0 0 1 0 0 0 0 0 0
+"Apoctena flavescens" 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Catamacta gavisana" 0 0 0 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 0 0 0 0 0 1 0 0 0
+"Planotortrix notophaea" 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+"Strepsicrates ejectana" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Eutoma phaulocosma" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
