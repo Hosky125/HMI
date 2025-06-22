@@ -1,0 +1,8 @@
+"Rubus fruticosus" "Rumex sp." "Senecio vulgaris" "Brassicaceae" "Chenopodim sp." "Urtica dioica" "Poa sp." "Poaceae" "triticale"
+"Amphorophora rubi" 1 0 0 0 0 0 0 0 0
+"Aphis fabae" 0 1 1 0 0 0 0 0 0
+"Aphis sp." 0 0 0 1 1 0 0 0 0
+"Brevicoryne brassicae" 0 0 0 1 0 0 0 0 0
+"Macrosiphum euphorbiae" 1 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 0 0 0 0 1 0 0 0
+"Sitobion avenae" 0 0 0 0 0 0 1 1 1
