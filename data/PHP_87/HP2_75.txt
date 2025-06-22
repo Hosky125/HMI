@@ -1,0 +1,18 @@
+"Chrysocharis orbicularis" "Diadegma sp. G" "Chorebus aphantus" "Chrysocharis pubicornis" "Dacnusa confinis" "Pediobius metallicus" "Dacnusa areolaris" "Meteorus colon" "Diglyphus isaea" "Leptacis sp." "Eulophus larvarum" "Cotesia sp." "Mesochorus sp." "Chorebus kama" "Dacnusa tarsalis" "Dacnusa macrospila" "Dacnusa maculipes" "Dacnusa sp." "Seladerma tarsale" "Hemiptarsenus unguicellus" "Miscogaster maculata" "Meteorus melanostictus" "Chrysocharis pallipes" "Dacnusa temula" "Diadegma stigmatellae" "Aleiodes sp." "Aleiodes similis" "Diadegma indet.sp."
+"Agromyza nana" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Anthophila fabriciana" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cerodontha pygmaea" 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia horticola" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Hypena proboscidalis" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza ? amoena" 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Orgyia antiqua" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Orthosia gothica" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Paraswammerdamia lutarea" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phytomyza ranunculi" 1 0 0 0 1 0 1 0 1 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+"Pleuroptya ruralis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Scaptomyza pallida" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+"ukD33" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"ukL204" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"ukL223" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"ukL25" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
