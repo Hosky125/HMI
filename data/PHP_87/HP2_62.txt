@@ -1,0 +1,10 @@
+"parasitoid sp.11" "parasitoid sp.2" "parasitoid sp.3" "parasitoid sp.4" "parasitoid sp.6" "parasitoid sp.7" "parasitoid sp.8" "parasitoid sp.9" "parasitoid sp.10" "parasitoid sp.1" "parasitoid sp.5"
+"aphid sp.1" 1 0 0 0 0 0 0 0 0 0 0
+"aphid sp.4" 0 1 1 1 0 0 0 0 0 0 0
+"aphid sp.5" 1 0 0 0 0 0 0 0 0 0 0
+"aphid sp.7" 1 1 0 0 1 1 1 1 1 0 0
+"aphid sp.13" 1 0 0 0 0 0 0 0 0 1 0
+"aphid sp.15" 1 0 0 0 0 0 0 0 0 0 0
+"aphid sp.22" 0 0 0 0 0 1 0 1 0 0 0
+"aphid sp.27" 0 0 0 0 0 0 0 0 0 0 1
+"aphid sp.28" 1 0 0 0 0 1 0 0 0 0 0
