@@ -1,0 +1,10 @@
+"Aiolopus strepens" "Cantharis coronata" "Malachius bipustulatus" "Theba pisana" "Lepidoptera caterpillar" "Tessellana tessellata" "Psilothrix viridicoerulea" "Aelia spp." "Mirini spp." "Brassicogethes spp." "Mordellidae" "Agriotes spp." "Aphis fabae" "Gryllus bimaculatus" "Lagorina sericea" "Lasiocampa trifolii caterpillar" "Oedemeridae" "Cryptocephalus spp." "Scyphophorus spp." "Cochlicella barbara" "Conocephalus dorsalis" "Thysanoptera"
+"BEMA" 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CETE" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHFU" 0 0 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"CHMI" 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"LEMA" 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0
+"MESP" 1 0 0 1 1 0 1 1 0 0 0 0 0 0 0 1 0 0 1 1 0 0
+"PUPA" 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"RAPE" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"SPRU" 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
