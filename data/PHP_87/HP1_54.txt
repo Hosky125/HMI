@@ -1,0 +1,16 @@
+"Poa sp." "Pea" "Gallium sp." "Heracleum sphondylium" "Rumex sp." "Senecio vulgaris" "Brassicaceae" "Chenopodim sp." "Urtica dioica" "Rape" "Rubus fruticosus" "Cirsium arvense" "Chenopodium sp." "Quercus sp." "Castanea sativa" "Fraxinus ormus" "Poaceae" "triticale" "Leucanthemum vulgare" "Sonchus sp."
+"Acyrthosiphom pisum" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis fabae" 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis sp." 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis urticata" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Brevicoryne brassicae" 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Cavariella theobaldi" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cryptomyzus ribis" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Hyperomyzus lactucae" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Macrosiphum euphorbiae" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Macrosiphum rosae" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Myzocallis coryllii" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Myzocallis sp." 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+"Sitobion avenae" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+"Uroleucon sp." 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1
