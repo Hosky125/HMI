@@ -1,0 +1,10 @@
+"Aphidius sp." "Trioxys sp." "Binodoxys indicus" "Binodoxys anglicae" "Diaretiella rapae" "Aphidius ribis" "Aphidius colemani" "Aphidius absenti" "Aphidius rosae" "Aphidius urticae" "Aphidius smithi"
+"Aphis fabae" 1 1 1 1 0 0 0 0 0 0 0
+"Aphis gossypii" 1 1 0 0 0 0 0 0 0 0 0
+"Brevicoryne brassicae" 0 0 0 0 1 1 0 0 0 0 0
+"Myzus persicae" 1 0 0 1 1 0 0 0 0 0 0
+"Schizaphis graminum" 0 0 0 0 1 0 1 0 0 0 0
+"Rhopalosiphum padi" 0 0 0 0 0 0 1 0 0 0 0
+"Aphis craccivora" 1 1 0 0 0 0 0 1 0 0 0
+"Lipaphis erysimi" 1 1 0 0 0 0 0 0 1 0 0
+"Acrythosiphon pisum" 0 0 0 0 0 0 0 0 0 1 1
