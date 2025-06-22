@@ -1,0 +1,30 @@
+"Torymus sp." "Eurytoma sp." "Unidentifed sp.1" "Torymoides sp." "Rileya sp." "Pteromalinae sp.1" "Eupelmus sp." "Tetrastichinae" "Platygastridae sp.1" "Bracon sp." "Eulophinae"
+"Cecidomyiidae sp.1" 1 0 0 0 0 0 0 0 0 0 0
+"Psylloidea sp.1" 0 1 0 0 0 0 0 0 0 0 0
+"Psylloidea sp.2" 0 1 0 0 0 0 0 0 0 0 0
+"Cecidomyiidae sp.2" 0 0 1 0 0 0 0 0 0 0 0
+"Cecidomyiidae sp.3" 0 0 1 0 0 0 0 0 0 0 0
+"Neolasioptera sp." 0 0 0 1 0 0 0 0 0 0 0
+"Cecidomyiidae sp.4" 1 0 0 0 0 0 0 0 0 0 0
+"Cecidomyiidae sp.5" 1 0 0 0 0 0 0 0 0 0 0
+"Cecidomyiidae sp.6" 1 0 0 0 1 0 0 0 0 0 0
+"Aspondylia sp." 0 0 0 1 0 1 0 0 0 0 0
+"Cecidomyiidae sp.7" 0 0 0 1 0 0 0 0 0 0 0
+"Cecidomyiidae sp.8" 0 0 0 0 0 0 1 1 1 0 0
+"Cecidomyiidae sp.9" 0 0 0 0 0 0 0 0 0 1 0
+"Cecidomyiidae sp.10" 0 1 0 0 0 0 0 0 0 0 0
+"Euphalerus sp.1" 1 0 0 0 0 0 0 0 0 0 0
+"Euphalerus sp.2" 1 0 0 0 0 1 0 0 0 0 0
+"Tanaostigma sp." 0 0 0 0 0 0 0 1 0 0 0
+"Trioza rusellae" 0 0 0 0 0 0 0 1 1 0 0
+"Cecidomyiidae sp.11" 1 0 0 0 0 0 0 0 0 0 0
+"UnidentiÞed" 0 0 0 0 0 0 0 1 0 0 0
+"Ctenodactylomyia sp." 0 0 0 0 0 0 0 0 0 0 1
+"Tetrastichinae sp.12" 0 0 0 0 0 0 1 0 0 0 0
+"Bruggmannia randiae" 1 0 0 0 0 0 0 0 0 0 0
+"Tetrastichinae sp.13" 1 0 0 0 0 0 0 0 0 0 0
+"Tetrastichinae sp.14" 1 0 0 0 0 0 0 0 0 0 0
+"Neolasioptera heliocarpi" 0 1 0 0 1 0 0 0 0 0 0
+"Cecidomyiidae sp.15" 0 0 0 0 0 0 0 0 1 0 0
+"Pseudomikiola lippiae" 0 0 0 1 0 0 0 0 0 0 0
+"Cecidomyiidae sp.16" 0 0 0 0 0 1 0 1 1 0 0
