@@ -1,0 +1,21 @@
+"Grass unknown" "Holcus lanatus" "Triticum sp." "Hordeum vulgare" "Prunus spinosa" "Urtica dioica" "Rubus fruticosus" "Corylus avellana" "Crataegus monogyna" "Anthriscus sylvestris" "Ranunculus ficaria" "Ranunculus repens" "Ranunculus acris" "Cornus sanguinea" "Cirsium arvense" "Sonchus asper" "Zea mays" "Glechoma hederacea" "Ulmus procera"
+"Chromatomyia milii" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Epiphyas postvittana" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Hypena proboscidalis" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Operophtera brumata" 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter coryli" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Phytomyza chaerophylii" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Phytomyza ranunculi" 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+"Phytomyza ranunculivora" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Phytomyza sp." 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Phytomyza spinaciae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Pleuroptya ruralis" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"ukD11" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"ukD24" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"ukL203" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"ukL209" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"ukL62" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1
+"ukL86" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"ukL94" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
