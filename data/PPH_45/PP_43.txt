@@ -1,0 +1,6 @@
+"Botanophila seneciella" "Dilophus febrilis" "Athalia rosae" "Sarcophaga nigriventris" "Rhinophora lepida" "Philanthus triangulum" "Solieria spp." "Rhagonycha fulva" "Oscinella frit" "Hydrellia griseola" "M43" "Endromopoda detrita" "Sepsis cynipsea" "Bombus lapidarius" "Campopleginae" "Bombus terrestris" "M30" "Zygaena filipendulae" "Maniola jurtina" "Bombus lucorum" "Apis mellifera" "Scathophaga stercoraria" "Anaspis frontalis" "Bombus humilis" "Bombus pratorum" "Helina spp." "Rhamphomyia varibilis"
+"Cirsium arvense" 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Lonicera periclymenum" 0 1 0 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Lotus corniculatus" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Rubus fruticosus" 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 0 0
+"Teucrium scorodonia" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1
