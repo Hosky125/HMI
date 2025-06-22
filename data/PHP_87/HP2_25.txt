@@ -1,0 +1,13 @@
+"Achrysocharoides zwoelferi" "Apanteles circumscriptus" "Sympiesis sericeicornis" "Minotetrastichus ecus" "Holcothorax testaceipes" "Chrysocharis laomedon" "Sympiesis gordius" "Pediobius alcoeus" "Pnigalio pectinicornis" "Colastes braconius" "Achrysocharoides latreillii" "Apanteles sp. sensu lato" "Cirrospilus diallus" "Achrysocharoides niveipes" "Achrysocharoides splendens" "Holocothorax nepticulae" "Hormiinae sp." "Sympiesis grahami" "Pediobius saulius"
+"Phyllonorycter salicicolella" 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter dubitella" 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Phyllonorycter harrisella" 0 0 0 0 0 1 0 1 0 1 1 1 0 0 0 0 0 0 0
+"Phyllonorycter heegeriella" 0 0 0 0 0 1 1 0 0 1 1 0 1 0 0 0 0 0 0
+"Phyllonorycter lautella" 0 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 0 0
+"Phyllonorycter quercifoliella" 0 0 0 0 0 1 1 1 0 1 1 0 0 0 0 0 0 0 0
+"Phyllonorycter ulmifoliella" 0 0 0 0 0 1 1 1 0 1 0 1 0 1 0 0 0 0 0
+"Phyllonorycter cavella" 0 0 1 0 0 1 1 1 0 1 0 1 0 1 0 0 0 0 0
+"Phyllonorycter froelichiella" 0 0 0 0 0 1 1 1 0 0 0 1 0 0 1 0 0 0 0
+"Phyllonorycter kleemanella" 0 0 0 0 0 0 1 1 0 1 0 1 0 0 1 1 0 0 0
+"Phyllonorycter rajella" 0 0 0 0 0 1 1 1 0 1 0 1 0 0 1 1 1 1 0
+"Phyllonorycter stettinensis" 0 0 0 0 0 1 1 1 0 1 0 1 0 0 1 0 0 1 1
