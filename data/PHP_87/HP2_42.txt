@@ -1,0 +1,8 @@
+"Asecodes mento" "Cotesia errator" "Hyposoter didymator" "Meteorus colon"
+"Lochmaea suturalis " 1 0 0 0
+"Eupithecia nanata" 0 1 0 0
+"Pachycnemia hippocastanaria" 0 0 1 0
+"Anarta myrtilli" 0 0 0 1
+"Xestia agathina" 0 0 1 1
+"Lochmaea suturalis" 1 0 0 0
+"Anarta myrtilli " 0 0 0 1
