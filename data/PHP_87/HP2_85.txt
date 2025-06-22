@@ -1,0 +1,21 @@
+"Diglyphus isaea" "Chrysocharis pallipes" "Chorebus aphantus" "Dacnusa macrospila" "Dacnusa maculipes" "Dacnusa confinis" "Seladerma tarsale" "Dacnusa sp." "Dacnusa tarsalis" "Chrysocharis viridis" "Dacnusa areolaris" "Heterolexis balteata" "Pediobius metallicus" "Glypta sp. B" "Phytodietus sp." "Meteorus colon" "Protapanteles anchisiades" "Phryxe nemea" "Pediobius saulius" "Achrysocharoides atys" "Miscogaster maculata" "Grammospila rufiventris" "Hemiptarsenus unguicellus" "Hemiptarsenus ornatus" "Phaedrotoma reptantis" "Pnigalio soemius" "Miscogaster rufipes" "Seladerma diffine" "Diadegma sp. G" "Macrocentrus cingulum" "Chrysocharis pubicornis" "Chrysocharis sp." "Diadegma indet.sp." "Microgaster subcompleta" "Meteorus melanostictus" "Carcelia tibialis"
+"Chromatomyia milii" 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 0 0 0 0 1 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Epiphyas postvittana" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Hypena proboscidalis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Operophtera brumata" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter coryli" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phytomyza chaerophylii" 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phytomyza ranunculi" 1 0 0 1 1 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phytomyza ranunculivora" 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Phytomyza sp." 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Phytomyza spinaciae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Pleuroptya ruralis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+"ukD11" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+"ukD24" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"ukL203" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"ukL209" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+"ukL62" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"ukL86" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"ukL94" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
