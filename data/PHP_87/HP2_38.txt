@@ -1,0 +1,5 @@
+"hypoaspis spp." "kuzinia spp." "parasitellus fucorum" "Crithidia bombi" "Conopidae sp."
+"Bombus jonellus" 1 1 1 1 0
+"Bombus lucorum" 1 1 1 1 0
+"Bombus pascuorum" 1 1 1 0 0
+"Bombus terrestris" 1 1 1 1 1
