@@ -1,0 +1,12 @@
+"Holcus lanatus" "Veronica salicifolia" "Senecio biserratus" "Senecio glomeratus subsp. glomeratus" "Chrysanthemum leucanthemum" "Cirsium arvense"
+"Cerodontha angustipennis" 1 0 0 0 0 0
+"Liriomyza flavocentralis" 0 1 0 0 0 0
+"Stigmella ogygia" 0 0 1 1 0 0
+"SPNZCOL4" 0 0 0 0 1 0
+"SPNZCOL6" 0 0 0 0 1 1
+"SPNZCOL2" 0 0 0 0 1 1
+"SPNZCOL1" 0 0 0 0 1 1
+"SPNZCOL5" 0 0 0 0 1 1
+"SPNZD7" 0 0 0 0 1 0
+"SPNZCOL3" 0 0 0 0 1 1
+"SPNZD5" 0 0 0 0 1 0
