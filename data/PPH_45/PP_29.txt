@@ -1,0 +1,7 @@
+"Bombus terrestris" "Tephritis fascigera" "Psilopa metallica" "Dasytinae  sp.1" "NZPD15" "Dolichopodid sp." "Empididae sp." "Apis mellifera" "NZPD3" "Tachysphex sp." "Spilogona  sp.1" "Occisorini sp." "Hilara sp." "Dilophus sp.2" "Eutiminae sp." "Lassioglossum sp." "Limnohelina sp. 3" "Coenosiinae sp. 2" "Dilophus sp.1" "Endromopoda sp." "Tachinidae sp." "Syrphinae  sp.1" "Hylaeus sp." "Cerodontha denticornis"
+"Centaurium erythraea" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cirsium arvense" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Hypochaeris radicata" 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Lupinus arboreus" 1 0 0 0 0 1 0 1 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0
+"Senecio biserratus" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0
+"Veronica salicifolia" 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
