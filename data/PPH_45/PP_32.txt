@@ -1,0 +1,6 @@
+"Dilophus spp." "Eupeodes corollae" "Musca spp." "Sarcophaga spp." "Scaeva spp." "Ulidiidae" "Calliphoridae" "Nemotelus spp." "Anastoechus spp." "Andrena cinerea" "Andrena spp." "Bombylius major" "Chrysotoxum spp." "Geometridae" "Lasioglossum malachurum" "Pangonius spp." "Sphaerophoria scripta" "Vanessa cardui" "Colias croceus" "Pieris brassicae"
+"CHFU" 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHMI" 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"LEMA" 1 1 1 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0
+"MESP" 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"PUPA" 0 0 0 0 0 0 0 0 1 0 1 1 0 0 1 1 0 0 0 1
