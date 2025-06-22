@@ -1,0 +1,8 @@
+"Hymenoptera-parasitica" "Dilophus febrilis herbivory" "Ophiomyia cunctata" "Chromatomyia periclymeni" "Aulagromyza spp." "Ischnopterapion loti" "Phytomyza plantaginis" "Stigmella splendidissimela" "Stigmella aurella" "Olibrus affinis herbivory" "Orius laevigatus" "Jassargus pseudocellaris"
+"Cirsium arvense" 1 1 0 0 0 0 0 0 0 0 0 0
+"Hypochaeris radicata" 0 0 1 0 0 0 0 0 0 0 0 0
+"Lonicera periclymenum" 0 0 0 1 1 0 0 0 0 0 0 0
+"Lotus corniculatus" 0 0 0 0 0 1 0 0 0 0 0 0
+"Plantago lanceolata" 0 0 0 0 0 0 1 0 0 0 0 0
+"Rubus fruticosus" 0 0 0 0 0 0 0 1 1 1 1 0
+"Trifolium repens" 0 0 0 0 0 0 0 0 0 0 0 1
