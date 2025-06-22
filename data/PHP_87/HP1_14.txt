@@ -1,0 +1,20 @@
+"Cirsium palustre" "Cirsium arvense" "Urtica dioica" "Lotus uliginosus" "Lathyrus pratensis" "Cytisus scoparius" "Rubus fruticosus" "Rumex obtusifolius" "Rumex crispus+hybrids" "Arrhenatherum elatius" "Agrostis spp." "Anthoxanthum odouratum" "Dactylus glomerata" "Deschampsia cespitosa" "Holcus lanatus" "Holcus mollis" "Poa spp." "Pteridium aquilinum" "Senecio jacobea" "Arrhenatherum elatius (vegetative stage)" "Galium aparine" "Glechoma hederacea" "Ranunculus repens" "Veronica chamaedrys" "Angelica sylvestris"
+"Capitophorus carduinus" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Uroleucon cirsii" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis urticata" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Acyrthosiphon pisum" 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Macrosiphum funestum" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Amphorophora rubi" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis rumicis" 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Metopolophium albidum" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Sitobion avenae" 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+"Sitobion fragariae" 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+"Megoura viciae" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Sitobion ptericolens" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Aphis jacobaeae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Megourella purpurea" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Metopolophium dirhodeum" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0
+"Diuraphis holci" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Myzus sp." 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0
+"Cavariella angelica" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
