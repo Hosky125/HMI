@@ -1,0 +1,3 @@
+"Mirini spp." "Brassicogethes spp." "Meligethes spp." "Agriotes spp." "Malachius bipustulatus" "Mordellidae" "Psilothrix viridicoerulea" "Tessellana tessellata" "Theba pisana" "Thysanoptera" "Aiolopus strepens" "Cantharis coronata" "Cochlicella barbara" "Cryptocephalus spp." "Lepidoptera caterpillar"
+"CHFU" 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"LEMA" 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1
