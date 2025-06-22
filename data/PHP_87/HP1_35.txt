@@ -1,0 +1,10 @@
+"Acer mono" "Acer palmatum" "Carpinus cordata" "Quercus crispula" "Tilia japonica"
+"Phyllonorycter jezoniella" 1 0 0 0 0
+"Phyllonorycter orientalis" 0 1 0 0 0
+"Phyllonorycter sp. 2" 0 0 1 0 0
+"Phyllonorycter turugisana" 0 0 1 0 0
+"Phyllonorycter sp.1" 0 0 1 0 0
+"Phyllonorycter bicinctella" 0 0 0 1 0
+"Caloptilia sp.3" 0 0 0 1 0
+"Phyllonorycter acutissimae" 0 0 0 1 0
+"Phyllonorycter issikii" 0 0 0 0 1
