@@ -1,0 +1,22 @@
+"Passaloecus sp." "Passaloecus insignis" "Psenulus fuscipennis" "Pemphredon lugens" "Passaloecus corniger" "Psenulus pallipes"
+"Macrosiphoniella tapuskae" 1 0 0 0 0 0
+"Impatientinum asiaticum" 1 0 0 0 0 0
+"Periphyllus hirticornis" 0 1 0 0 0 0
+"Periphyllus testudinaceus" 0 1 1 0 0 0
+"Microlophium carnosum" 0 1 0 0 0 0
+"Lachnus roboris" 0 0 0 1 0 0
+"Cinara cedri" 0 0 1 1 0 0
+"Cinara curvipes" 0 0 1 0 0 0
+"Cinara sp." 0 0 1 0 0 0
+"Aphis fabae" 0 0 1 0 0 0
+"Panaphis juglandis" 0 0 1 0 0 0
+"Chaitophorus populeti" 0 0 1 0 0 0
+"Chaitophorus sp." 0 0 1 0 0 0
+"Metopeurum fuscoviride" 0 0 1 0 0 0
+"Cinara pinea" 0 0 1 0 0 0
+"Cinara pini" 0 0 0 0 1 0
+"Maculolachnus submacula" 0 0 1 0 1 0
+"Baeopelma foersteri" 0 0 0 0 1 0
+"Euceraphis betulae" 0 0 0 0 1 0
+"Aphis sambuci" 0 0 0 0 1 0
+"Eucallipterus tiliae" 0 0 0 0 0 1
