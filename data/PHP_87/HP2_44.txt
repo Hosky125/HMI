@@ -1,0 +1,8 @@
+"Asecodes mento" "Campylocheta inepta" "Meteorus colon" "Meteorus versicolor" "Meteorus pulchricornis"
+"Lochmaea suturalis" 1 0 0 0 0
+"Neofaculta ericetella" 0 1 0 0 0
+"Eupithecia nanata" 0 1 0 0 0
+"Pachycnemia hippocastanaria" 0 0 1 1 0
+"Anarta myrtilli" 0 1 1 1 1
+"Xestia agathina" 0 1 1 1 1
+"Ematurga atomaria" 0 1 0 1 0
