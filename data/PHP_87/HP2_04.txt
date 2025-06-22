@@ -1,0 +1,11 @@
+"Aphidus B" "Aphidius urticae" "Aphidius microlophii" "Aphidius picipes" "Praon dorsale" "Aphidius eadyi" "Aphidius ervi" "Aphelinus abdominalis" "Praon volucre" "Aphidius rubi" "Binodoxys acalephae" "Lysiphlebus fabarum" "Aphidius rhopalosiphi" "Ephedrus plagiator"
+"Capitophorus carduinis" 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 1 1 1 1 0 0 0 0 0 0 0 0 0
+"Acyrthosiphon pisum" 0 0 0 0 1 1 1 1 1 0 0 0 0 0
+"Macrosiphum funestum" 0 0 0 0 1 0 0 0 0 1 0 0 0 0
+"Amphorophora rubi" 0 0 0 0 1 0 0 1 0 1 0 0 0 0
+"Aphis ruborum" 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+"Sitobion fragariae" 0 0 0 1 1 0 1 1 1 0 0 0 1 1
+"Sitobion avenae" 0 0 0 1 1 0 1 1 1 0 0 0 1 1
+"Megoura viciae" 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Sitobion ptericolens" 0 0 0 0 1 0 0 0 0 0 0 0 0 0
