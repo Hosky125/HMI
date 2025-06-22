@@ -1,0 +1,10 @@
+"Heracleum sphondylium" "Brassicaceae" "Cirsium arvense" "Rumex sp." "Senecio vulgaris" "Chenopodim sp." "Urtica dioica" "Carpinus sp." "Quercus sp." "Salix sp." "Coryllus avellana" "Castanea sativa" "Fraxinus ormus" "Dactylis glomerata" "Lolium sp." "Poa sp." "Poaceae" "triticale" "wheat" "Leucanthemum vulgare" "Sonchus sp."
+"Aphis fabae" 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis sp." 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis urticata" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Myzocallis carpini" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Myzocallis castanicola" 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Myzocallis coryllii" 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0
+"Myzocallis sp." 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+"Sitobion avenae" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0
+"Uroleucon sp." 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
