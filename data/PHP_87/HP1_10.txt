@@ -1,0 +1,15 @@
+"Brachypodium sylvaticum" "Dactylis glomerata" "Phalaris arundinacea" "Calamagrostis epigejos" "Calamagrostis canescens" "Elymus repens" "Agrostis capillaris" "Corynephorus canescens" "Holcus lanatus" "Phragmites australis"
+"Tetramesa fulvicollis" 1 0 0 0 0 0 0 0 0 0
+"Tetramesa longula" 0 1 0 0 0 0 0 0 0 0
+"Tetramesa longicornis" 0 0 1 0 0 0 0 0 0 0
+"Tetramesa calamagrostidis" 0 0 1 1 1 0 0 0 0 0
+"Tetramesa eximia" 0 0 0 1 0 0 0 0 0 0
+"Eurytoma sp." 0 0 0 1 0 0 0 0 0 0
+"Tetramesa sp.1" 0 0 0 0 1 0 0 0 0 0
+"Tetramesa linearis" 0 0 0 0 0 1 0 0 0 0
+"Tetramesa hyalipennis" 0 0 0 0 0 1 0 0 0 0
+"Tetramesa sp.3" 0 0 0 0 0 1 0 0 0 0
+"Tetramesa agrostidis" 0 0 0 0 0 0 1 0 0 0
+"Tetramesa schmidti" 0 0 0 0 0 0 0 1 0 0
+"Tetramesa sp." 0 0 0 0 0 0 0 0 1 0
+"Tetramesa phragmitis" 0 0 0 0 0 0 0 0 0 1
