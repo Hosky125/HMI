@@ -1,0 +1,17 @@
+"Urtica dioica" "Grass unknown" "Holcus lanatus" "Triticum sp." "Ranunculus acris" "Hordeum vulgare" "Trifolium spp." "Crataegus monogyna" "Quercus robur" "Ranunculus sp." "Ranunculus ficaria" "Ranunculus repens" "Anthriscus sylvestris" "Prunus spinosa" "Taraxacum spp."
+"Aglais urticae" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Anthophila fabriciana" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0
+"Liriomyza congesta" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Phyllonorycter corylifoliella" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Phyllonorycter quercifoliella" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Phyllonorycter spp." 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+"Phytomyza ranunculi" 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0
+"Phytomyza sp." 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0
+"Pleuroptya ruralis" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Stigmella plagicolella" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Stigmella spp." 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"ukD12" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"ukL201" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
