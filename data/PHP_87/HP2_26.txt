@@ -1,0 +1,11 @@
+"Campopleginae sp." "Achrysocharoides zwoelferi" "Apanteles circumscriptus" "Sympiesis sericeicornis" "Chrysocharis nephereus" "Cirrospilus lyncus" "Chrysocharis laomedon" "Sympiesis gordius" "Pediobius alcoeus" "Pediobius saulius" "Achrysocharoides latreillii" "Minotetrastichus ecus" "Holcothorax testaceipes" "Cirrospilus diallus" "Colastes braconius" "Achrysocharoides niveipes" "Apanteles sp. sensu lato" "Holocothorax nepticulae" "Achrysocharoides splendens" "Pnigalio pectinicornis" "Pnigalio soemius" "Elachertus inunctus" "Sympiesis grahami"
+"Phyllonorycter salicicolella" 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter dubitella" 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter harrisella" 0 0 0 0 0 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0
+"Phyllonorycter heegeriella" 0 0 0 1 0 1 1 1 1 0 1 1 0 1 1 0 0 0 0 0 0 0 0
+"Phyllonorycter lautella" 0 0 0 1 0 0 1 1 1 0 1 1 0 1 0 0 0 0 0 0 0 0 0
+"Phyllonorycter quercifoliella" 0 0 0 0 0 1 0 1 1 0 1 1 1 1 0 1 0 0 0 0 0 0 0
+"Phyllonorycter ulmifoliella" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+"Phyllonorycter kleemanella" 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 1 1 1 0 0 0
+"Phyllonorycter rajella" 0 0 0 0 0 1 1 1 1 1 0 0 0 1 1 0 0 1 1 0 0 0 0
+"Phyllonorycter stettinensis" 0 0 0 1 0 0 1 1 1 1 0 0 0 0 1 0 1 0 1 1 1 1 1
