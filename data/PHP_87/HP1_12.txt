@@ -1,0 +1,10 @@
+"Cirsium palustre" "Urtica dioica" "Senecio jacobea" "Lotus uliginosus" "Lathyrus pratensis" "Cytisus scoparius" "Rubus fruticosus" "Agrostis spp." "Anthoxanthum odouratum" "Arrhenatherum elatius" "Dactylus glomerata" "Deschampsia cespitosa" "Holcus lanatus" "Holcus mollis" "Poa spp." "Epilobium spp."
+"Capitophorus carduinus" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Brachycaudus cardui" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Acyrthosiphon pisum" 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Macrosiphum funestum" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Amphorophora rubi" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Sitobion avenae" 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0
+"Sitobion fragariae" 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0
+"Aphis spp. on Epilobium" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
