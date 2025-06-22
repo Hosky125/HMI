@@ -1,0 +1,6 @@
+"Diptera sp." "Halictidae sp." "Lycaena phlaeas" "Andrenidae sp." "Pseudozizeeria maha" "Eristalis tenax" "Apoidea sp." "Sphaerophoria macrogaster" "Diptera sp.1" "Xylocopa appendiculata" "Stomorhina obsoleta" "Phytomia zonata" "Melanostoma orientale" "Episyrphus balteatus" "Tachinidae sp." "Eurema mandarina" "Cephonodes hylas"
+"Kummerowia striata" 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Lactuca indica" 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+"Persicaria hydropiper" 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0
+"Solidago altissima" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"Vigna angularis var. nipponensis" 0 0 1 0 0 0 0 1 0 0 1 1 0 0 1 1 1
