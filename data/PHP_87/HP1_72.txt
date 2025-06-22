@@ -1,0 +1,21 @@
+"Fraxinus excelsior" "Rumex spp." "Urtica dioica" "Kickxia spuria" "Galeopsis tetrahit" "Papaver rhoeas" "Grass unknown" "X Triticosecale" "Triticum sp." "Vicia faba" "Cirsium sp." "Fagus sylvatica" "Crataegus monogyna" "Ranunculus acris" "Ranunculus repens" "Cirsium vulgare" "Rubus fruticosus" "Sonchus asper" "Taraxacum spp." "Veronica serpyllifolia"
+"Caloptilia syringella" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Celypha lacunana" 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia horticola" 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Cnephasia asseclana" 0 0 1 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+"Liriomyza congesta" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Parornix fagivora" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Phytomyza ranunculi" 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+"Phytomyza sp." 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phytomyza spinaciae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Pleuroptya ruralis" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Stigmella aurella" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"ukD11" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"ukD12" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"ukD16" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"ukD23" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"ukL156" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"ukL209" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
