@@ -1,0 +1,9 @@
+"Cucullia kurilullia" "Eobiana engelhardti" "Pylargosceles steganioides steganioides" "Exomala orientalis" "Aphidoidea sp.1" "Uroleucon picridis" "Rhopalus maculatus" "Conocephalus chinensis" "Patanga japonica" "Lema coronata" "Atrachya menetriesi" "Aphis craccivora" "Monolepta dichroa" "Popillia japonica" "Pteronemobius ohmachii" "Nezara antennata" "Autographa gamma" "Halyomorpha halys" "Phaneroptera falcata"
+"Hemerocallis fulva var. kwanso" 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Lactuca indica" 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Solidago altissima" 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+"Persicaria hydropiper" 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0
+"Commelina communis" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Kummerowia striata" 0 0 0 1 0 0 0 0 0 0 1 0 1 1 1 0 0 0 0
+"Medicago lupulina" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 1 1
+"Vigna angularis var. nipponensis" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1
