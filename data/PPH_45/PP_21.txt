@@ -1,0 +1,9 @@
+"Eurema mandarina" "Syrphidae sp." "Sphaerophoria macrogaster" "Colias erate" "Lycaena phlaeas" "Melanostoma orientale" "Diptera sp." "Apoidea sp." "Andrenidae sp." "Episyrphus balteatus" "Pieris rapae" "Stomorhina obsoleta" "Sarcophagidae sp." "Phytomia zonata" "Eristalinus quinquestriatus" "Apoidea sp. 1" "Bombus sp." "Mesembrius flaviceps" "Halictidae sp." "Everes argiades" "Apis sp." "Scolia oculata" "Musca hervei " "Cynthia cardui" "Pseudozizeeria maha" "Melanostoma mellinum "
+"Conyza canadensis" 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Conyza sumatrensis" 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Ixeridium dentatum" 1 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Persicaria hydropiper" 0 1 1 0 0 0 0 0 0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+"Commelina communis" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Kummerowia striata" 0 0 1 1 1 1 1 1 1 0 1 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0
+"Veronica peregrina" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Pennisetum alopecuroides" 0 0 1 0 1 1 1 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
