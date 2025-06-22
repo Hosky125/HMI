@@ -1,0 +1,16 @@
+"Crataegus monogyna" "Zea mays" "Grass unknown" "Triticum sp." "Medicago sativa" "Prunus spinosa" "Prunus sp." "Rumex spp." "Corylus avellana" "Ranunculus repens" "Urtica dioica" "Trifolium spp." "Sambucus nigra"
+"Apocheima pilosaria" 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Cerodontha incisa" 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 0 1 1 0 0 0 0 0 0 0 0 0
+"Liriomyza congesta" 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Operophtera brumata" 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Pandemis spp." 1 0 0 0 0 1 1 0 0 0 0 0 0
+"Pegomya hyoscami" 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Phyllonorycter coryli" 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Phyllonorycter oxyacanthae" 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Phytomyza ranunculi" 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Pleuroptya ruralis" 0 0 0 0 0 0 0 0 0 0 1 0 0
+"Stigmella spp." 1 0 0 0 0 0 0 0 1 0 0 0 0
+"ukD39" 0 0 0 0 0 0 0 0 0 0 0 1 0
+"ukL201" 0 0 0 0 0 1 0 0 0 0 0 0 1
