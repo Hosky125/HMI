@@ -1,0 +1,14 @@
+"Aphidius eadyi" "Aphidius ervi" "Praon barbatum" "Praon volucre" "lysiphlebus sp." "Ephedrus hellini" "Praon sp.2" "Falciconus pseudoplatani" "Aphidius microlophii" "Ephedrus plagiator" "Trioxys pallidus" "Aphidius funebris" "Binodoxys centaurae"
+"Acyrthosiphom pisum" 1 1 1 1 0 0 0 0 0 0 0 0 0
+"Aphis fabae" 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Aphis ruborum" 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Aphis sp." 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Brachycaudus sp." 0 0 0 1 1 0 0 0 0 0 0 0 0
+"Cavariella pastinacae" 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Cavariella theobaldi" 0 0 0 0 0 1 1 0 0 0 0 0 0
+"Drepanosiphum platanoides" 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Drepanosiphum sp." 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Microlophium carnosum" 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Myzocallis coryllii" 0 0 0 0 0 0 0 0 0 1 1 0 0
+"Sitobion avenae" 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Uroleucon sp." 0 0 0 0 0 0 0 0 0 0 0 1 1
