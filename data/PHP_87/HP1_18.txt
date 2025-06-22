@@ -1,0 +1,11 @@
+"Salix sp." "Crataegus monogyna" "Malus domestica" "Sambucus nigra" "Prunus spinosa" "Myosotis arvensis" "Prunus domestica" "Senecio inaequidens" "Phalaris arundinacea," "Phragmites australis" "Phalaris arundinacea" "Rosa canina" "Rosa sp." "Acer pseudoplatanus" "Acer campestre" "Prunus padus" "Zea mays"
+"Aphis farinosa" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis pomi" 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis sambuci" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Brachycaudus helichrysi" 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0
+"Hyalopterus pruni" 0 0 0 0 1 0 1 0 1 1 1 0 0 0 0 0 0
+"Macrosiphum rosae" 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+"Periphyllus acericola" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Periphyllus hirticornis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"Periphyllus testudinaceus" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"Rhopalosiphum padi" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
