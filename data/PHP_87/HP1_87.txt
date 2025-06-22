@@ -1,0 +1,17 @@
+"Trifolium spp." "Urtica dioica" "Triticum sp." "Grass unknown" "Sonchus oleraceus" "Corylus avellana" "Crataegus monogyna" "Prunus spinosa" "Ranunculus repens" "Ranunculus ficaria" "Zea mays" "Heracleum sphondylium"
+"Agromyza vicifoliae" 1 0 0 0 0 0 0 0 0 0 0 0
+"Celypha lacunana" 0 1 0 0 0 0 0 0 0 0 0 0
+"Cerodontha incisa" 0 0 1 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 0 0 1 0 0 0 0 0 0 0 0
+"Liriomyza sonchi" 0 0 0 0 1 0 0 0 0 0 0 0
+"Phyllonorycter coryli" 0 0 0 0 0 1 0 0 0 0 0 0
+"Phyllonorycter nicellii" 0 0 0 0 0 1 0 0 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 1 0 0 0 0 0
+"Phyllonorycter spinicolella" 0 0 0 0 0 0 0 1 0 0 0 0
+"Phyllonorycter spp." 0 0 0 0 0 0 1 0 0 0 0 0
+"Phytomyza ranunculi" 0 0 0 0 0 0 0 0 1 1 0 0
+"Phytomyza sp." 0 1 0 0 0 0 0 0 0 0 0 0
+"ukD24" 0 0 0 0 0 0 0 0 0 0 1 0
+"ukD39" 1 0 0 0 0 0 0 0 0 0 0 0
+"ukL128" 0 0 0 0 0 0 0 0 0 0 0 1
+"ukL204" 0 0 0 0 0 0 1 0 0 0 0 0
