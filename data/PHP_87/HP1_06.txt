@@ -1,0 +1,9 @@
+"Cirsium palustre" "Urtica dioica" "Senecio jacobaea" "Rubus sp." "Arrhenatherum elatius" "Dactylis glomerata" "Holcus lanatus" "Holcus mollis" "Poa trivialis" "Poa pratensis" "Anthoxanthum odoratum" "Agrostis stolonifera" "Deschampsia cespitosa" "Glechoma hederacea"
+"Capitophorus carduinis" 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Brachycaudus sp.A" 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Macrosiphum funestum" 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Metopolophium albidum" 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Sitobion fragariae" 0 0 0 1 0 1 1 1 1 1 1 1 1 0
+"Sitobion avenae" 0 0 0 0 0 1 1 1 1 1 1 1 1 0
+"Ovatus glechomae" 0 0 0 0 0 0 0 0 0 0 0 0 0 1
