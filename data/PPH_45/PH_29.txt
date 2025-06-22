@@ -1,0 +1,7 @@
+"SPNZL1" "SPNZD1" "SPNZL5" "SPNZCOL1" "SPNZCOL5" "SPNZCOL3" "SPNZCOL6" "SPNZCOL2" "Chromatomyia syngenesiae" "SPNZD4" "Stigmella ogygia" "Liriomyza flavocentralis" "SPNZL2"
+"Centaurium erythraea" 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Cirsium arvense" 0 0 0 1 1 1 1 1 0 0 0 0 0
+"Hypochaeris radicata" 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Lupinus arboreus" 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Senecio biserratus" 0 0 0 0 0 0 0 0 1 0 1 0 0
+"Veronica salicifolia" 0 0 0 0 0 0 1 0 0 0 0 1 1
