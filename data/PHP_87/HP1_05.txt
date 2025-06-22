@@ -1,0 +1,6 @@
+"Cirsium palustre" "Urtica dioica" "Epilobium ciliatum" "Epilobium montanum" "Pteridium aquilinum"
+"Capitophorus carduinis" 1 0 0 0 0
+"Microlophium carnosum" 0 1 0 0 0
+"Aphis epilobii" 0 0 1 1 0
+"Aphis grossulariae" 0 0 1 1 0
+"Sitobion ptericolens" 0 0 0 0 1
