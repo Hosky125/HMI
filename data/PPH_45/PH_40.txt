@@ -1,0 +1,6 @@
+"Popillia japonica" "Uroleucon picridis" "Rhopalus maculatus" "Conocephalus chinensis" "Atrachya menetriesi" "Patanga japonica" "Phaneroptera falcata"
+"Kummerowia striata" 1 0 0 0 0 0 0
+"Lactuca indica" 0 1 1 0 0 0 0
+"Persicaria hydropiper" 0 0 0 1 1 0 0
+"Solidago altissima" 0 0 0 0 0 1 0
+"Vigna angularis var. nipponensis" 0 0 0 0 1 0 1
