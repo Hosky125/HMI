@@ -1,0 +1,17 @@
+"Aphidius matricariae" "Ephedrus niger" "Trioxys centaureae" "Aphidius funebris" "Praon dorsale" "Aphidius microlophii" "Lysiphlebus fabarum" "Aphidius eadyi" "Aphidius ervi" "Praon volucre" "Aphelinus abdominalis" "Aphidius rubi" "Aphidius salicis" "Trioxys acalephae" "Aphidius rhopalosiphi" "Ephedrus plagiator" "Praon abjectum" "Trioxys pallidus" "Ephedrus cerasicola"
+"Capitophorus carduinus" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Uroleucon cirsii" 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Brachycaudus cardui" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Acyrthosiphon pisum" 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0
+"Macrosiphum funestum" 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Amphorophora rubi" 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+"Aphis ruborum" 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0
+"Aphis rumicis" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Sitobion avenae" 0 0 0 0 1 0 0 0 0 1 1 0 0 0 1 1 0 0 0
+"Megoura viciae" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis spp. on Epilobium" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0
+"Sitobion ptericolens" 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 1 0
+"Megourella purpurea" 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Hyalopteroides humilis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Myzus sp." 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 1
