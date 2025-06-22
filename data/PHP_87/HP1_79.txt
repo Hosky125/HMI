@@ -1,0 +1,16 @@
+"Arrhenatherum elatius" "Grass unknown" "Holcus lanatus" "Avena spp." "Triticum sp." "Hordeum vulgare" "Heracleum sphondylium" "Urtica dioica" "Lupinus sp." "Brassica rapa sp." "Arctium sp." "Ranunculus ficaria" "Ranunculus repens" "Silene dioica" "Silene sp." "Angelica sylvestris" "Rubus fruticosus" "Quercus robur"
+"Aphelia paleana" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Cnephasia asseclana" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cnephasia spp." 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0
+"Hydrellia griseola" 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza congesta" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Parascaptomyza pallida" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Phytomyza lappae" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Phytomyza ranunculi" 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+"Phytomyza spondylii" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Scaptomyza graminum" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0
+"ukD3" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"ukL213" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"ukL26" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
