@@ -1,0 +1,9 @@
+"herb.8" "herb.2" "herb.7" "herb.4" "herb.6" "herb.9" "herb.10" "herb.12" "herb.3" "herb.11" "herb.5"
+"B.darwinii" 1 0 0 0 0 0 0 0 0 0 0
+"E.coccineum" 1 1 1 0 0 0 0 0 0 0 0
+"L.hirsuta" 0 1 0 1 1 1 1 0 0 0 0
+"M.boaria" 0 1 1 1 0 1 0 0 0 0 0
+"M.chubutensis" 0 0 1 0 0 0 0 1 0 0 0
+"R.cucullatum" 1 1 1 1 1 1 0 0 1 1 0
+"R.magellanicum" 1 0 1 0 0 0 0 0 0 1 0
+"S.patagonicus" 0 1 1 0 1 1 0 0 0 0 1
