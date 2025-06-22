@@ -1,0 +1,5 @@
+"Dilophus spp." "Empis tesellata" "Andrena cinerea" "Eupeodes corollae" "Musca spp." "Colias croceus" "Lasioglossum immunitum" "Chrysotoxum spp." "Nemotelus spp." "Lasioglossum malachurum" "Lasioglossum spp." "Ulidiidae" "Odontomyia spp." "Sphaerophoria scripta"
+"CHFU" 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+"HOMA" 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"LEMA" 1 0 1 1 1 0 1 1 1 1 1 1 1 1
+"MESP" 0 0 1 0 0 0 0 0 0 0 0 0 0 0
