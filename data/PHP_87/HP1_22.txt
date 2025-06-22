@@ -1,0 +1,16 @@
+"Mentha sp." "Hyptis mutabilis" "Cestrum parqui" "Abutilon grandiflorum" "Caesalpinia gilliesii" "Commelina erecta" "Eupatorium hookerianum" "Ophriosporus axilliflorus" "Salpichroa origanifolia" "Polygonum sp." "Calycomyza brewerae" "Celtis tala" "Croton sarcopetalus" "Lycium cestroides" "Clematis denticulata" "Arctium minus" "Datura ferox" "Hydrocotyle sp."
+"Chromatomyia platensis" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza sp. nov.A" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Calycomyza longicauda" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza caesalpiniae" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza commelinae" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza spencerella" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Calycomyza cruciata" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Haplopeodes sp.A" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Japanagromyza polygoni" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Calycomyza brewerae" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Agromyza sp. nov." 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Ophyiomyia cabanae" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Haplopeodes lycivora" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Phytomyza williamsoni" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Liriomyza huidobrensis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
