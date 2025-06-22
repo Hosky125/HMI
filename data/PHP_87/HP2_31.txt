@@ -1,0 +1,6 @@
+"Dolichogenidea dilecta" "Pholetesor sp." "Glyptapanteles mygdonia" "Dolichogenidea sp." "Cirrospilus diallus" "Cirrospilus sp.2" "Pnigalio sp.3" "Holcothorax sp." "Cirrospilus sp.1" "Sympiesis laevifrons" "Sympiesis sp.5" "Sympiesis sp.6"
+"Caloptilia sp.2" 1 1 1 0 0 0 0 0 0 0 0 0
+"Gibbovalva kobusi" 1 1 1 0 0 0 0 0 0 0 0 0
+"Gibbovalva magnoliae" 1 1 0 1 1 1 1 1 0 0 0 0
+"Phyllonorycter bicinctella" 0 0 1 0 0 0 0 1 1 1 1 1
+"Phyllonorycter acutissimae" 0 0 1 0 0 0 0 1 1 1 1 1
