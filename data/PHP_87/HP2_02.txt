@@ -1,0 +1,18 @@
+"Bracon sp." "Homoporus sp." "Eurytoma sp. nr festucae" "Sycophila sp." "Eupelmus atropurpureus" "Macroneura vesicularis" "Eurytoma sp." "Pediobius festucae" "Chlorocytus pulchripes" "Homoporus febriculosus" "Pediobius eubius" "Eurytoma tapio" "Endromopoda sp." "Pediobius sp. nr claridger" "Eurytoma flavimana" "Eurytoma sp. nr apicalis" "Bracon erythrostictus" "Eurytoma roseni" "Mesopolopus graminum" "Chlorocytus agropyri" "Pediobius alaspharus" "Eurytoma sp. nr steffani" "Homoporus fulviventris" "Chlorocytus harmolitae" "Eurytoma danuvica" "Syntomaspis baudysi" "Homoporus luniger" "Eurytoma pollux" "Pediobius calamagrostidis" "Chlorocytus deschampiae" "Pediobius deschampiae" "Eurytoma appendigaster" "Pediobius sp. nr phalaridis" "Chlorocytus sp." "Eurytoma castor" "Pediobius dactylicola" "Eurytoma erdoesi" "Chlorocytus phalaridis" "Pediobius phalaridis" "Eurytoma phalaridis" "Pediobius sp." "Chlorocytus ulticonus" "Pediobius claridgei" "Eurytoma collaris" "Pediobius planiventris" "Chlorocytus tormosus"
+"Tetramesa brevicornis " 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Tetramesa brevicollis" 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Ahtola atra" 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Tetramesa angustipennis" 0 0 0 1 0 1 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Tetramesa linearis" 0 1 0 1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Tetramesa hyalipennis" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Tetramesa cornuta" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Tetramesa eximia" 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Tetramesa calamagrostidis" 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Eurytoma sp." 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Tetramesa petiolata" 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Tetramesa airae" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Tetramesa longula" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+"Tetramesa longicornis" 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+"Tetramesa albomaculata" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Tetramesa phleicola" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0
+"Tetramesa fulvicollis" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
