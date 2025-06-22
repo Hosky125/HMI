@@ -1,0 +1,5 @@
+"Scyphophorus spp." "Brassicogethes spp." "Psilothrix viridicoerulea" "Aelia spp." "Agriotes spp." "Cochlicella barbara" "Conocephalus dorsalis" "Aiolopus strepens" "Mordellidae" "Oedemeridae" "Tessellana tessellata" "Theba pisana" "Gryllus bimaculatus" "Lasiocampa trifolii caterpillar" "Coscinia spp." "Geometridae caterpillar" "Malachius bipustulatus" "Mirini spp." "Meligethes spp." "Cryptocephalus spp."
+"CHFU" 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"HOMA" 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+"LEMA" 0 1 1 1 1 1 0 1 1 1 1 1 0 1 0 0 1 0 1 1
+"MESP" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
