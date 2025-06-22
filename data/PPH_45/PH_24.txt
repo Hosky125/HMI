@@ -1,0 +1,10 @@
+"Conocephalus chinensis" "Formicidae sp." "Phaneroptera falcata" "Ducetia japonica" "Dolycoris baccarum" "Uroleucon picridis" "Eurydema rugosa" "Lema diversa" "Lema coronata" "Thysanoplusia intermixta" "Euparatettix insularis" "Lymantriinae sp." "Atrachya menetriesi" "Lepidoptera sp." "Conocephalus melaenus" "Monolepta dichroa" "Geometridae sp." "Patanga japonica" "Popillia japonica" "Rhopalus maculatus"
+"Conyza sumatrensis" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Gnaphalium japonicum" 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Ixeridium dentatum" 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Lactuca indica" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Picris hieracioides subsp. japonica" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Persicaria hydropiper" 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0
+"Kummerowia striata" 1 0 1 1 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 0
+"Medicago lupulina" 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Pennisetum alopecuroides" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
