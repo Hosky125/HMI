@@ -1,0 +1,17 @@
+"Aphidius balcanicus" "Aphidius ervi" "Aphidius urticae" "Praon volucre" "Aphelinus abdominalis" "Binodoxys angelicae" "Binodoxys sp." "Ephedrus persicae" "Ephedrus plagiator" "Lysiphlebus confuses" "Lysiphlebus fabarum" "Praon abjectum" "Aphidius ribis" "Aphelinus mali"
+"Acyrthosiphon malvae" 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Amphoraphora idaei" 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Aphis fabae" 0 0 0 0 1 1 1 1 1 1 1 0 0 0
+"Aphis fabe" 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"Hyalopterus pruni" 0 0 0 0 0 0 0 1 1 0 0 1 0 0
+"Aphis grossulariae" 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Aphis pomi" 0 1 0 1 0 1 0 1 1 0 1 0 0 0
+"Aphis schneideri" 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Ribes rubrum" 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Brachycaudus helichrysi" 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Cryptomyzus maudamanti" 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Cryptomyzus ribis" 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Dysaphis plantaginea" 0 0 1 0 0 1 0 1 0 0 0 0 0 0
+"Eriosoma lanigerum" 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"Myzus cerasi" 0 0 0 0 0 1 0 1 1 0 0 0 0 0
+"Rhopalosiphum oxyacanthae" 0 0 0 0 0 0 0 1 1 0 0 0 0 0
