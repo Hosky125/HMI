@@ -1,0 +1,4 @@
+"Dilophus spp." "Eucera spp." "Andrena cinerea" "Lomatia spp." "Musca spp." "Chrysotoxum spp." "Eupeodes corollae" "Eristalis spp." "Sphaerophoria scripta" "Lasioglossum malachurum"
+"CHFU" 1 1 1 1 1 0 0 0 0 0
+"LEMA" 1 1 1 0 1 1 1 1 1 1
+"MESP" 0 0 0 0 0 0 1 0 0 0
