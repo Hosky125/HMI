@@ -1,0 +1,9 @@
+"Stomorhina obsoleta" "Halictidae sp." "Apoidea sp." "Lycaena phlaeas" "Sphaerophoria macrogaster" "Eristalis tenax" "Diptera sp." "Andrenidae sp." "Pseudozizeeria maha" "Tachinidae sp." "Episyrphus balteatus" "Sarcophagidae sp." "Syrphidae sp." "Diptera sp.1" "Phytomia zonata" "Xylocopa appendiculata" "Melanostoma orientale" "Eurema mandarina" "Apis sp." "Pieris rapae" "Scolia oculata" "Musca hervei " "Cynthia cardui" "Colias erate" "Everes argiades" "Cephonodes hylas"
+"Hemerocallis fulva var. kwanso" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Lactuca indica" 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Solidago altissima" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Persicaria hydropiper" 1 0 0 0 1 0 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+"Commelina communis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Kummerowia striata" 0 1 0 1 1 0 1 1 1 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0 0
+"Medicago lupulina" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0
+"Vigna angularis var. nipponensis" 1 0 0 1 1 0 0 0 0 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 1
