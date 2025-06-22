@@ -1,0 +1,16 @@
+"Fraxinus excelsior" "Grass unknown" "Triticum sp." "Avena spp." "Vicia faba" "Heracleum sphondylium" "Crataegus monogyna" "Brassica napus sp." "Brassica nigra" "Sonchus asper" "Anthriscus sylvestris" "Hordeum vulgare" "Prunus spinosa" "Geum rivale"
+"Caloptilia syringella" 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Cnephasia asseclana" 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Epermenia chaerophyllella" 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Phytomyza spondylii" 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Scaptomyza flava" 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+"ukD1" 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"ukD11" 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"ukD3" 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"ukD38" 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"ukD42" 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"ukL201" 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"ukL226" 0 0 0 0 0 0 0 0 0 0 0 0 0 1
