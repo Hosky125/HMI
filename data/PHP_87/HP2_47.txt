@@ -1,0 +1,5 @@
+"Binodoxys indicus" "Binodoxys anglicae" "Aphidius sp." "Trioxys sp." "Diaretiella rapae" "Aphidius colemani" "Aphidius rosae"
+"Aphis fabae" 1 1 1 1 0 0 0
+"Brevicoryne brassicae" 0 0 0 0 1 0 0
+"Rhopalosiphum padi" 0 0 0 0 0 1 0
+"Lipaphis erysimi" 0 0 1 1 0 0 1
