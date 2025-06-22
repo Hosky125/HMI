@@ -1,0 +1,10 @@
+"Dolichogenidea carposinae" "Dolichogemidea sp.1" "Zealachertus sp.5" "Euceros coxalis" "Trigonospila brevifacies" "Hexameris albicans" "Diadegma sp." "Meteorus cinctellus" "Dolichogenidea sp.3" "Dolichogenidea tasmanica" "Carria fortipes" "Sympiesis sp." "Campoplex sp." "Pales feredayi" "Pales funesta"
+"Planotortrix octo" 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+"Planotortrix excessana" 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+"Ctenopseustis obliquana" 1 1 1 0 1 1 1 1 1 1 1 1 1 0 0
+"Epalxiphora axenana" 0 1 0 0 1 0 0 1 0 0 1 1 1 1 1
+"Apoctena flavescens" 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0
+"Catamacta gavisana" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Planotortrix notophaea" 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0
+"Strepsicrates ejectana" 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Eutoma phaulocosma" 1 0 0 0 1 0 0 0 0 0 0 0 0 1 1
