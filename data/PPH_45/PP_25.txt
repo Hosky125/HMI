@@ -1,0 +1,8 @@
+"Pieris rapae" "Sarcophagidae sp." "Diptera sp." "Sphaerophoria macrogaster" "Melanostoma orientale" "Ceratina flavipes" "Apoidea sp." "Lycaena phlaeas" "Muscidae sp." "Halictidae sp." "Tachinidae sp." "Eurema mandarina" "Episyrphus balteatus" "Mesembrius flaviceps" "Parnara guttata" "Andrenidae sp.1" "Andrenidae sp.2" "Pseudozizeeria maha"
+"Artemisia indica var. maximowiczii" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Conyza sumatrensis" 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+"Ixeridium dentatum" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Persicaria hydropiper" 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+"Amphicarpaea bracteata subsp. edgeworthii var. japonica" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1
+"Veronica peregrina" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Pennisetum alopecuroides" 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0
