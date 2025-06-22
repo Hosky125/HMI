@@ -1,0 +1,13 @@
+"Tachinidae sp." "Eulophidae sp." "Pteromalidae sp." "Erytrhomelana sp." "Glyptapanteles sp." "Hyphantrophaga sp." "Aleiodes sp." "Diolcogaster sp." "Tachinidae sp.1" "Eupelmidae sp." "Ichneumonidae sp." "Apanteles sp." "Aximopsis sp." "Tachinidae sp.2" "Conura sp.2" "Brachymeria sp." "Siphosturmia sp." "Enicospilus sp." "Unknown sp."
+"Consul fabius" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Dysschema gaumeri" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Dysschema sp." 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Eois sp." 1 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Gonodonta nitidimacula" 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+"MORPHO 57" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"MORPHO 58" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Quadrus cerialis" 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0
+"MORPHO 62" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"MORPHO 64" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Zanola verago" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"MORPHO 20" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
