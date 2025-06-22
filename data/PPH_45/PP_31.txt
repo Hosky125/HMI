@@ -1,0 +1,5 @@
+"Braconidae" "Dilophus spp." "Eucera spp." "Musca spp." "Pangonius spp." "Ulidiidae" "Andrena cinerea" "Andrena spp." "Anastoechus spp." "Episyrphus balteatus" "Eristalis spp." "Eupeodes corollae" "Sphaerophoria scripta" "Nemotelus spp." "Osmia ligurica" "Lasioglossum malachurum" "Sarcophaga spp." "Calliphoridae" "Lasioglossum immunitum"
+"BEMA" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHFU" 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"LEMA" 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+"MESP" 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 0 0 1 1
