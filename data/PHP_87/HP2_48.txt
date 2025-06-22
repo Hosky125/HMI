@@ -1,0 +1,5 @@
+"Diaretiella rapae" "Aphidius ribis" "Binodoxys anglicae" "Aphidius sp." "Aphidius colemani" "Aphidius smithi" "Aphidius urticae"
+"Brevicoryne brassicae" 1 0 0 0 0 0 0
+"Myzus persicae" 1 1 1 1 0 0 0
+"Schizaphis graminum" 1 0 0 0 1 0 0
+"Acrythosiphon pisum" 0 0 0 0 0 1 1
