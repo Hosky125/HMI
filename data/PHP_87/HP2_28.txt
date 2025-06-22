@@ -1,0 +1,13 @@
+"Cirrospilus lyncus " "Pnigalio pectinicornis" "Pnigalio soemius" "Sympiesis gordius " "Sympiesis sericeicornis" "Achrysocharoides zwoelferi" "Chrysocharis laomedon " "Chrysocharis nephereus" "Pediobius alcoeus" "Pediobius saulius" "Minotetrastichus ecus" "Holcothorax testaceipes" "Colastes braconius " "Apanteles circumscriptus" "Hormiinae sp." "Campopleginae sp." "Cirrospilus diallus" "Achrysocharoides zwoelferi " "Chrysocharis laomedon" "Colastes braconius" "Cirrospilus lyncus" "Achrysocharoides latreillii " "Minotetrastichus ecus " "Holcothorax testaceipes " "Apanteles sp. sensu lato" "Pnigalio longulus" "Sympiesis gordius" "Chrysocharis phryne" "Pediobius alcoeus " "panteles sp. sensu lato" "Chrysocharis nephereus " "Scambus sp." "Achrysocharoides niveipes" "Sympiesis sericeicornis " "Achrysocharoides splendens" "Holocothorax nepticulae " "Cirrospilus diallus " "Sympiesis grahami " "Pediobius saulius " "Holocothorax nepticulae" "Achrysocharoides splendens "
+"Phyllonorycter salicicolella" 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter dubitella" 1 0 0 1 1 0 0 1 0 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter harrisella " 0 0 0 1 1 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter heegeriella" 0 1 1 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 1 1 1 1 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter lautella" 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter quercifoliella " 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 1 1 1 1 1 1 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+"Phyllonorycter ulmifoliella " 0 0 0 1 0 0 0 1 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Phyllonorycter cavella" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0
+"Phyllonorycter froelichiella" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Phyllonorycter kleemanella" 0 1 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0
+"Phyllonorycter rajella" 1 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 1 0 1 1 1 1 0
+"Phyllonorycter stettinensis " 0 1 1 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 1 1 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1
