@@ -1,0 +1,6 @@
+"Helianthus annuus" "Ocimum basilicum" "Brassica oleracea variety capitata" "Solanum melongena" "Beta vulgaris var. rapacea" "Phaseolus vulgaris" "Cucurbita maxima variety zapallito" "Solanum tuberosum" "Cucurbita sp. B" "Cucurbita sp. A" "Capsicum annuum" "Lycopersicon esculentum" "Vicia faba" "Beta vulgaris var. cycla" "Callistephus chinensis" "Spinacia oleracea" "Medicago sativa"
+"Amauromyza maculosa" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia platensis" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza brassicae" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza huidobrensis" 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+"Liriomyza sativae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
