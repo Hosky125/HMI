@@ -1,0 +1,25 @@
+"Aphidius ervi" "Aphidius colemani" "Aphidius matricariae" "Aphidius picipes" "Aphidius rhopalosiphi" "Aphidius uzbekistanicus" "Lysiphlebus testaceipes" "Praon volucre" "Diaeretiella rapae" "Praon gallicum" "Binodoxys brevicornis" "Ephedrus plagiator"
+"Acyrthosiphon kondoi" 1 0 0 0 0 0 1 1 0 0 0 0
+"Acyrthosiphon pisum" 1 1 0 0 0 0 1 1 1 1 0 0
+"Aphis craccivora" 1 1 0 0 0 0 1 1 1 0 0 0
+"Aphis fabae" 0 1 0 0 0 0 1 0 0 0 0 0
+"Aphis gossypii" 0 1 1 0 0 0 1 0 0 0 0 0
+"Aphis nerii" 0 1 0 0 0 0 1 0 0 0 0 0
+"Aphis spiraecola" 0 1 0 0 0 0 1 0 0 0 0 0
+"Brevicoryne brassicae" 1 1 1 0 0 0 1 0 1 0 0 0
+"Capitophorus carduinus" 1 1 0 0 0 0 1 0 0 0 0 0
+"Lipaphis erysimi" 0 1 1 1 1 1 1 0 1 0 0 0
+"Lipaphis pseudobrassicae" 0 1 0 0 0 1 1 0 0 0 0 0
+"Macrosiphum euphorbiae" 1 0 1 0 0 0 1 1 1 1 0 0
+"Myzus persicae" 1 1 1 1 1 1 1 0 0 0 0 0
+"Rhopalosiphum maidis" 1 0 0 0 0 0 1 1 1 0 0 0
+"Rhopalosiphum rufiabdominale" 0 1 0 0 0 0 1 0 0 0 0 0
+"Schizaphis graminum" 1 1 1 1 0 0 1 0 0 0 0 1
+"Cryptomyzus korschelti" 0 0 0 0 0 0 1 0 1 0 0 0
+"Dysaphis apiifolia" 0 0 0 0 0 0 1 0 0 0 0 0
+"Hyadaphis foeniculi" 0 0 0 0 0 0 1 0 1 0 1 0
+"Hyperomyzus carduellinus" 0 0 0 0 0 0 1 0 0 0 0 0
+"Myzus sp." 0 0 0 0 0 0 1 0 0 0 0 0
+"Rhopalosiphum padi" 0 0 0 0 0 0 1 0 0 0 0 1
+"Uroleucon sonchi" 0 0 0 0 0 0 1 0 0 0 0 0
+"Uroleucon sp." 0 0 0 0 0 0 1 1 1 0 0 0
