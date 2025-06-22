@@ -1,0 +1,6 @@
+"Eurema mandarina" "Sphaerophoria macrogaster" "Melanostoma orientale" "Diptera sp." "Apoidea sp." "Lycaena phlaeas"
+"Commelina communis" 1 0 0 0 0 0
+"Conyza sumatrensis" 0 1 1 1 1 1
+"Ixeridium dentatum" 1 0 0 0 0 0
+"Pennisetum alopecuroides" 0 1 0 0 1 0
+"Veronica peregrina" 1 0 0 0 0 0
