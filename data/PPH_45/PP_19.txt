@@ -1,0 +1,9 @@
+"Stomorhina obsoleta" "Sphaerophoria macrogaster" "Sarcophagidae sp." "Diptera sp." "Lycaena phlaeas" "Spoladea recurvalis" "Eumenes micado" "Syrphidae sp." "Episyrphus balteatus" "Parnara guttata" "Andrenidae sp.1" "Andrenidae sp.2" "Pseudozizeeria maha" "Eurema mandarina" "Xylocopa appendiculata" "Everes argiades" "Muscidae sp." "Bocchoris inspersalis"
+"Hemerocallis fulva var. kwanso" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Conyza sumatrensis" 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Picris hieracioides subsp. japonica" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Solidago altissima" 0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Persicaria hydropiper" 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+"Amphicarpaea bracteata subsp. edgeworthii var. japonica" 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0
+"Medicago lupulina" 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 0 0
+"Vulpia myuros" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
