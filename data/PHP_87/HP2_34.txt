@@ -1,0 +1,13 @@
+"Achrysocharoides sp.3" "Chrysocharis sp.2" "Cirrospilus lyncus" "Cirrospilus diallus" "Sympiesis sericeicornis" "Sympiesis sericeicorni" "Achrysocharoides sp.4" "Chrysocharis laomedon" "Achrysocharoides sp.5" "Achrysocharoides sp.7" "Pholetesor sp." "Elachertus inunctus" "Sympiesis laevifrons" "Sympiesis sp.4" "Achrysocharoides sp.1" "Achrysocharoides sp.2" "Achrysocharoides sp.9" "Cirrospilus sp.1" "Elachertus fenestratus" "Eulophinae sp.1" "Pnigalio sp.2" "Pnigalio sp.3" "Holcothorax sp." "Dolichogenidea dilecta"
+"Phyllonorycter jezoniella" 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Caloptilia sp.1" 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Stigmella sp." 1 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter orientalis" 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cameraria niphonica" 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter sp.2" 1 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter sp.1" 1 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Gibbovalva magnoliae" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter bicinctella" 0 0 1 1 1 0 0 1 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0
+"Caloptilia sp.3" 0 0 1 1 1 0 0 1 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0
+"Phyllonorycter acutissimae" 0 0 1 1 1 0 0 1 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 0
+"Phyllonorycter issikii" 0 0 0 1 0 0 0 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 0 1
