@@ -1,0 +1,17 @@
+"Dacnusa confinis" "Diglyphus isaea" "Microgaster subcompleta" "Diadegma indet.sp." "Glypta sp. A" "Macrocentrus cingulum" "Mesochorus sp." "Diadegma sp. G" "Heterolexis balteata" "Dacnusa tarsalis" "Dacnusa maculipes" "Dacnusa macrospila" "Dacnusa areolaris" "Seladerma tarsale" "Chorebus avesta" "Apanteles circumscriptus" "Elachertus inunctus" "Pediobius metallicus" "Diadegma stigmatellae" "Achrysocharoides atys" "Chrysocharis orbicularis" "Chrysocharis viridis" "Miscogaster maculata" "Colastes braconius" "Phaedrotoma reptantis" "Chrysocharis polyzo" "Utetes pactus" "Chrysocharis pentheus" "Stenichneumon culpator"
+"Agromyza vicifoliae" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Celypha lacunana" 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cerodontha incisa" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 1 1 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza sonchi" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter coryli" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter nicellii" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter spinicolella" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter spp." 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Phytomyza ranunculi" 1 0 0 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0
+"Phytomyza sp." 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"ukD24" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+"ukD39" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"ukL128" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"ukL204" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
