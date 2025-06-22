@@ -1,0 +1,8 @@
+"Aphidius sp." "Trioxys sp." "Diaretiella rapae" "Aphidius colemani" "Aphidius absinthii"
+"Aphis fabae" 1 0 0 0 0
+"Aphis gossypii" 1 1 0 0 0
+"Brevicoryne brassicae" 0 0 1 0 0
+"Myzus persicae" 1 0 1 0 0
+"Schizaphis graminum" 0 0 1 1 0
+"Rhopalosiphum padi" 0 0 0 1 0
+"Aphis craccivora" 1 1 0 0 1
