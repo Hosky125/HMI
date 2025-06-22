@@ -1,0 +1,10 @@
+"Episyrphus balteatus" "Musca spp." "Sphaerophoria scripta" "Lasioglossum malachurum" "Andrena cinerea" "Culicidae" "Dilophus spp." "Empis tesellata" "Eupeodes corollae" "Odontomyia spp." "Scaeva spp." "Ulidiidae" "Anastoechus spp." "Andrena humilis" "Braconidae" "Cylindromyia spp." "Melanostoma spp." "Nemotelus spp." "Vanessa cardui" "Bombyliidae" "Colias croceus" "Eucera spp." "Lasiocampa trifolii" "Lomatia spp." "Lasioglossum spp."
+"BEMA" 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CETE" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHFU" 0 1 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHMI" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"LEMA" 0 1 1 1 1 0 1 0 1 1 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0
+"MESP" 0 1 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"PUPA" 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0
+"RAPE" 0 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"SPRU" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
