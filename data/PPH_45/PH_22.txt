@@ -1,0 +1,8 @@
+"Cucullia kurilullia" "Atrachya menetriesi" "Teleogryllus emma" "Thysanoplusia intermixta" "Popillia japonica" "Uroleucon picridis" "Conocephalus chinensis" "Patanga japonica" "Gametis jucunda" "Exomala orientalis" "Formicidae sp." "Maladera japonica"
+"Hemerocallis fulva var. kwanso" 1 1 1 0 0 0 0 0 0 0 0 0
+"Cirsium japonicum" 0 0 0 1 0 0 0 0 0 0 0 0
+"Conyza sumatrensis" 0 0 0 0 1 0 0 0 0 0 0 0
+"Lactuca indica" 0 0 0 0 0 1 1 0 0 0 0 0
+"Kummerowia striata" 0 0 0 0 1 0 0 1 1 1 0 0
+"Pennisetum alopecuroides" 0 0 0 0 0 0 0 0 0 0 1 0
+"Vulpia myuros" 0 0 0 0 0 0 0 0 0 0 0 1
