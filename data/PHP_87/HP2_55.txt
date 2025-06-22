@@ -1,0 +1,10 @@
+"Binodoxys angelicae" "Ephedrus nacheri" "Lysiphlebus sp." "Praon flavinode" "Trioxys pallidus" "Ephedrus plagiator" "Trioxys sp." "Aphidius avenae" "Aphidius ervi" "Aphidius rhopalosiphi" "Aphidius uzbekisitanicus" "Praon volucre" "Aphidius funebris" "Binodoxys centaurae"
+"Aphis fabae" 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Aphis sp." 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Aphis urticata" 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Myzocallis carpini" 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+"Myzocallis castanicola" 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Myzocallis coryllii" 0 0 0 1 1 1 1 0 0 0 0 0 0 0
+"Myzocallis sp." 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Sitobion avenae" 0 0 0 0 0 1 0 1 1 1 1 1 0 0
+"Uroleucon sp." 0 0 0 0 0 0 0 0 0 0 0 0 1 1
