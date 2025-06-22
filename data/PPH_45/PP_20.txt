@@ -1,0 +1,15 @@
+"Stomorhina obsoleta" "Pieris rapae" "Sphaerophoria macrogaster" "Muscidae sp." "Eurema mandarina" "Gymnosoma rotundata" "Prosena siberita" "Halictidae sp." "Anthomyiidae sp." "Ceratina flavipes" "Diptera sp." "Tachinidae sp." "Pseudozizeeria maha" "Staphylinidae sp." "Andrenidae sp." "Diptera sp.1" "Melanostoma orientale" "Apoidea sp." "Episyrphus balteatus" "Eristalis tenax" "Lycaena phlaeas" "Phytomia zonata" "Xylocopa appendiculata" "Colias erate" "Parnara guttata" "Campsomeris prismatica" "Eristalis cerealis" "Pieris melete" "Euchrysops cnejus" "Everes argiades" "Sarcophagidae sp." "Cephonodes hylas" "Heleomyzidae sp."
+"Hemerocallis fulva var. kwanso" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Artemisia indica var. maximowiczii" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cirsium japonicum" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Conyza canadensis" 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Conyza sumatrensis" 1 0 1 1 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Gnaphalium japonicum" 0 1 1 1 0 0 0 1 1 1 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Inula britannica subsp. japonica" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Lactuca indica" 0 1 1 0 0 0 0 1 0 0 1 0 1 0 1 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Solidago altissima" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Persicaria hydropiper" 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0
+"Kummerowia striata" 0 0 0 0 0 0 0 1 0 0 1 0 1 0 1 0 0 1 0 0 1 0 0 1 1 1 1 1 0 0 0 0 0
+"Medicago lupulina" 0 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 1 1 0 0
+"Vigna angularis var. nipponensis" 1 0 1 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1 0
+"Acalypha australis" 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1
