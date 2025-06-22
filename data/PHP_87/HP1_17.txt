@@ -1,0 +1,12 @@
+"Fragaria ananassa" "Rubus idaeus" "Cirsium arvense" "Prunus domestica" "Arctium lappa" "Capsella bursa-pastoris" "Chenopodium album" "Galium aparine" "Ribes rubrum" "Rumex obtusifolius" "Tanacetum parthenium" "Euonymus europaeus" "Sonchus asper" "Malus domestica" "Prunus spinosa" "Plantago lanceolate" "Phalaris arundinacea" "Phragmites australis" "Epilobium hirsutum" "Pyrus communis" "Senecio vulgaris" "Vaccinium corymbosum" "Prunus avium"
+"Acyrthosiphon malvae" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Amphoraphora idaei" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis fabae" 0 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Aphis pomi" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Brachycaudus helichrysi" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Cryptomyzus ribis" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Dysaphis plantaginea" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0
+"Eriosoma lanigerum" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Hyalopterus pruni" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0
+"Macrosiphum euphorbiae" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0
+"Myzus cerasi" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
