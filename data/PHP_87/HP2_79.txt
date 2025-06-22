@@ -1,0 +1,16 @@
+"Eumea linearicornis" "Dacnusa tarsalis" "Chorebus aphantus" "Dacnusa confinis" "Pnigalio soemius" "Protodacnusa tristis" "Heterolexis balteata" "Chrysocharis pubicornis" "Cirrospilus pictus" "Dacnusa areolaris" "Hemiptarsenus unguicellus" "Dacnusa maculipes" "Diglyphus isaea" "Phaedrotoma austriaca" "Diadegma sp. G" "Diadegma indet.sp." "Bracon (Habrobracon) stabilis" "Charmon cruentatus" "Chelonus sp. Indet. Spec. B" "Miscogaster maculata" "Chrysocharis pentheus" "Dacnusa temula" "Chrysocharis orbicularis" "Chrysocharis gemma" "Dacnusa macrospila" "Exotela cyclogaster var. umbellina" "Chrysocharis pallipes" "Chorebus trilobomyzae" "Triclistus anthophilae" "Synomelix albipes"
+"Aphelia paleana" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cnephasia asseclana" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cnephasia spp." 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Hydrellia griseola" 0 0 0 1 0 0 0 1 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Liriomyza congesta" 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Parascaptomyza pallida" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0
+"Phytomyza lappae" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phytomyza ranunculi" 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0
+"Phytomyza spondylii" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0
+"Scaptomyza graminum" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+"ukD3" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"ukL213" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"ukL26" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
