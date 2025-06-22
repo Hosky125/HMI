@@ -1,0 +1,9 @@
+"Scaptomyza graminum" "Agromyziidae grass sp.3" "Cerodonta denticornis" "Hydrellia maura" "Lyriomyza flaveola" "Agromyziidae grass sp.2" "Agromyziidae grass sp.5" "Chromatomyia nigra" "Chromatomyia milli" "Agromyziidae grass sp.4" "Cerodontha fulvipes" "Agromyziidae grass sp.1" "Elaschita sp." "Agromyza nigripes" "Phytomyza leucanthemi" "Chromatomya horticula/syngenesiae" "Bucculatrix nigricomella" "Chromatomyia paracillata" "Phytomyza fallaciosa" "Phytomyza ranunculi" "Phytomyza ranunculivora" "Phytomyza stolonifera" "Phytomyza notata" "Agromyzae sp.1" "Agromyza nana" "Phytomyza crassiseta"
+"Cerastium fontanum" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Holcus lanatus" 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Leucanthemum vulgare" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0
+"Ranunculus acris" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0
+"Ranunculus repens" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 0 0
+"Trifolium pratense" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Trifolium repens" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Veronica chamaedrys" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
