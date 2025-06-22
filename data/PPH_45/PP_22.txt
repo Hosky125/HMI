@@ -1,0 +1,8 @@
+"Stomorhina obsoleta" "Sphaerophoria macrogaster" "Diptera sp." "Colias erate" "Prosena siberita" "Halictidae sp." "Apoidea sp." "Andrenidae sp." "Everes argiades" "Pieris rapae" "Lycaena phlaeas" "Melanostoma orientale" "Muscidae sp." "Bocchoris inspersalis" "Tachinidae sp."
+"Hemerocallis fulva var. kwanso" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cirsium japonicum" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Conyza sumatrensis" 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+"Lactuca indica" 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0
+"Kummerowia striata" 0 1 1 1 0 1 1 0 1 1 1 0 0 0 0
+"Pennisetum alopecuroides" 0 1 1 0 0 0 1 0 0 1 1 1 0 0 0
+"Vulpia myuros" 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1
