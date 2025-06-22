@@ -1,0 +1,17 @@
+"Cervuselaphus" "Lepuscapensis(Liebre)" "Damadama(gamo)" "Testudograeca(Tortugamora)" "Susscrofa(jabali)" "Genettagenetta(Gineta)" "Procambarusclarkii"
+"Callunavulgaris" 1 0 0 0 0 0 0
+"Chamaeropshumilis" 1 1 1 0 0 0 0
+"Cistussalvifolius" 1 0 1 0 0 0 0
+"Cytisusgrandiflorus" 1 0 0 0 0 0 0
+"Ericaciliaris" 0 0 1 0 0 0 0
+"Halimiumcalycinum" 1 0 0 0 0 0 0
+"Halimiumhalimifolium" 1 0 1 1 1 0 0
+"Lavandulastoechas" 0 0 0 1 0 0 0
+"Myrtuscommunis" 1 0 0 0 0 1 0
+"Osyrisalba" 1 0 0 0 0 0 0
+"Phillyreaangustifolia" 1 0 0 0 0 0 0
+"Rosmarinusofficinalis" 1 1 1 0 1 0 0
+"Rubusulmifolius" 1 0 1 0 1 1 1
+"Stauracanthusgenistoides" 1 1 0 0 0 0 0
+"Thymusmastichina" 1 0 0 0 0 0 0
+"Ulexminor" 1 0 0 0 0 0 0
