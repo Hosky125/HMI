@@ -1,0 +1,17 @@
+"Phobocampe confusa" "Clinocentrus cunctator" "Dacnusa areolaris" "Seladerma tarsale" "Dacnusa sp." "Diglyphus isaea" "Dacnusa confinis" "Dacnusa maculipes" "Heterolexis balteata" "Hemiptarsenus unguicellus" "Chrysocharis liriomyzae" "Dacnusa sp. near confinis" "Miscogaster near hortensis" "Achrysocharoides splendens" "Sympiesis sericeicornis" "Achrysocharoides atys" "Cirrospilus diallus" "Dacnusa tarsalis" "Phaedrotoma exigua" "Chrysocharis orbicularis" "Miscogaster maculata" "Dacnusa macrospila" "Colastes braconius" "Exotela cyclogaster var. umbellina" "Macrocentrus cingulum" "Pnigalio soemius" "Macrocentrus linearis"
+"Aglais urticae" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Anthophila fabriciana" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 0 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza congesta" 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter corylifoliella" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter quercifoliella" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter spp." 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Phytomyza ranunculi" 0 0 1 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0
+"Phytomyza sp." 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 1 1 0 0 0
+"Pleuroptya ruralis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"Stigmella plagicolella" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Stigmella spp." 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"ukD12" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"ukL201" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
