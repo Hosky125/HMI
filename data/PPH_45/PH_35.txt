@@ -1,0 +1,4 @@
+"Meligethes spp." "Oxycarenus hyalinipennis" "Scyphophorus spp." "Bruchidae" "Cantharis coronata" "Oedemeridae" "Cryptocephalus spp." "Malachius bipustulatus" "Theba pisana" "Psilothrix viridicoerulea" "Tessellana tessellata" "Brassicogethes spp." "Cochlicella barbara"
+"CHFU" 1 1 1 1 1 0 0 0 0 0 0 0 0
+"LEMA" 1 0 0 0 1 1 1 1 1 1 1 1 1
+"MESP" 0 0 0 0 0 0 0 0 0 0 0 0 1
