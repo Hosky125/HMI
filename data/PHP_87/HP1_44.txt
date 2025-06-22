@@ -1,0 +1,8 @@
+"Calluna vulgaris" "Erica cinerea" "Erica tetralix" "Ulex europaeus" "Gaultheria shallon"
+"Lochmaea suturalis" 1 1 1 0 0
+"Neofaculta ericetella" 1 1 0 0 0
+"Eupithecia nanata" 1 1 0 0 0
+"Pachycnemia hippocastanaria" 1 1 1 0 0
+"Anarta myrtilli" 1 1 0 0 0
+"Xestia agathina" 1 1 0 0 0
+"Ematurga atomaria" 1 1 1 1 1
