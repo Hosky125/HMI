@@ -1,0 +1,18 @@
+"plant_seed sp.28" "plant_seed sp.79" "plant_seed sp.14" "plant_seed sp.21"
+"insect seed-feeder sp.1" 1 1 0 0
+"insect seed-feeder sp.2" 0 1 0 0
+"insect seed-feeder sp.3" 1 0 0 0
+"insect seed-feeder sp.4" 0 1 0 0
+"insect seed-feeder sp.5" 0 0 1 0
+"insect seed-feeder sp.6" 0 0 1 0
+"insect seed-feeder sp.7" 0 1 0 0
+"insect seed-feeder sp.8" 0 0 1 0
+"insect seed-feeder sp.9" 0 0 1 0
+"insect seed-feeder sp.11" 0 0 1 0
+"insect seed-feeder sp.12" 0 0 1 0
+"insect seed-feeder sp.13" 0 0 1 0
+"insect seed-feeder sp.14" 0 0 0 1
+"insect seed-feeder sp.15" 0 1 0 0
+"insect seed-feeder sp.16" 0 1 0 0
+"insect seed-feeder sp.17" 0 0 1 0
+"insect seed-feeder sp.18" 0 0 1 0
