@@ -1,0 +1,18 @@
+"parasitoid sp.2" "parasitoid sp.3" "parasitoid sp.4" "parasitoid sp.5" "parasitoid sp.6" "parasitoid sp.7" "parasitoid sp.12" "parasitoid sp.11" "parasitoid sp.10" "parasitoid sp.1" "parasitoid sp.14" "parasitoid sp.15" "parasitoid sp.9" "parasitoid sp.8" "parasitoid sp.16" "parasitoid sp.17" "parasitoid sp.13"
+"insect seed-feeder sp.1" 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+"insect seed-feeder sp.2" 1 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+"insect seed-feeder sp.3" 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"insect seed-feeder sp.4" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"insect seed-feeder sp.5" 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0
+"insect seed-feeder sp.6" 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0
+"insect seed-feeder sp.7" 1 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0
+"insect seed-feeder sp.8" 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0
+"insect seed-feeder sp.9" 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 0
+"insect seed-feeder sp.11" 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 0
+"insect seed-feeder sp.12" 0 0 0 0 0 0 0 0 0 1 1 1 0 1 0 0 0
+"insect seed-feeder sp.13" 0 0 0 0 0 0 0 0 0 1 1 1 0 1 1 1 0
+"insect seed-feeder sp.14" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"insect seed-feeder sp.15" 1 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0
+"insect seed-feeder sp.16" 1 1 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0
+"insect seed-feeder sp.17" 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 0
+"insect seed-feeder sp.18" 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0
