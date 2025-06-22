@@ -1,0 +1,34 @@
+"Phragmites australis" "Lonicera periclymenum" "Aster tripolium" "Rubus fruticosus" "Quercus robur" "Betula pendula" "Sorbus aucuparia" "Ilex aquifolium" "Grass 12" "Cirsium arvense" "Dipsacus fullonum" "Lotus corniculatus" "Trifolium pratense" "Trifolium repens" "Ulex europeus"
+"Agromyza phragmitidis" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aulagromyza hendeliana" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aulagromyza spp." 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Bucculatrix maritima" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Calycomyza humeralis" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia aprilina" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia periclymeni" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Coptotriche heinemanni" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Elachista maculicerusella" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Emmetia marginea" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter messaniella" 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+"Phyllonorycter sorbi" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Phytomyza ilicis" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"unknown lm1" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"unknown lm2" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Dilophus febrilis" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Ectopsocus briggsi" 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+"Hemiptera nymph (?Orius)" 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0
+"Hymenoptera-parasitica" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Orius laevigatus" 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0
+"Orius majusculus" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Terellia ruficauda" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Ectopsocus petersi" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Endothenia gentianaeana" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Olibrus affinis" 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0
+"Ischnopterapion loti" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Paragus haemorrhous" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Thysanoptera spp." 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"Jassargus pseudocellaris" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Cardiastethus fasciiventris" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"Exapion ulicis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"Micrambe ulicis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"Sibinia arenariae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
