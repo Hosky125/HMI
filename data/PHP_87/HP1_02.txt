@@ -1,0 +1,18 @@
+"Festuca rubra" "Alopecurus pratensis" "Elymus repens" "Ammophila arenaria" "Calamagrostis epigejos" "Deschampsia cespitosa" "Dactylis glomerata" "Phalaris arundinacea" "Phleum pratense" "Brachypodium sylvaticum"
+"Tetramesa brevicornis " 1 0 0 0 0 0 0 0 0 0
+"Tetramesa brevicollis" 1 0 0 0 0 0 0 0 0 0
+"Ahtola atra" 0 1 0 0 0 0 0 0 0 0
+"Tetramesa angustipennis" 0 1 0 0 0 0 0 0 0 0
+"Tetramesa linearis" 0 0 1 0 0 0 0 0 0 0
+"Tetramesa hyalipennis" 0 0 1 0 0 0 0 0 0 0
+"Tetramesa cornuta" 0 0 1 0 0 0 0 0 0 0
+"Tetramesa eximia" 0 0 0 1 1 0 0 0 0 0
+"Tetramesa calamagrostidis" 0 0 0 0 1 0 0 0 0 0
+"Eurytoma sp." 0 0 0 0 1 1 0 0 0 0
+"Tetramesa petiolata" 0 0 0 0 0 1 0 0 0 0
+"Tetramesa airae" 0 0 0 0 0 1 0 0 0 0
+"Tetramesa longula" 0 0 0 0 0 0 1 0 0 0
+"Tetramesa longicornis" 0 0 0 0 0 0 0 1 0 0
+"Tetramesa albomaculata" 0 0 0 0 0 0 0 0 1 0
+"Tetramesa phleicola" 0 0 0 0 0 0 0 0 1 0
+"Tetramesa fulvicollis" 0 0 0 0 0 0 0 0 0 1
