@@ -1,0 +1,6 @@
+"Theba pisana" "Thysanoptera" "Cochlicella barbara" "Aelia spp." "Agriotes spp." "Aiolopus strepens" "Conocephalus dorsalis" "Dociostaurus jagoi" "Cantharis coronata" "Oedemeridae" "Psilothrix viridicoerulea" "Tessellana tessellata" "Gryllus bimaculatus" "Lasiocampa trifolii caterpillar" "Lepidoptera caterpillar" "Malachius bipustulatus" "Miridae" "Anthaxia semicuprea" "Aphis fabae" "Brassicogethes spp." "Mordellidae" "Phaedon spp." "Cryptocephalus spp." "Cicadidae"
+"CETE" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHFU" 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"HOMA" 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+"LEMA" 1 0 1 0 1 0 0 0 0 1 1 1 0 1 0 1 0 1 1 1 1 1 1 1
+"MESP" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
