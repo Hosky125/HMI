@@ -1,0 +1,7 @@
+"Erica cinerea" "Ulex minor" "Calluna vulgaris" "Erica tetralix"
+"Bombus humilis" 1 1 0 0
+"Bombus jonellus" 1 1 1 0
+"Bombus lapidarius" 1 0 0 0
+"Bombus lucorum" 1 0 1 0
+"Bombus terrestris" 1 0 1 0
+"Bombus pascuorum" 1 0 1 1
