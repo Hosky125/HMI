@@ -1,0 +1,15 @@
+"Teleogryllus emma" "Atrachya menetriesi" "Aulacophora indica" "Uroleucon nigrotuberculatum" "Lixus acutipennis" "Thysanoplusia intermixta" "Popillia japonica" "Conocephalus chinensis" "Nysius plebeius" "Formicidae sp." "Phaneroptera falcata" "Ducetia japonica" "Uroleucon picridis" "Rhopalus maculatus" "Patanga japonica" "Euparatettix insularis" "Lema diversa" "Lema coronata" "Lepidoptera sp." "Conocephalus melaenus" "Monolepta dichroa" "Geometridae sp."
+"Hemerocallis fulva var. kwanso" 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Artemisia indica var. maximowiczii" 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cirsium japonicum" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Conyza canadensis" 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Conyza sumatrensis" 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Gnaphalium japonicum" 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Inula britannica subsp. japonica" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Lactuca indica" 0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+"Solidago altissima" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Persicaria hydropiper" 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 0 0
+"Kummerowia striata" 0 1 0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0 1 1 1 1
+"Medicago lupulina" 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Vigna angularis var. nipponensis" 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Acalypha australis" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
