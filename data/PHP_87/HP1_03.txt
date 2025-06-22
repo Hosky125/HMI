@@ -1,0 +1,9 @@
+"Cirsium palustre" "Urtica dioica" "Lotus uliginosus" "Cytisus scoparius" "Rubus sp." "Arrhenatherum elatius" "Rubus sp. (S. fragariae only)" "Dactylis glomerata" "Holcus lanatus" "Holcus mollis" "Poa trivialis" "Poa pratensis" "Anthoxanthum odoratum" "Agrostis stolonifera" "Deschampsia cespitosa"
+"Capitophorus carduinis" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Acyrthosiphon pisum" 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Macrosiphum funestum" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Amphorophora rubi" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Metopolophium albidum" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Sitobion fragariae" 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1
+"Sitobion avenae" 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1
