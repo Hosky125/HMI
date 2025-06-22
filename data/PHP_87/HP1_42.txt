@@ -1,0 +1,8 @@
+"Calluna vulgaris" "Erica cinerea"
+"Lochmaea suturalis " 1 0
+"Eupithecia nanata" 1 0
+"Pachycnemia hippocastanaria" 1 1
+"Anarta myrtilli" 1 0
+"Xestia agathina" 1 1
+"Lochmaea suturalis" 0 1
+"Anarta myrtilli " 0 1
