@@ -1,0 +1,16 @@
+"Euchrysops cnejus" "Potanthus confucius" "Catopsilia pyranthe" "Macroglossum sitiene" "Hippotion velox" "Agrius convolvuli" "Cephonodes hylas" "Utetheisa lotrix" "Zizina otis" "Borbo cinnara" "Macroglossum neotroglodytus" "Ariadne ariadne" "Hypolimnas bolina" "Eurema hecabe"
+"Canavalia maritima" 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Catharanthus roseus" 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Datura metel" 0 0 0 1 1 1 0 0 0 0 0 0 0 0
+"Guettarda speciosa" 0 0 0 1 1 1 1 0 0 0 0 0 0 0
+"Ipomoea obscura" 1 0 1 0 0 1 0 1 1 0 0 0 0 0
+"Ipomoea pescaprae" 0 0 0 0 0 0 0 1 0 1 1 0 0 0
+"Ixora chinensis" 0 0 0 1 0 0 0 0 1 0 0 1 0 0
+"Macroptilium atropurpureum" 1 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Messerschmidia argentea" 1 0 1 0 1 0 1 1 0 1 0 0 0 0
+"Morinda citrifolia" 0 0 0 1 1 0 1 0 0 1 1 0 1 0
+"Pisonia grandis" 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+"Ricinus communis" 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Scaevola taccada" 0 0 0 1 1 0 1 1 0 0 1 0 0 0
+"Senna occidentalis" 1 0 1 0 0 0 0 0 0 0 0 0 1 0
+"Sesbania cannabina" 0 0 0 0 0 0 0 0 1 0 0 0 0 1
