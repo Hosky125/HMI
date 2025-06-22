@@ -1,0 +1,8 @@
+"Prosternon tessellatum" "Lasioglossum leucozonium" "Zygaena filipendulae" "Rhinophora lepida" "Rhagonycha fulva" "Hybos grossipes" "Scambus" "Psilothrix viridicoeruleus" "Lasioglossum calceatum" "Sepsis cynipsea" "Maniola jurtina" "Bombus terrestris" "Panurgus banksianus" "Thymelicus sylvestris" "Bombus pascuorum" "Pieris rapae" "Bombus lapidarius" "Coenosia mollicula" "Sphaerophoria scripta" "Andrena ovatula" "Hemicrepidius hirtus" "Hecamede albicans" "Bombus hortorum" "Bombus lucorum" "Bombus humilis" "Hercostomus spp." "Bombus jonellus" "Sarcophaga variegata" "Hercostomus nigripennis" "Delia spp." "Coenosia pedella"
+"Cirsium arvense" 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Hypochaeris radicata" 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+"Lonicera periclymenum" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Lotus corniculatus" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+"Plantago lanceolata" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Rubus fruticosus" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 1 1 0
+"Trifolium repens" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
