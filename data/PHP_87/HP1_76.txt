@@ -1,0 +1,22 @@
+"Prunus spinosa" "Trifolium spp." "Potentilla reptans" "Glechoma hederacea" "Urtica dioica" "Holcus lanatus" "Grass unknown" "X Triticosecale" "Triticum sp." "Stachys sylvatica" "Ranunculus repens" "Acer campestre" "Corylus avellana" "Crataegus monogyna" "Rumex spp." "Quercus robur" "Coronopus squamatus" "Sinapis arvensis" "Cirsium arvense" "Rubus fruticosus"
+"Acronicta psi" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Agromyza vicifoliae" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Celypha lacunana" 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Cnephasia asseclana" 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+"Eurrhypara hortulata" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Operophtera brumata" 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0
+"Pegomya hyoscami" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+"Phyllonorycter oak complex" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Phyllonorycter spp." 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0
+"Phytomyza ranunculi" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Phytomyza sp." 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Pleuroptya ruralis" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Plutella xylostella" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+"ukD31" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"ukL143" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"ukL201" 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"ukL202" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"ukL228" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
