@@ -1,0 +1,9 @@
+"Cucullia kurilullia" "Atrachya menetriesi" "Eobiana engelhardti" "Pylargosceles steganioides steganioides" "Exomala orientalis" "Popillia japonica" "Eurydema rugosa" "Conocephalus chinensis" "Lema diversa" "Oxya yezoensis" "Phaneroptera falcata" "Eugnathus distinctus" "Homoeocerus unipunctatus" "Stethophyma magister" "Parapodisma setouchiensis" "Sternuchopsis trifidus" "Arctiidae sp." "Anomala albopilosa" "Atractomorpha lata" "Episomus turritus" "Clanis bilineata" "Mimela splendens" "Lixus depressipennis" "Homoeocerus striicornis" "Heteroptera sp." "Nezara antennata" "Autographa gamma" "Halyomorpha halys" "Maladera japonica"
+"Hemerocallis fulva var. kwanso" 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Conyza sumatrensis" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Picris hieracioides subsp. japonica" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Solidago altissima" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Persicaria hydropiper" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Amphicarpaea bracteata subsp. edgeworthii var. japonica" 0 0 1 0 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0
+"Medicago lupulina" 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0
+"Vulpia myuros" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
