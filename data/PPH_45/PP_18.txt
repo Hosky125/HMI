@@ -1,0 +1,9 @@
+"Bee5" "Ant" "Fly5" "Fly15" "Fly1" "Bee1" "Beetle3" "Beetle1" "Wasp1" "Bee2" "Bee3" "Bee4" "Bee6" "Bee7" "Unknow" "Beetle2" "Fly7" "Fly8" "Fly4" "Fly9" "Butterfly2" "Fly13" "Fly11" "Bee14" "Wasp5"
+"B.darwinii" 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"E.coccineum" 1 1 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0
+"L.hirsuta" 1 1 0 0 1 1 0 0 0 1 1 1 1 0 1 0 1 0 0 1 0 0 0 0 0
+"M.boaria" 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"M.chubutensis" 0 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+"R.cucullatum" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"R.magellanicum" 1 1 1 1 1 1 0 0 0 0 0 0 1 0 0 0 1 1 1 1 0 1 1 1 1
+"S.patagonicus" 1 1 1 0 1 1 1 1 0 1 0 0 0 0 0 0 1 1 0 1 0 0 0 0 0
