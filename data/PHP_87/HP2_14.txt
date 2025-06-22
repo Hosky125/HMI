@@ -1,0 +1,20 @@
+"Aphidius matricariae" "Praon dorsale" "Aphidius urticae" "Aphidius microlophii" "Aphidius picipes" "Trioxys acalephae" "Aphidius eadyi" "Aphidius ervi" "Aphelinus abdominalis" "Ephedrus plagiator" "Praon volucre" "Aphidius rubi" "Lysiphlebus fabarum" "Aphidius rhopalosiphi" "Aphelinus varipes" "Trioxys sp.1" "Aphidius salicis"
+"Capitophorus carduinus" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Uroleucon cirsii" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis urticata" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Acyrthosiphon pisum" 0 1 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0
+"Macrosiphum funestum" 0 1 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0
+"Amphorophora rubi" 0 1 0 0 1 0 0 1 0 0 1 1 0 0 0 0 0
+"Aphis rumicis" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Metopolophium albidum" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Sitobion avenae" 0 0 0 0 0 0 0 1 1 1 1 0 0 1 0 0 0
+"Sitobion fragariae" 0 0 0 0 0 0 0 1 1 1 1 0 0 1 0 0 0
+"Megoura viciae" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Sitobion ptericolens" 0 1 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0
+"Aphis jacobaeae" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Megourella purpurea" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Metopolophium dirhodeum" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Diuraphis holci" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"Myzus sp." 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0
+"Cavariella angelica" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
