@@ -1,0 +1,3 @@
+"Dilophus spp." "Episyrphus balteatus" "Musca spp." "Scaeva spp." "Sphaerophoria scripta" "Eupeodes corollae" "Lasioglossum spp." "Cylindromyia spp." "Nemotelus spp." "Ulidiidae"
+"CHFU" 1 1 1 1 1 1 0 0 0 0
+"LEMA" 1 0 1 0 1 1 1 1 1 1
