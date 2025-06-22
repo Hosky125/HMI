@@ -1,0 +1,12 @@
+"Ephedrus lacertosus" "Lysiphlebus sp." "Aphidius ervi" "Praon volucre" "Aphidius microlophii" "Ephedrus plagiator" "Lipolexis gracilis" "Aphidius avenae" "Aphidius rhopalosiphi" "Aphidius uzbekistanicus" "Pran volucre" "Aphidius funebris"
+"Amphorophora rubi" 1 0 0 0 0 0 0 0 0 0 0 0
+"Aphis fabae" 0 1 0 0 0 0 0 0 0 0 0 0
+"Aphis ruborum" 0 1 0 0 0 0 0 0 0 0 0 0
+"Aphis sp." 0 1 0 0 0 0 0 0 0 0 0 0
+"Aphis urticata" 0 1 0 0 0 0 0 0 0 0 0 0
+"Metopolophium dirhodum" 0 0 1 1 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 0 0 0 1 0 0 0 0 0 0 0
+"Myzus cerasi" 0 0 0 0 0 1 1 0 0 0 0 0
+"Sitobion avenae" 0 0 1 0 0 1 0 1 1 1 1 0
+"Sitobion fragariae" 0 0 0 0 0 1 0 0 0 0 0 0
+"Uroleucop sp." 0 0 0 0 0 0 0 0 0 0 0 1
