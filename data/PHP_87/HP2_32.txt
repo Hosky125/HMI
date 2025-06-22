@@ -1,0 +1,15 @@
+"Achrysocharoides sp.3" "Achrysocharoides sp.4" "Chrysocharis laomedon" "Chrysocharis sp.1" "Pleurotropposis japonica" "Elachertus inunctus" "Entedontinae sp.4" "Entedontinae sp.9" "Pnigalio katonis" "Pnigalio sp.3" "Sympiesis laevifrons " "Sympiesis sericeicornis" "Pholetesor sp." "Holcothorax sp." "Closterocerus trifasciatus" "Sympiesis laevifrons" "Choeras sp." "Dolichogenidea sp." "Glyptapanteles mygdonia" "Achrysocharoides sp.5" "Achrysocharoides sp.6" "Achrysocharoides sp.11" "Achrysocharoides sp.1" "Dolichogenidea " "Achrysocharoides sp.2" "Achrysocharoides sp.7" "Achrysocharoides sp.12" "Dolichogenidea dilecta" "Orgilus kumatai" "Cirrospilus lyncus" "Cirrospilus diallus" "Cirrospilus sp.1" "Cirrospilus sp.2" "Elachertus sp.2" "Entedontinae sp.10" "Entedontinae sp.5" "Pnigalio sp.2" "Pnigalio sp.6" "Sympiesis sp.1" "Sympiesis sp.4" "Sympiesis sp.3" "Pnigalio sp.5" "Achrysocharoides sp.8" "Achrysocharoides sp.10" "Eulophinae sp.1"
+"Phyllonorycter jezoniella" 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Caloptilia sp.1" 1 1 1 1 0 1 1 1 1 1 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Stigmella sp." 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter orientalis" 1 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Cameraria niphonica" 1 1 1 0 0 0 0 0 0 0 0 1 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter sp.2" 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter turugisana" 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter sp.1" 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Gibbovalva kobusi" 0 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Gibbovalva magnoliae" 0 0 0 0 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter bicinctella" 0 0 1 1 1 1 0 0 1 1 0 1 1 1 0 1 0 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0
+"Caloptilia sp.3" 0 0 1 1 1 1 0 0 1 1 0 1 1 1 0 1 0 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0
+"Phyllonorycter acutissimae" 0 0 1 1 1 1 0 0 1 1 0 1 1 1 0 1 0 1 1 0 0 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0
+"Phyllonorycter issikii" 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
