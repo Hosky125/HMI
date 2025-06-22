@@ -1,0 +1,8 @@
+"Uroleucon nigrotuberculatum" "Lixus acutipennis" "Ampedus japonicus" "Lygocoris lucorum" "Gametis jucunda" "Mimela splendens" "Conocephalus chinensis" "Nysius plebeius" "Aphidoidea" "Cucullia fraterna" "Lema diversa" "Lema coronata" "Anomala albopilosa" "Sternuchopsis trifidus" "Atractomorpha lata" "Episomus turritus" "Phaneroptera falcata" "Clanis bilineata" "Homoeocerus unipunctatus" "Lixus depressipennis" "Arctiidae sp." "Homoeocerus striicornis" "Heteroptera sp." "Eugnathus distinctus" "Altica oleracea" "Popillia japonica" "Rhopalus maculatus"
+"Artemisia indica var. maximowiczii" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Conyza sumatrensis" 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Ixeridium dentatum" 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Persicaria hydropiper" 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Amphicarpaea bracteata subsp. edgeworthii var. japonica" 0 0 0 0 0 1 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0
+"Veronica peregrina" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+"Pennisetum alopecuroides" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
