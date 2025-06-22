@@ -1,0 +1,16 @@
+"Chrysocharis brethesi" "Chrysonotomyia thysanoides" "haedrotoma mesoclypealis" "parasitoid sp.z" "Agrostocynips clavatus" "Chrysocharis flacilla" "Eucolidae sp.C" "Phaedrotoma mesoclypealis" "Phaedrotoma angiclypealis" "Phaedrotoma luteoclypealis" "Chrysocharis caribea" "Phaedrotoma scabriventris" "Phaedrotoma near riberoensis" "Diglyphus websteri" "Ipomoea cairica" "Ipomoea rubriflora" "Chrysonotomyia sp.D" "Pteromalidae sp.A" "Chrysonotomyia xenodice" "Halticoptera helioponi"
+"Chromatomyia platensis" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza sp. nov.A" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Calycomyza longicauda" 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza caesalpiniae" 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza commelinae" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza spencerella" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Calycomyza cruciata" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Haplopeodes sp.A" 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0
+"Japanagromyza polygoni" 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0
+"Calycomyza brewerae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+"Agromyza sp. nov." 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Ophyiomyia cabanae" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Haplopeodes lycivora" 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0
+"Phytomyza williamsoni" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"Liriomyza huidobrensis" 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1
