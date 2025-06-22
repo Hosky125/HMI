@@ -1,0 +1,18 @@
+"Euonymus europaeus" "Prunus domestica" "Capsella bursa-pastoris" "Chenopodium album" "Rumex obtusifolius" "Salix sp." "Sambucus nigra" "Prunus spinosa" "Myosotis arvensis" "Senecio inaequidens" "Acer pseudoplatanus" "Phalaris arundinacea" "Phragmites australis" "Rosa canina" "Rosa sp." "Acer campestre" "Alnus glutinosa" "Prunus padus" "Zea mays" "Quercus robur"
+"Aphis fabae" 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis farinosa" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis sambuci" 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Brachycaudus helichrysi" 0 1 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0
+"Cavariella pastinacae" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Drepanosiphum platanoides" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Hyalopterus pruni" 0 1 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0
+"Macrosiphum rosae" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+"Periphyllus acericola" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Periphyllus hirticornis" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Periphyllus testudinaceus" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"Phorodon humuli" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Pterocallis alni" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"Pterocomma populeum" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Pterocomma salicis" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Rhopalosiphum padi" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+"Tuberculatus annulatus" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
