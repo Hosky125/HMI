@@ -1,0 +1,8 @@
+"Ephedrus lacertosus" "Praon sp.1" "Lysiphlebus sp." "Diaeretiella rapae" "Praon volucre" "Aphidius microlophii" "Aphidius ervi"
+"Amphorophora rubi" 1 1 0 0 0 0 0
+"Aphis fabae" 0 0 1 0 0 0 0
+"Aphis sp." 0 0 1 0 0 0 0
+"Brevicoryne brassicae" 0 0 0 1 0 0 0
+"Macrosiphum euphorbiae" 0 0 0 0 1 0 0
+"Microlophium carnosum" 0 0 0 0 0 1 0
+"Sitobion avenae" 0 0 0 0 0 0 1
