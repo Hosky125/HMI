@@ -1,0 +1,25 @@
+"Trifolium spp." "Medicago sativa" "Urtica dioica" "Stachys sylvatica" "Convolvulus arvensis" "Grass unknown" "Triticum sp." "Hordeum vulgare" "Glechoma hederacea" "Quercus robur" "Euonymus europaeus" "Crataegus monogyna" "Ulmus procera" "Corylus avellana" "Arctium sp." "Ranunculus ficaria" "Ranunculus repens" "Silene dioica" "Stellaria media" "Sonchus asper" "Alopecurus myosuroides"
+"Agromyza vicifoliae" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Anthophila fabriciana" 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Autographa gamma" 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Coleophora albitarsella" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Coleophora lineolea" 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Ectoedemia albifasciella" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Hypena proboscidalis" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Ligdia adustata" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Liriomyza congesta" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Pandemis heparana" 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+"Parornix anglicella" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Parornix devoniella" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Phyllonorycter nicellii" 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Phytomyza lappae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Phytomyza ranunculi" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0
+"Plutella xylostella" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Polygonia c-album" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Scaptomyza graminum" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+"Stigmella spp." 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"ukD11" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"ukD18" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"ukD39" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
