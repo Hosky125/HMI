@@ -1,0 +1,6 @@
+"Bombylius major" "Lasioglossum malachurum" "Pangonius spp." "Calliphoridae" "Colias croceus" "Dilophus spp." "Empis tesellata" "Eucera spp." "Eupeodes corollae" "Empis spp." "Sphaerophoria scripta" "Ulidiidae" "Musca spp." "Andrena cinerea" "Andrena spp." "Braconidae" "Anastoechus spp." "Episyrphus balteatus" "Cylindromyia spp." "Geometridae" "Melanopangonius spp." "Odontomyia spp." "Scaeva spp."
+"CETE" 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHFU" 0 0 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+"HOMA" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"LEMA" 0 1 1 0 0 1 0 0 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1
+"MESP" 0 0 0 0 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0
