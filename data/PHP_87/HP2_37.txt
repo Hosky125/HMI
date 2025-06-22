@@ -1,0 +1,7 @@
+"Parasitellus fucorum" "Hypoaspis spp." "Conopidae" "Crithidia bombi" "Nosema bombi" "Kuzinia spp." "Apicystis bombi"
+"Bombus humilis" 1 0 0 0 0 0 0
+"Bombus jonellus" 1 1 1 1 0 0 0
+"Bombus lapidarius" 1 0 1 0 1 0 0
+"Bombus lucorum" 1 1 1 1 0 1 1
+"Bombus terrestris" 1 1 1 1 0 1 0
+"Bombus pascuorum" 1 1 0 0 0 1 0
