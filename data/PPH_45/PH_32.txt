@@ -1,0 +1,6 @@
+"Agriotes spp." "Psilothrix viridicoerulea" "Brassicogethes spp." "Bruchidae" "Scyphophorus spp." "Malachius bipustulatus" "Aiolopus strepens" "Cantharis coronata" "Tessellana tessellata" "Theba pisana" "Cochlicella barbara" "Lasiocampa trifolii caterpillar" "Lepidoptera caterpillar" "Cassida spp." "Meligethes spp." "Oedemeridae"
+"CHFU" 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"CHMI" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"LEMA" 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1
+"MESP" 0 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+"PUPA" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
