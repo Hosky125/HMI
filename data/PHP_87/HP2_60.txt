@@ -1,0 +1,5 @@
+"ectoparasite sp.1" "ectoparasite sp.2" "ectoparasite sp.3" "ectoparasite sp.4" "ectoparasite sp.5" "ectoparasite sp.8" "ectoparasite sp.6" "ectoparasite sp.7"
+"rodent sp.1" 1 1 1 1 1 1 0 0
+"rodent sp.2" 1 0 1 0 0 0 0 0
+"rodent sp.3" 1 1 1 1 1 0 1 1
+"rodent sp.4" 1 1 1 0 0 0 0 0
