@@ -1,0 +1,11 @@
+"Salix cinerea" "Quercus robur" "Betula pubescens" "Alnus glutinosa"
+"Phyllonorycter salicicolella" 1 0 0 0
+"Phyllonorycter dubitella" 1 0 0 0
+"Phyllonorycter harrisella" 0 1 0 0
+"Phyllonorycter heegeriella" 0 1 0 0
+"Phyllonorycter lautella" 0 1 0 0
+"Phyllonorycter quercifoliella" 0 1 0 0
+"Phyllonorycter ulmifoliella" 0 0 1 0
+"Phyllonorycter kleemanella" 0 0 0 1
+"Phyllonorycter rajella" 0 0 0 1
+"Phyllonorycter stettinensis" 0 0 0 1
