@@ -1,0 +1,20 @@
+"Trifolium spp." "Urtica dioica" "Rubus fruticosus" "Ranunculus repens" "Grass unknown" "Anthriscus sylvestris" "Holcus lanatus" "Triticum sp." "Avena spp." "Crataegus monogyna" "Ranunculus acris" "Corylus avellana" "Sonchus oleraceus" "Sonchus asper" "Cirsium arvense" "Papaver rhoeas" "Heracleum sphondylium" "Ulmus procera" "Quercus robur"
+"Agromyza nana" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Anthophila fabriciana" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Celypha lacunana" 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Liriomyza orbona" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter corylifoliella" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Phytomyza ranunculi" 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Pleuroptya ruralis" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Stigmella hybnerella" 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Stigmella microtheriella" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Stigmella spp." 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0
+"ukD1" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"ukD11" 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0
+"ukD13" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+"ukD41" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+"ukL128" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+"ukL204" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
