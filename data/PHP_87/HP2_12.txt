@@ -1,0 +1,10 @@
+"Aphidius matricariae" "Praon dorsale" "Lysiphlebus fabarum" "Ephedrus lacertosus" "Aphidius eadyi" "Aphidius ervi" "Aphidius picipes" "Praon volucre" "Aphelinus abdominalis" "Aphidius rubi" "Aphidius rhopalosiphi" "Praon abjectum"
+"Capitophorus carduinus" 1 0 0 0 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 1 0 0 0 0 0 0 0 0 0 0
+"Brachycaudus cardui" 0 0 1 0 0 0 0 0 0 0 0 0
+"Acyrthosiphon pisum" 0 1 1 1 1 1 1 1 1 0 0 0
+"Macrosiphum funestum" 0 1 0 0 0 0 0 0 0 1 0 0
+"Amphorophora rubi" 0 1 0 0 0 0 0 0 0 0 0 0
+"Sitobion avenae" 0 0 0 0 0 1 1 1 1 0 1 0
+"Sitobion fragariae" 0 0 0 0 0 1 1 1 1 0 1 0
+"Aphis spp. on Epilobium" 0 0 0 0 0 0 0 0 0 0 0 1
