@@ -1,0 +1,9 @@
+"Anastoechus spp." "Eristalis spp." "Andrena argentata" "Andrena cinerea" "Andrena humilis" "Andrena spp." "Cylindromyia spp." "Dilophus spp." "Episyrphus balteatus" "Eucera spp." "Eupeodes corollae" "Lomatia spp." "Musca spp." "Pangonius spp." "Scaeva spp." "Sphaerophoria scripta" "Sphaerophoria spp." "Ulidiidae" "Euchloe crameri" "Lasioglossum malachurum" "Melanostoma spp." "Calliphoridae" "Lasiocampa trifolii"
+"BEMA" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CETE" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHFU" 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0
+"HOMA" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"LEMA" 1 0 0 0 0 1 1 1 0 1 1 0 0 0 0 1 0 0 1 1 1 0 0
+"MESP" 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"PUPA" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 1
+"SCLA" 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
