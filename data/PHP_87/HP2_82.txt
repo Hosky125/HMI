@@ -1,0 +1,16 @@
+"Apanteles emarginatus" "Apanteles dilectus" "Dacnusa areolaris" "Diglyphus isaea" "Dacnusa tarsalis" "Hemiptarsenus ornatus" "Heterolexis balteata" "Chrysocharis idyia" "Chrysocharis pubicornis" "Cirrospilus pictus" "Cyrtogaster vulgaris" "Dacnusa confinis" "Dacnusa macrospila" "Dacnusa maculipes" "Dacnusa sp." "Miscogaster maculata" "Opius levis" "Opius pallipes" "Chelonus sp. Indet. Spec. A" "Pnigalio pectinicornis" "Achrysocharoides atys" "Chrysocharis pallipes" "Dacnusa temula" "Opius gracilis" "Colastes braconius" "Exotela cyclogaster var. umbellina" "Hemiptarsenus unguicellus" "Habronyx nigricornis" "Tranosema sp."
+"Caloptilia syringella" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia milii" 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Chromatomyia nigra" 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+"Cnephasia asseclana" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Epermenia chaerophyllella" 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Phyllonorycter oxyacanthae" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0
+"Phytomyza spondylii" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+"Scaptomyza flava" 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"ukD1" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"ukD11" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+"ukD3" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 0 0 0
+"ukD38" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"ukD42" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0
+"ukL201" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+"ukL226" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
