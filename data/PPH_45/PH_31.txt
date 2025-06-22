@@ -1,0 +1,5 @@
+"Cochlicella barbara" "Tessellana tessellata" "Theba pisana" "Cleta ramosaria caterpillar" "Psilothrix viridicoerulea" "Oedemeridae" "Cryptocephalus spp." "Lasiocampa trifolii caterpillar" "Cantharis spp." "Meligethes spp." "Meloidae" "Miridae" "Malachius bipustulatus" "Agriotes spp." "Aphis fabae" "Brassicogethes spp." "Cantharis coronata" "Tetranychus urticae" "Scyphophorus spp." "Mordellidae" "Nymphalidae caterpillar"
+"BEMA" 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHFU" 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"LEMA" 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+"MESP" 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1
