@@ -1,0 +1,8 @@
+"Cirsium palustre" "Lotus uliginosus" "Cytisus scoparius" "Rubus sp." "Dactylis glomerata" "Holcus lanatus" "Holcus mollis" "Poa trivialis" "Poa pratensis" "Anthoxanthum odoratum" "Agrostis stolonifera" "Deschampsia cespitosa" "Epilobium ciliatum" "Epilobium montanum" "Pteridium aquilinum"
+"Capitophorus carduinis" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Acyrthosiphon pisum" 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Sitobion fragariae" 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0
+"Sitobion avenae" 0 0 0 0 1 1 1 1 1 1 1 1 0 0 0
+"Aphis epilobii" 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+"Aphis grossulariae" 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0
+"Sitobion ptericolens" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
