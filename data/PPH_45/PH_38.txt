@@ -1,0 +1,9 @@
+"Theba pisana" "Lasiocampa trifolii caterpillar" "Mordellidae" "Oedemeridae" "Bruchidae" "Malachius bipustulatus" "Mirini spp." "Psilothrix viridicoerulea" "Thysanoptera" "Miridae" "Brassicogethes spp." "Oxycarenus hyalinipennis" "Cantharis coronata" "Lepidoptera caterpillar" "Aelia spp." "Cochlicella barbara" "Coscinia spp." "Agriotes spp." "Anthaxia semicuprea" "Cryptocephalus spp." "Lagorina sericea" "Meligethes spp." "Acrididae" "Otala lactea" "Aiolopus strepens"
+"BEMA" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CETE" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"CHFU" 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+"HOMA" 1 1 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0
+"LEMA" 1 1 1 1 0 1 0 1 0 0 1 0 0 0 0 1 0 1 1 1 1 1 0 0 0
+"MESP" 1 0 0 1 0 1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 1 0
+"PUPA" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+"SCLA" 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 0 0
