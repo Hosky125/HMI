@@ -1,0 +1,14 @@
+"Pea" "Poa sp." "Rumex sp." "Senecio vulgaris" "Rubus fruticosus" "Brassicaceae" "Chenopodim sp." "Silene sp." "Heracleum sphondylium" "Acer sp." "Urtica dioica" "Carpinus sp." "Coryllus avellana" "Quercus sp." "Poaceae" "triticale" "Cirsium arvense" "Leucanthemum vulgare" "Sonchus sp."
+"Acyrthosiphom pisum" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis fabae" 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis ruborum" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Aphis sp." 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Brachycaudus sp." 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+"Cavariella pastinacae" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Cavariella theobaldi" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+"Drepanosiphum platanoides" 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0
+"Drepanosiphum sp." 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+"Microlophium carnosum" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+"Myzocallis coryllii" 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0
+"Sitobion avenae" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0
+"Uroleucon sp." 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1
