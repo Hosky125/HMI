@@ -1,0 +1,6 @@
+"Piezodorus hybneri" "Riptortus linearis" "Ampedus japonicus" "Lygocoris lucorum" "Gametis jucunda" "Mimela splendens" "Cucullia fraterna" "Aphidoidea" "Rhopalus maculatus" "Popillia japonica"
+"Commelina communis" 1 1 0 0 0 0 0 0 0 0
+"Conyza sumatrensis" 0 0 1 1 1 1 0 0 0 0
+"Ixeridium dentatum" 0 0 0 0 0 0 1 1 0 0
+"Pennisetum alopecuroides" 0 0 0 0 0 0 0 0 1 0
+"Veronica peregrina" 0 0 0 0 0 0 0 0 0 1
