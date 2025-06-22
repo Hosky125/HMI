@@ -1,0 +1,9 @@
+"Ampedus japonicus" "Lygocoris lucorum" "Gametis jucunda" "Mimela splendens" "Conocephalus chinensis" "Dolycoris baccarum" "Aphidoidea" "Cucullia fraterna" "Lema coronata" "Lema diversa" "Phaneroptera falcata" "Aphis craccivora" "Piezodorus hybneri" "Riptortus linearis" "Patanga japonica" "Exomala orientalis" "Popillia japonica" "Atrachya menetriesi" "Monolepta dichroa" "Pteronemobius ohmachii" "Lymantriinae sp." "Formicidae sp." "Rhopalus maculatus"
+"Conyza canadensis" 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Conyza sumatrensis" 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Ixeridium dentatum" 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+"Persicaria hydropiper" 0 0 0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+"Commelina communis" 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0
+"Kummerowia striata" 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 0 0
+"Veronica peregrina" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+"Pennisetum alopecuroides" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1
