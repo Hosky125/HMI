@@ -19,6 +19,3 @@ TemNet_Raw_HMI_Modularity.m, TemNet_NullModel_Inter_HMI_Modularity.m, TemNet_Nul
 SpaNet_Raw_HMI_Modularity.m, SpaNet_NullModel_Inter_HMI_Modularity.m, SpaNet_NullModel_Intra_HMI_Modularity.m, SpaNet_NullModel_Hybrid_HMI_Modularity.m
 in the code folder are used to partition modules and compute HMI, monomodularity, multilayer modularity.
 NullModel_HMI_MultiModularity_Analysis.R in the code folder is used for statistical analysis and plotting.
-
-最好还有几个算HMI的示例，用不同类型网络。
-The MATLAB codes to calculate HMI for unweighted or weighted multilayer networks are provided in GitHub (https://github.com/Hosky125/HMI). 
