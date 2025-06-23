@@ -6,8 +6,8 @@ HomoMI (method, module_partition, interlayer_links_weight) requires three parame
 'module_partition' represents a matrix of node module partition, and 
 'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
 
-Schematic_Example1.m is the sample code for calculating the HMI of the diagonal coupling network (see Figure 1 in the main text of the manuscript).
-Schematic_Example2.m is the sample code for calculating the HMI of a temporal or spatial network.
+Schematic_Example1.m in the code folder is the sample code for calculating the HMI of the diagonal coupling network (see Figure 1 in the main text of the manuscript).
+Schematic_Example2.m in the code folder is the sample code for calculating the HMI of a temporal or spatial network.
 
 We follow Pilosof et al.(2017) modify the GenLouvain code from http://netwiki.amath.unc.edu/GenLouvain/GenLouvain by changing the null model Pijs, see generate_monolayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in monolayer networks), generate_multilayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in diagnol coupling networks) and generate_multilayer_modularity_matrix.m (applicable to generating supra adjacency matrix in bipartite multilayer networks or multiplex networks) in the code folder.
 
