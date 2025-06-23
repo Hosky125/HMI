@@ -1,13 +1,13 @@
 function [B_multilayer,mm_multilayer] = generate_multilayer_modularity_matrix(A,p,q,gamma,networktype,interlayer_links_type,interlayer_links_weight)
-%A:Ã¿²ãÊı¾İ×ª»»Îªsupra-matrixºóµÄÊı¾İ,Bipartite networks have to be transformed to unipartite (square matrix).
-%p,q:size(monolayer data),ĞĞÊıºÍÁĞÊı¡£±ÈÈç£ºhosts-parasites network,p±íÊ¾hostsµÄÎïÖÖÊı£¬q±íÊ¾parasitesµÄÎïÖÖÊı
-%gamma:Ä¬ÈÏÎª1
-%networktype:bipartite or unipartite,Õâ¾ö¶¨ÁËÊ¹ÓÃbipartite multilayer modularity or unipartite multilayer modularity
-%interlayer_links_type:²ã¼äÁ¬½Ó·½Ê½ÊÇdiagonal coupling(Ö»ÓĞÄ³Ò»ÓªÑø¼¶ÎïÖÖÆğµ½Á¬½Ó×÷ÓÃ)»¹ÊÇmultiplex£¨ËùÓĞÎïÖÖ¶¼Æğµ½Á¬½Ó×÷ÓÃ£©
-%interlayer_links_weight:¾ØÕó£¬Î¬¶ÈÓÉconnector speciesºÍlayers¾ö¶¨
-%Êä³ö£ºB_multilayer±íÊ¾modularity matrix,ÓÃÓÚgenlouvain()
-%      mm_multilayer±íÊ¾2mu,¸ù¾İgenlouvain()µÄ½á¹û£¬¼ÆËãmultilayer modularityÊ±ÓÃµ½
-
+%A:æ¯å±‚æ•°æ®è½¬æ¢ä¸ºsupra-matrixåçš„æ•°æ®,Bipartite networks have to be transformed to unipartite (square matrix).
+%p,q:size(monolayer data),è¡Œæ•°å’Œåˆ—æ•°ã€‚æ¯”å¦‚ï¼šhosts-parasites network,pè¡¨ç¤ºhostsçš„ç‰©ç§æ•°ï¼Œqè¡¨ç¤ºparasitesçš„ç‰©ç§æ•°
+%gamma:é»˜è®¤ä¸º1
+%networktype:bipartite or unipartite,è¿™å†³å®šäº†ä½¿ç”¨bipartite multilayer modularity or unipartite multilayer modularity
+%interlayer_links_type:å±‚é—´è¿æ¥æ–¹å¼æ˜¯diagonal coupling(åªæœ‰æŸä¸€è¥å…»çº§ç‰©ç§èµ·åˆ°è¿æ¥ä½œç”¨)è¿˜æ˜¯multiplexï¼ˆæ‰€æœ‰ç‰©ç§éƒ½èµ·åˆ°è¿æ¥ä½œç”¨ï¼‰
+%interlayer_links_weight:çŸ©é˜µï¼Œç»´åº¦ç”±connector specieså’Œlayerså†³å®š
+%è¾“å‡ºï¼šB_multilayerè¡¨ç¤ºmodularity matrix,ç”¨äºgenlouvain()
+%      mm_multilayerè¡¨ç¤º2mu,æ ¹æ®genlouvain()çš„ç»“æœï¼Œè®¡ç®—multilayer modularityæ—¶ç”¨åˆ°
+% Modified by Haotian Zhang on March 6, 2025
 N=length(A{1}); % Number of nodes (p+q)
 L=length(A); % Number of layers
 
