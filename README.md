@@ -9,7 +9,8 @@ HomoMI (method, module_partition, interlayer_links_weight) requires three parame
 Schematic_Example1.m in the code folder is the sample code for calculating the HMI of the diagonal coupling network (see Figure 1 in the main text of the manuscript).
 Schematic_Example2.m in the code folder is the sample code for calculating the HMI of a temporal or spatial network.
 
-##Example
+Example
+------
 ![image](https://github.com/Hosky125/HMI/blob/main/Figure1.jpg)
 ```
 %diagonal coupling network
