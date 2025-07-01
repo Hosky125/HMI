@@ -12,9 +12,37 @@ Schematic_Example2.m in the code folder is the sample code for calculating the H
 ##Example
 ![image](https://github.com/Hosky125/HMI/blob/main/Figure1.jpg)
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+%diagonal coupling network
+%-----------------------------------------------------%
+%module partition by multilayer algorithm
+%without interlayer links weight
+%Figure 1(a)
+module_partition=[1 1;1 1]
+HomoMI("multilayer",module_partition,0)
+
+%module partition by multilayer algorithm
+%without interlayer links weight
+%Figure 1(b)
+module_partition=[1 1;1 2]
+HomoMI("multilayer",module_partition,0)
+
+%module partition by multilayer algorithm
+%without interlayer links weight
+%Figure 1(c)
+module_partition=[1 1;2 3]
+HomoMI("multilayer",module_partition,0)
+
+%module partition by multilayer algorithm
+%without interlayer links weight
+%Figure 1(d)
+module_partition=[1 1;2 2]
+HomoMI("monolayer",module_partition,0)
+
+%module partition by multilayer algorithm
+%without interlayer links weight
+%Figure 1(e)
+module_partition=[1 1;2 3]
+HomoMI("monolayer",module_partition,0)
 ```
 
 We follow Pilosof et al.(2017) modify the GenLouvain code from http://netwiki.amath.unc.edu/GenLouvain/GenLouvain by changing the null model Pijs, see generate_monolayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in monolayer networks), generate_multilayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in diagnol coupling networks) and generate_multilayer_modularity_matrix.m (applicable to generating supra adjacency matrix in bipartite multilayer networks or multiplex networks) in the code folder.
