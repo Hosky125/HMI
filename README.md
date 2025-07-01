@@ -12,35 +12,35 @@ Example of calculating HMI through a diagonally coupled network
 ```
 %diagonal coupling network
 %-----------------------------------------------------%
-%module partition by multilayer algorithm
+%module partition by monolayer algorithm
 %without interlayer links weight
 %Figure (a)
+module_partition=[1 1;2 2]
+HomoMI("monolayer",module_partition,0)
+
+%module partition by monolayer algorithm
+%without interlayer links weight
+%Figure (b)
+module_partition=[1 1;2 3]
+HomoMI("monolayer",module_partition,0)
+
+%module partition by multilayer algorithm
+%without interlayer links weight
+%Figure (c)
 module_partition=[1 1;1 1]
 HomoMI("multilayer",module_partition,0)
 
 %module partition by multilayer algorithm
 %without interlayer links weight
-%Figure (b)
+%Figure (d)
 module_partition=[1 1;1 2]
 HomoMI("multilayer",module_partition,0)
 
 %module partition by multilayer algorithm
 %without interlayer links weight
-%Figure (c)
-module_partition=[1 1;2 3]
-HomoMI("multilayer",module_partition,0)
-
-%module partition by multilayer algorithm
-%without interlayer links weight
-%Figure (d)
-module_partition=[1 1;2 2]
-HomoMI("monolayer",module_partition,0)
-
-%module partition by multilayer algorithm
-%without interlayer links weight
 %Figure (e)
 module_partition=[1 1;2 3]
-HomoMI("monolayer",module_partition,0)
+HomoMI("multilayer",module_partition,0)
 ```
 
 Schematic_Example1.m in the code folder is the sample code for calculating the HMI of the diagonal coupling network (see Figure 1 in the main text of the manuscript).
