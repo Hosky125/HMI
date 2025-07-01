@@ -7,14 +7,77 @@ HomoMI (method, module_partition, interlayer_links_weight) requires three parame
 'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
 
 #无权重的网络
+##读取网络数据
+##划分网络
+##计算HMI
 
 #有权重的网络
+```
+%Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020).
+%Hervías-Parejo S, Tur C,Heleno R, Nogales M, Timóteo S, Traveset A.2020 Species functional traits and abundance as drivers of multiplex ecological networks:first empirical quantification of inter-layer edge weights. Proc. R. Soc. B 287: 20202127.
+%SC(San Cristóbal) Island
+% 读取文件
+p_h=importdata('SC_pollination.txt');
+p_h=p_h.data;
+p_p=importdata('SC_SeedDispersal.txt');
+p_p=p_p.data;
 
-#读取网络数据
+interlayer_links_weight=[0.053 0.068 0.014 0.061 0.019 0.147 0.083 0.107 0.065];
+%-------------------------------------------------------------------------%
+% 无intralayer links weight且无interlayer links weight时，
+% 计算:monolayer HMI(无weight)和multilayer modularity
+p_N=min(size(p_h,1),size(p_p,1));
 
-#划分网络
+% Calculate monolayer modularity
+[B1,mm1] = generate_monolayer_networks_supra_adjacency_matrix(p_h,1);
+[B2,mm2] = generate_monolayer_networks_supra_adjacency_matrix(p_p,1);
 
-#计算HMI
+iter=100;
+S1_plant=zeros(p_N, iter);
+S2_plant=zeros(p_N, iter);
+Q1_total=zeros(iter, 1);
+Q2_total=zeros(iter, 1);
+Q_mean=zeros(iter, 1);
+
+for j=1:iter
+    [S1,Q1] = genlouvain(B1,10000,0,1,1);
+    [S2,Q2] = genlouvain(B2,10000,0,1,1);
+    S1_plant(:,j) = S1(1:p_N);
+    S2_plant(:,j) = S2(1:p_N);
+    Q1_total(j,1) = Q1/(2*mm1);
+    Q2_total(j,1) = Q2/(2*mm2);
+    Q_mean(j,1) = (Q1/(2*mm1)+Q2/(2*mm2))/2;
+end
+
+index = find(Q_mean==max(Q_mean));
+% calculate monolayer HMI(unweight)
+module_partition=[S1_plant(:,index(1))';S2_plant(:,index(1))'];
+HomoMI("monolayer",module_partition,0);
+
+%-----------------------------------------------------------%
+% Calculate multilayer modularity(without interlayer links weight)
+interlayer_link_strength=[0.053 0.068 0.014 0.061 0.019 0.147 0.083 0.107 0.065];
+
+% generate multilayer networks supra adjacency matrix
+[B_multilayer,mm_multilayer] = generate_multilayer_networks_supra_adjacency_matrix(p_h,p_p,1,interlayer_link_strength,0);
+
+S1_multilayer_plant=zeros(p_N, iter);
+S2_multilayer_plant=zeros(p_N, iter);
+Q_multilayer_total=zeros(iter, 1);
+h_N=size(p_h,2);
+
+for j=1:iter
+    [S_multilayer,Q_multilayer] = genlouvain(B_multilayer,10000,0,1,1);
+    S1_multilayer_plant(:,j) = S_multilayer(1:p_N);
+    S2_multilayer_plant(:,j) = S_multilayer((p_N+h_N+1):(p_N+h_N+p_N));
+    Q_multilayer_total(j,1) = Q_multilayer/mm_multilayer;
+end
+ 
+index = find(Q_multilayer_total==max(Q_multilayer_total));
+%calculate multilayer HMI(with interlayer links weight)
+module_partition=[S1_multilayer_plant(:,index(1))';S2_multilayer_plant(:,index(1))'];
+HomoMI("multilayer",module_partition,interlayer_link_strength);
+```
 
 Example of calculating HMI through a diagonally coupled network
 ------
