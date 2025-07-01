@@ -6,6 +6,16 @@ HomoMI (method, module_partition, interlayer_links_weight) requires three parame
 'module_partition' represents a matrix of node module partition, and 
 'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
 
+#无权重的网络
+
+#有权重的网络
+
+#读取网络数据
+
+#划分网络
+
+#计算HMI
+
 Example of calculating HMI through a diagonally coupled network
 ------
 ![image](https://github.com/Hosky125/HMI/blob/main/Figure1.jpg)
