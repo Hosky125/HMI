@@ -27,40 +27,11 @@ interlayer_links_weight=[0.053 0.068 0.014 0.061 0.019 0.147 0.083 0.107 0.065];
 % 无intralayer links weight且无interlayer links weight时，
 % 计算:monolayer HMI(无weight)和multilayer modularity
 p_N=min(size(p_h,1),size(p_p,1));
-
-% Calculate monolayer modularity
-[B1,mm1] = generate_monolayer_networks_supra_adjacency_matrix(p_h,1);
-[B2,mm2] = generate_monolayer_networks_supra_adjacency_matrix(p_p,1);
-
-iter=100;
-S1_plant=zeros(p_N, iter);
-S2_plant=zeros(p_N, iter);
-Q1_total=zeros(iter, 1);
-Q2_total=zeros(iter, 1);
-Q_mean=zeros(iter, 1);
-
-for j=1:iter
-    [S1,Q1] = genlouvain(B1,10000,0,1,1);
-    [S2,Q2] = genlouvain(B2,10000,0,1,1);
-    S1_plant(:,j) = S1(1:p_N);
-    S2_plant(:,j) = S2(1:p_N);
-    Q1_total(j,1) = Q1/(2*mm1);
-    Q2_total(j,1) = Q2/(2*mm2);
-    Q_mean(j,1) = (Q1/(2*mm1)+Q2/(2*mm2))/2;
-end
-
-index = find(Q_mean==max(Q_mean));
-% calculate monolayer HMI(unweight)
-module_partition=[S1_plant(:,index(1))';S2_plant(:,index(1))'];
-HomoMI("monolayer",module_partition,0);
-
-%-----------------------------------------------------------%
 % Calculate multilayer modularity(without interlayer links weight)
-interlayer_link_strength=[0.053 0.068 0.014 0.061 0.019 0.147 0.083 0.107 0.065];
-
 % generate multilayer networks supra adjacency matrix
 [B_multilayer,mm_multilayer] = generate_multilayer_networks_supra_adjacency_matrix(p_h,p_p,1,interlayer_link_strength,0);
 
+iter=100;
 S1_multilayer_plant=zeros(p_N, iter);
 S2_multilayer_plant=zeros(p_N, iter);
 Q_multilayer_total=zeros(iter, 1);
