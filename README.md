@@ -1,7 +1,16 @@
 The code folder contains all the code files used in this manuscript: "Introducing the Homo-Module Index (HMI) to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
 
-Among them, the MATLAB function HomoMI (method, module_partition, interlayer_links_weight) is used to calculate HMI.
-HomoMI (method, module_partition, interlayer_links_weight) requires three parameters: 
+Before calculating HMI, need to be installed GenLouvain for network module partition, refer to https://github.com/GenLouvain/GenLouvain.
+
+Among them, the MATLAB function HMI (data, method, iter, interlayer_links_weight) is used to calculate HMI.
+HMI (data, method, iter, interlayer_links_weight) requires four parameters: 
+'data' 数据格式为.txt，数据
+'method' specifies the module partitioning approach ("multilayer" or "monolayer"), 
+'iter' 模块划分的次数, and 
+'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
+
+Among them, the MATLAB function HMI (data, iter, method, module_partition, interlayer_links_weight) is used to calculate HMI.
+HMI (data, method, module_partition, interlayer_links_weight) requires three parameters: 
 'method' specifies the module partitioning approach ("multilayer" or "monolayer"), 
 'module_partition' represents a matrix of node module partition, and 
 'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
