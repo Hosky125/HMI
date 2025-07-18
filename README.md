@@ -18,14 +18,13 @@ HMI (data, method, module_partition, interlayer_links_weight) requires three par
 #无权重的网络
 #有权重的网络
 ## A complete example of calculating HMI
-```
-% Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020).
-% References:
-% Hervías-Parejo S, Tur C,Heleno R, Nogales M, Timóteo S, Traveset A.2020 Species functional traits and abundance as drivers of multiplex ecological networks:first empirical quantification of inter-layer edge weights. Proc. R. Soc. B 287: 20202127.
+Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020). This example uses bird pollination and dispersal data from SC(San Cristobal) Island.
 
-% This example uses bird pollination and dispersal data from SC(San Cristobal) Island.
-%-------------------------------------------------------------------------%
-% Step 1:Import data
+References:
+Hervías-Parejo S, Tur C,Heleno R, Nogales M, Timóteo S, Traveset A.2020 Species functional traits and abundance as drivers of multiplex ecological networks:first empirical quantification of inter-layer edge weights. Proc. R. Soc. B 287: 20202127.
+
+### Step 1: Import data
+```
 layer = 2;
 Intra_Data = cell(1,layer);
 layer1 = importdata('SC_pollination.txt');
@@ -35,7 +34,23 @@ Intra_Data{2} = layer2.data;
 
 Inter_Data = importdata('inter_weight.txt');
 Inter_Data = Inter_Data.data;
-%-------------------------------------------------------------------------%
+```
+### Step 2: Calculate modularity and obtain module partition
+Before calculating modularity and obtaining module partition, need to be installed GenLouvain, refer to https://github.com/GenLouvain/GenLouvain.
+```
+layer = 2;
+Intra_Data = cell(1,layer);
+layer1 = importdata('SC_pollination.txt');
+Intra_Data{1} = layer1.data;
+layer2 = importdata('SC_SeedDispersal.txt');
+Intra_Data{2} = layer2.data;
+
+Inter_Data = importdata('inter_weight.txt');
+Inter_Data = Inter_Data.data;
+```
+### Step 3: Calculate HMI
+```
+
 % Step 2:模块划分
 % Monolayer
 % Multilayer
