@@ -16,24 +16,29 @@ HMI (data, method, module_partition, interlayer_links_weight) requires three par
 'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
 
 #无权重的网络
-##读取网络数据
-##划分网络
-##计算HMI
-
 #有权重的网络
+## A complete example of calculating HMI
 ```
-%Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020).
-%Hervías-Parejo S, Tur C,Heleno R, Nogales M, Timóteo S, Traveset A.2020 Species functional traits and abundance as drivers of multiplex ecological networks:first empirical quantification of inter-layer edge weights. Proc. R. Soc. B 287: 20202127.
-%SC(San Cristóbal) Island
-% 读取文件
-p_h=importdata('SC_pollination.txt');
-p_h=p_h.data;
-p_p=importdata('SC_SeedDispersal.txt');
-p_p=p_p.data;
+% Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020).
+% References:
+% Hervías-Parejo S, Tur C,Heleno R, Nogales M, Timóteo S, Traveset A.2020 Species functional traits and abundance as drivers of multiplex ecological networks:first empirical quantification of inter-layer edge weights. Proc. R. Soc. B 287: 20202127.
 
-interlayer_links_weight=[0.053 0.068 0.014 0.061 0.019 0.147 0.083 0.107 0.065];
+% This example uses bird pollination and dispersal data from SC(San Cristobal) Island.
 %-------------------------------------------------------------------------%
-% 无intralayer links weight且无interlayer links weight时，
+% Step 1:Import data
+layer = 2;
+Intra_Data = cell(1,layer);
+layer1 = importdata('SC_pollination.txt');
+Intra_Data{1} = layer1.data;
+layer2 = importdata('SC_SeedDispersal.txt');
+Intra_Data{2} = layer2.data;
+
+Inter_Data = importdata('inter_weight.txt');
+Inter_Data = Inter_Data.data;
+%-------------------------------------------------------------------------%
+% Step 2:模块划分
+% Monolayer
+% Multilayer
 % 计算:monolayer HMI(无weight)和multilayer modularity
 p_N=min(size(p_h,1),size(p_p,1));
 % Calculate multilayer modularity(without interlayer links weight)
@@ -59,7 +64,7 @@ module_partition=[S1_multilayer_plant(:,index(1))';S2_multilayer_plant(:,index(1
 HomoMI("multilayer",module_partition,interlayer_link_strength);
 ```
 
-Example of calculating HMI through a diagonally coupled network
+## Example of calculating HMI through a diagonally coupled network
 ------
 ![image](https://github.com/Hosky125/HMI/blob/main/Figure1.jpg)
 ```
