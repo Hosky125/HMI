@@ -1,17 +1,20 @@
 The code folder contains all the code files used in this manuscript: "Introducing the Homo-Module Index (HMI) to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
 
-The MATLAB function calculate_modularity_obtain_module_partition(intra_data,inter_data,method,layer,iter,networktype,inter_links_type) is used to calculate modularity and obtain module partition.
-HMI (data, method, iter, interlayer_links_weight) requires four parameters: 
-'data' 数据格式为.txt，数据
-'method' specifies the module partitioning approach ("multilayer" or "monolayer"), 
-'iter' 模块划分的次数, and 
-'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
+The MATLAB function calculate_modularity_obtain_module_partition (intra_data,inter_data,method,layer,iter,networktype,inter_links_type) is used to calculate modularity and obtain module partition.
+calculate_modularity_obtain_module_partition ()  requires seven parameters: 
+'intra_data' represents a matrix of intralayer links;
+'inter_data' represents a matrix of interlayer links if considered, or 0 otherwise;
+'method' specifies the module partitioning approach ("multilayer" or "monolayer");
+'layer'
+'iter'
+'networktype'
+'inter_links_type'.
 
 Among them, the MATLAB function HomoMI (method, module_partition, inter_data) is used to calculate HMI.
-HomoMI (method, module_partition, inter_data) requires three parameters: 
+HomoMI () requires three parameters: 
 'method' specifies the module partitioning approach ("multilayer" or "monolayer"), 
 'module_partition' represents a matrix of node module partition, and 
-'inter_data' represents a weight matrix of interlayer links if considered, or 0 otherwise.
+'inter_data' represents a matrix of interlayer links if considered, or 0 otherwise.
 
 ## A complete example of calculating HMI
 Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020). This example uses bird pollination and dispersal data from San Cristobal(SC) Island.
