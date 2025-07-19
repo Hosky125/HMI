@@ -32,31 +32,6 @@ colnames(PPH_Data)<-c("HMI","MultiModularity","MonoModularity","NetworkID","Netw
 
 Data_Inter<-rbind(PHP_Data,PPH_Data)
 #------------------------------------------------------------------------------#
-#依次绘制每个网络的HMI和multimodularity的关系，据此筛选数据
-# save_files_name<-paste0("HMIModularity/03_Figure/PPH_PHP_",formatC(1:132, flag = '0', width = 3),".tif")
-# for (i in 1:132) {
-#   data<-Data_Inter[which(Data_Inter$NetworkID==i),]
-#   model<-lm(MultiModularity~ HMI, data=data)
-#   #summary(model)
-#   
-#   gmap<-ggplot(data, aes(x = HMI, y =MultiModularity)) +
-#     geom_point()+
-#     geom_smooth(method = "lm")+
-#     #labs(subtitle = "Slope<0 and P value<0.1") +
-#     theme(panel.grid = element_blank(),
-#           panel.background = element_rect(fill = NA,colour="gray70"),
-#           panel.border = element_rect(fill=NA,linetype="solid"),
-#           axis.title = element_text(size = 5* 2,face = "bold"), 
-#           axis.text = element_text(size = 5 * 2), 
-#           text= element_text(family="serif",vjust = 0.5),
-#           legend.key = element_rect(fill = NA,colour ="gray70"),
-#           legend.title = element_blank(), 
-#           legend.position = c( .9 , .9 ))
-#   #gmap
-#   
-#   ggsave(filename = save_files_name[i], device="tiff",width = 5, height = 5,plot = gmap,units = "in", dpi = 600)
-#   
-# }
 DeleteID<-c(6,16,22,23,47,48,60,88,90,91,98,99,100,102,103,104,112,115,118,120,121,122,128,129,130)
 
 for (ID in DeleteID) {
@@ -67,152 +42,7 @@ for (ID in DeleteID) {
 library(ggplot2)
 Data_Inter$NetworkID<-as.factor(Data_Inter$NetworkID)
 
-# gmap<-ggplot(Data_Inter, aes(x = HMI, y =MultiModularity,color=NetworkID)) +
-#   geom_point()+
-#   geom_smooth(method = "lm")+
-#   labs(y = "Multilayer Modularity") +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank(), 
-#         legend.position = "none")
-# gmap
-# ggsave(filename = "PPH_PHP_107_HMI_MultilayerModularity.tif", device="tiff",width = 5, height = 5,plot = gmap,units = "in", dpi = 600)
-
-# library(dplyr)
-# Data_Inter_scaled <- Data_Inter %>%
-#   group_by(NetworkID) %>%
-#   #mutate(MultiModularity_scaled = (MultiModularity-mean(MultiModularity))/sd(MultiModularity)) %>%
-#   #mutate(MultiModularity_scaled = scale(MultiModularity)) %>%
-#   mutate(HMI_scaled = scale(HMI),MultiModularity_scaled = scale(MultiModularity)) %>% #Z-Score, (raw-mean(random))/sd(random)
-#   ungroup()
-# 
-# normalize <- function(x) {
-#   (x - min(x)) / (max(x) - min(x))
-# }
-# MultiModularity_norm<-normalize(Data_Inter_scaled$MultiModularity_scaled)
-# Data_Inter_scaled<-cbind(Data_Inter_scaled,MultiModularity_norm)
-# colnames(Data_Inter_scaled)<-c("HMI","MultiModularity","MonoModularity","NetworkID","NetworkType","HMI_scaled","MultiModularity_scaled","MultiModularity_norm")
-# 
-# lm_scaled <- lm(MultiModularity_scaled ~ HMI, data = Data_Inter_scaled)
-# summary(lm_scaled)  # 系数应反映组内正相关
-# 
-# lm_scaled <- lm(MultiModularity_norm ~ HMI, data = Data_Inter_scaled)
-# summary(lm_scaled)  # 系数应反映组内正相关
-
-# gmap<-ggplot() +
-#   geom_point(data = Data_Inter_scaled,
-#              aes(x = HMI, 
-#                  y = MultiModularity, 
-#                  colour = NetworkID))+
-#   geom_smooth(method = "lm",
-#               data = Data_Inter_scaled,
-#               aes(x = HMI,
-#                   y = MultiModularity,
-#                   group = NetworkID,
-#                   colour = NetworkID)) +
-#   geom_smooth(method = "lm",
-#               data = Data_Inter_scaled, 
-#               aes(x = HMI,
-#                   y = MultiModularity_scaled),
-#               color = "black")+
-#   labs(y = "Standardized Multilayer Modularity") +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank(), 
-#         legend.position = "none")
-# gmap
-
-# ggsave(filename = "PPH_PHP_107_HMI_MultilayerModularity.tif", device="tiff",width = 5, height = 5,plot = gmap,units = "in", dpi = 600)
-
-# Data_PHP<-Data_Inter_scaled[which(Data_Inter_scaled$NetworkType=="PHP"),]
-# PHP_gmap<-ggplot() +
-#   geom_point(data = Data_PHP,
-#              aes(x = HMI, 
-#                  y = MultiModularity, 
-#                  colour = NetworkID))+
-#   geom_smooth(method = "lm",
-#               data = Data_PHP,
-#               aes(x = HMI,
-#                   y = MultiModularity,
-#                   group = NetworkID,
-#                   colour = NetworkID)) +
-#   geom_smooth(method = "lm",
-#               data = Data_PHP, 
-#               aes(x = HMI,
-#                   y = MultiModularity_norm),
-#               color = "black")+
-#   labs(x='',y = "Standardized Multilayer Modularity",tag = 'a') +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank(), 
-#         legend.position = "none",
-#         plot.tag = element_text(size = 12, face = 'bold'))
-# PHP_gmap
-# ggsave(filename = "PHP_80_HMI_MultilayerModularity.tif", device="tiff",width = 5, height = 5,plot = PHP_gmap,units = "in", dpi = 600)
-# 
-# Data_PPH<-Data_Inter_scaled[which(Data_Inter_scaled$NetworkType=="PPH"),]
-# PPH_gmap<-ggplot() +
-#   geom_point(data = Data_PPH,
-#              aes(x = HMI, 
-#                  y = MultiModularity, 
-#                  colour = NetworkID))+
-#   geom_smooth(method = "lm",
-#               data = Data_PPH,
-#               aes(x = HMI,
-#                   y = MultiModularity,
-#                   group = NetworkID,
-#                   colour = NetworkID)) +
-#   geom_smooth(method = "lm",
-#               data = Data_PPH, 
-#               aes(x = HMI,
-#                   y = MultiModularity_norm),
-#               color = "black")+
-#   labs(x='HMI',y = '',tag = 'b') +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank(), 
-#         legend.position = "none",
-#         plot.tag = element_text(size = 12, face = 'bold'))
-# PPH_gmap
-# ggsave(filename = "PPH_27_HMI_MultilayerModularity.tif", device="tiff",width = 5, height = 5,plot = PPH_gmap,units = "in", dpi = 600)
-
-#------------------------------------------------------------------------------#
 PHP_Inter<-Data_Inter[which(Data_Inter$NetworkType=="PHP"),]
-# library(dplyr)
-# PHP_Inter_scaled <- PHP_Inter %>%
-#   group_by(NetworkID) %>%
-#   #mutate(MultiModularity_scaled = (MultiModularity-mean(MultiModularity))/sd(MultiModularity)) %>%
-#   #mutate(MultiModularity_scaled = scale(MultiModularity)) %>%
-#   mutate(HMI_scaled = scale(HMI),MultiModularity_scaled = scale(MultiModularity)) %>% #Z-Score, (raw-mean(random))/sd(random)
-#   ungroup()
-# 
-# normalize <- function(x) {
-#   (x - min(x)) / (max(x) - min(x))
-# }
-# MultiModularity_norm<-normalize(PHP_Inter_scaled$MultiModularity_scaled)
-# PHP_Inter_scaled<-cbind(PHP_Inter_scaled,MultiModularity_norm)
-# colnames(PHP_Inter_scaled)<-c("HMI","MultiModularity","MonoModularity","NetworkID","NetworkType","HMI_scaled","MultiModularity_scaled","MultiModularity_norm")
-
 PHP_gmap<-ggplot() +
   geom_point(data = PHP_Inter,
              aes(x = HMI, 
@@ -245,21 +75,6 @@ PHP_gmap
 ggsave(filename = "PHP_80_HMI_MultilayerModularity.tif", device="tiff",width = 5, height = 5,plot = PHP_gmap,units = "in", dpi = 600)
 #------------------------------------------------------------------------------#
 PPH_Inter<-Data_Inter[which(Data_Inter$NetworkType=="PPH"),]
-# library(dplyr)
-# PPH_Inter_scaled <- PPH_Inter %>%
-#   group_by(NetworkID) %>%
-#   #mutate(MultiModularity_scaled = (MultiModularity-mean(MultiModularity))/sd(MultiModularity)) %>%
-#   #mutate(MultiModularity_scaled = scale(MultiModularity)) %>%
-#   mutate(HMI_scaled = scale(HMI),MultiModularity_scaled = scale(MultiModularity)) %>% #Z-Score, (raw-mean(random))/sd(random)
-#   ungroup()
-# 
-# normalize <- function(x) {
-#   (x - min(x)) / (max(x) - min(x))
-# }
-# MultiModularity_norm<-normalize(PPH_Inter_scaled$MultiModularity_scaled)
-# PPH_Inter_scaled<-cbind(PPH_Inter_scaled,MultiModularity_norm)
-# colnames(PPH_Inter_scaled)<-c("HMI","MultiModularity","MonoModularity","NetworkID","NetworkType","HMI_scaled","MultiModularity_scaled","MultiModularity_norm")
-
 PPH_gmap<-ggplot() +
   geom_point(data = PPH_Inter,
              aes(x = HMI, 
@@ -289,7 +104,6 @@ PPH_gmap<-ggplot() +
         plot.tag = element_text(size = 15, face = 'bold'))
 PPH_gmap
 ggsave(filename = "PPH_27_HMI_MultilayerModularity.tif", device="tiff",width = 5, height = 5,plot = PPH_gmap,units = "in", dpi = 600)
-
 
 #============================Step 2:Raw Data===================================#
 PHP_HMI_monolayer_unweight <- read.csv("HMIModularity/HMI_monolayer_total_PHP_Raw.csv",header = FALSE,sep = ",")
@@ -434,49 +248,7 @@ for (i in unique(Data_Inter$NetworkID)) {
   Data_Raw[count,14]<-(Data_Raw[count,3]-mean(MonoModularity3))/sd(MonoModularity3)
 }
 
-# PHP_connectorsize <- read.csv("HMIModularity/networksize_PHP.csv",header = FALSE,sep = ",")
-# PPH_connectorsize <- read.csv("HMIModularity/networksize_PPH.csv",header = FALSE,sep = ",")
-# Data_connectorsize<-rbind(PHP_connectorsize,PPH_connectorsize)
-# Data_connectorsize<-Data_connectorsize[-DeleteID,]
-# 
-# Data_Raw<-cbind(Data_Raw,Data_connectorsize[,1])
-# colnames(Data_Raw)<-c("HMI","MultiModularity","MonoModularity","NetworkID","NetworkType",
-#                       "HMI1","MultiModularity1","MonoModularity1",#NullModel-change interlayer links
-#                       "HMI2","MultiModularity2","MonoModularity2",#NullModel-change intralayer links
-#                       "HMI3","MultiModularity3","MonoModularity3",#NullModel-change interlayer links and intralayer links
-#                       "ConectorSize")
-# Data_Raw<-Data_Raw[which(Data_Raw$ConectorSize>9),]
 #------------------------------------------------------------------------------#
-# library(ggplot2)
-# gmap<-ggplot(Data_Raw, aes(x = HMI1, y =MultiModularity1)) +
-#   geom_point()+
-#   geom_smooth(method = "lm")+
-#   labs(y = "Multilayer Modularity") +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank())
-# gmap
-# 
-# gmap<-ggplot(Data_Raw, aes(x = HMI1, y =MultiModularity1,color=NetworkType)) +
-#   geom_point()+
-#   geom_smooth(method = "lm")+
-#   labs(y = "Multilayer Modularity",x="HMI",subtitle = "Change Interlayer Links") +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank(), 
-#         legend.position = c(.75,.9))
-# gmap
-# 
 # model<-lm(MultiModularity1~HMI1,data = Data_Raw)
 # summary(model)
 # 
@@ -499,35 +271,6 @@ for (i in unique(Data_Inter$NetworkID)) {
 # library(glmm.hp)
 # glmm.hp(model)
 #------------------------------------------------------------------------------#
-# gmap<-ggplot(Data_Raw, aes(x = HMI2, y =MultiModularity2)) +
-#   geom_point()+
-#   geom_smooth(method = "lm")+
-#   labs(y = "Multilayer Modularity") +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank())
-# gmap
-
-# gmap<-ggplot(Data_Raw, aes(x = HMI1, y =MultiModularity1,color=NetworkType)) +
-#   geom_point()+
-#   geom_smooth(method = "lm")+
-#   labs(y = "Standardized Multilayer Modularity",x="Standardized HMI",subtitle = "Change Interlayer Links") +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank(), 
-#         legend.position.inside  = c(.75,.9))
-# gmap
-# 
 # data<-Data_Raw[which(Data_Raw$NetworkType=="PPH"),]
 # model<-lm(MultiModularity2~HMI2,data = data)
 # summary(model)
@@ -543,36 +286,7 @@ for (i in unique(Data_Inter$NetworkID)) {
 # summary(model)
 # model<-lm(MultiModularity2~HMI2+MonoModularity2+HMI2:MonoModularity2,data = data)
 # summary(model)
-# #------------------------------------------------------------------------------#
-# gmap<-ggplot(Data_Raw, aes(x = HMI3, y =MultiModularity3)) +
-#   geom_point()+
-#   geom_smooth(method = "lm")+
-#   labs(y = "Multilayer Modularity") +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank())
-# gmap
-# 
-# gmap<-ggplot(Data_Raw, aes(x = HMI3, y =MultiModularity3,color=NetworkType)) +
-#   geom_point()+
-#   geom_smooth(method = "lm")+
-#   labs(y = "Multilayer Modularity",x="HMI",subtitle = "Change Interlayer Links and Intralayer Links") +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank(), 
-#         legend.position = c(.75,.9))
-# gmap
-# 
+# ------------------------------------------------------------------------------#
 # data<-Data_Raw[which(Data_Raw$NetworkType=="PPH"),]
 # model<-lm(MultiModularity3~HMI3,data = data)
 # summary(model)
@@ -589,34 +303,7 @@ for (i in unique(Data_Inter$NetworkID)) {
 # model<-lm(MultiModularity3~HMI3+MonoModularity3+HMI3:MonoModularity3,data = data)
 # summary(model)
 #------------------------------------------------------------------------------#
-# library(ggplot2)
-# gmap<-ggplot(Data_Raw, aes(x = ConectorSize, y =MultiModularity1,color=NetworkType)) +
-#   geom_point()+
-#   geom_smooth(method = "lm")+
-#   #labs(y = "Multilayer Modularity") +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank())
-# gmap
-# 
-# gmap<-ggplot(Data_Raw, aes(x = ConectorSize, y =HMI1,color=NetworkType)) +
-#   geom_point()+
-#   geom_smooth(method = "lm")+
-#   #labs(y = "Multilayer Modularity") +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"), 
-#         axis.text = element_text(size = 5 * 2), 
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank())
-# gmap
+
 #------------------------------------------------------------------------------#
 # data<-as.data.frame(matrix(0,107*3,5))
 # colnames(data)<-c("HMI","MultiModularity","MonoModularity","NullModel","NetworkType")
@@ -696,50 +383,7 @@ TemNet_Data<-data.frame(TemNet_HMI_monolayer_unweight,
 colnames(TemNet_Data)<-c("HMI","MultiModularity","MonoModularity","NetworkID","NetworkType")
 
 TemNet_Data_Inter<-TemNet_Data
-#TemNet_Data_Inter<-TemNet_Data_Inter[-which(TemNet_Data_Inter$NetworkID==1),]
 #------------------------------------------------------------------------------#
-# library(ggplot2)
-# TemNet_Data_Inter$NetworkID<-as.factor(TemNet_Data_Inter$NetworkID)
-# ID=1/5/8/9单独画
-# data<-TemNet_Data_Inter[which(TemNet_Data_Inter$NetworkID==10),]
-# model<-lm(MultiModularity~ HMI, data=data)
-# summary(model)
-# gmap<-ggplot(data, aes(x = HMI, y =MultiModularity)) +
-#   geom_point()+
-#   geom_smooth(method = "lm")+
-#   labs(subtitle = "TemNet05",y = "Multilayer Modularity") +
-#   theme(panel.grid = element_blank(),
-#         panel.background = element_rect(fill = NA,colour="gray70"),
-#         panel.border = element_rect(fill=NA,linetype="solid"),
-#         axis.title = element_text(size = 5* 2,face = "bold"),
-#         axis.text = element_text(size = 5 * 2),
-#         text= element_text(family="serif",vjust = 0.5),
-#         legend.key = element_rect(fill = NA,colour ="gray70"),
-#         legend.title = element_blank())
-# gmap
-# 
-# ggsave(filename = "TemNet05_HMI_MultilayerModularity.tif", device="tiff",width = 5, height = 5,plot = gmap,units = "in", dpi = 600)
-
-# library(dplyr)
-# TemNet_Data_Inter_scaled <- TemNet_Data_Inter %>%
-#   group_by(NetworkID) %>%
-#   #mutate(MultiModularity_scaled = (MultiModularity-mean(MultiModularity))/sd(MultiModularity)) %>%
-#   #mutate(MultiModularity_scaled = scale(MultiModularity)) %>%
-#   mutate(HMI_scaled = scale(HMI),MultiModularity_scaled = scale(MultiModularity)) %>% #Z-Score, (raw-mean(random))/sd(random)
-#   ungroup()
-# 
-# normalize <- function(x) {
-#   (x - min(x)) / (max(x) - min(x))
-# }
-# MultiModularity_norm<-normalize(TemNet_Data_Inter_scaled$MultiModularity_scaled)
-# TemNet_Data_Inter_scaled<-cbind(TemNet_Data_Inter_scaled,MultiModularity_norm)
-# colnames(TemNet_Data_Inter_scaled)<-c("HMI","MultiModularity","MonoModularity","NetworkID","NetworkType","HMI_scaled","MultiModularity_scaled","MultiModularity_norm")
-# 
-# lm_scaled <- lm(MultiModularity_scaled ~ HMI, data = TemNet_Data_Inter_scaled)
-# summary(lm_scaled)  # 系数应反映组内正相关
-# 
-# lm_scaled <- lm(MultiModularity_norm ~ HMI, data = TemNet_Data_Inter_scaled)
-# summary(lm_scaled)  # 系数应反映组内正相关
 TemNet_Data_Inter$NetworkID<-as.factor(TemNet_Data_Inter$NetworkID)
 TemNet_Data_Inter<-cbind(TemNet_Data_Inter,rep(c(6,4,2,4,6,2,6,4,5,2),each=1000))
 colnames(TemNet_Data_Inter)<-c("HMI","MultiModularity","MonoModularity","NetworkID","NetworkType","LayerNum")
