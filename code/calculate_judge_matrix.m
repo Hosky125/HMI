@@ -25,14 +25,13 @@ function judge_matrix = calculate_judge_matrix(method,part_module_partition,smal
                         sumindex=mindata(index)+maxdata(index);
                         frequency_table = tabulate(sumindex);
                         maxfrequency=max(frequency_table(:,2));
-                        neededsum=frequency_table(find(frequency_table(:,2)==maxfrequency),1);
-                        %index(find(sumindex==neededsum(1)));
-                        judge(index(find(sumindex==neededsum(1))))=1;%³öÏÖ¶à¸öÊ±£¬Ñ¡ÔñÁËµÚÒ»¸ö£¬ºóĞø¿ÉÓÅ»¯
+                        if maxfrequency>1
+                            neededsum=frequency_table(find(frequency_table(:,2)==maxfrequency),1);
+                            judge(index(find(sumindex==neededsum(1))))=1;%å‡ºç°å¤šä¸ªæ—¶ï¼Œé€‰æ‹©äº†ç¬¬ä¸€ä¸ªï¼Œåç»­å¯ä¼˜åŒ–
+                        end
                     end
-
                 end
                 judge_matrix(j,:)=judge;
-
             end
             %-------------------------------------------------------------%
             if length(unique(data1))<length(unique(data2))
@@ -49,14 +48,13 @@ function judge_matrix = calculate_judge_matrix(method,part_module_partition,smal
                         sumindex=mindata(index)+maxdata(index);
                         frequency_table = tabulate(sumindex);
                         maxfrequency=max(frequency_table(:,2));
-                        neededsum=frequency_table(find(frequency_table(:,2)==maxfrequency),1);
-                        %index(find(sumindex==neededsum(1)));
-                        judge(index(find(sumindex==neededsum(1))))=1;%³öÏÖ¶à¸öÊ±£¬Ñ¡ÔñÁËµÚÒ»¸ö£¬ºóĞø¿ÉÓÅ»¯
+                        if maxfrequency>1
+                            neededsum=frequency_table(find(frequency_table(:,2)==maxfrequency),1);
+                            judge(index(find(sumindex==neededsum(1))))=1;%å‡ºç°å¤šä¸ªæ—¶ï¼Œé€‰æ‹©äº†ç¬¬ä¸€ä¸ªï¼Œåç»­å¯ä¼˜åŒ–
+                        end
                     end
-
                 end
                 judge_matrix(j,:)=judge;
-
             end
             %-------------------------------------------------------------%
             if length(unique(data1))==length(unique(data2))
@@ -74,11 +72,11 @@ function judge_matrix = calculate_judge_matrix(method,part_module_partition,smal
                         sumindex=mindata(index)+maxdata(index);
                         frequency_table = tabulate(sumindex);
                         maxfrequency=max(frequency_table(:,2));
-                        neededsum=frequency_table(find(frequency_table(:,2)==maxfrequency),1);
-                        %index(find(sumindex==neededsum(1)));
-                        judge1(index(find(sumindex==neededsum(1))))=1;%³öÏÖ¶à¸öÊ±£¬Ñ¡ÔñÁËµÚÒ»¸ö£¬ºóĞø¿ÉÓÅ»¯
+                        if maxfrequency>1
+                            neededsum=frequency_table(find(frequency_table(:,2)==maxfrequency),1);
+                            judge1(index(find(sumindex==neededsum(1))))=1;%å‡ºç°å¤šä¸ªæ—¶ï¼Œé€‰æ‹©äº†ç¬¬ä¸€ä¸ªï¼Œåç»­å¯ä¼˜åŒ–
+                        end
                     end
-
                 end
                 %~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
                 maxdata=data2;
@@ -94,11 +92,11 @@ function judge_matrix = calculate_judge_matrix(method,part_module_partition,smal
                         sumindex=mindata(index)+maxdata(index);
                         frequency_table = tabulate(sumindex);
                         maxfrequency=max(frequency_table(:,2));
-                        neededsum=frequency_table(find(frequency_table(:,2)==maxfrequency),1);
-                        %index(find(sumindex==neededsum(1)));
-                        judge2(index(find(sumindex==neededsum(1))))=1;%³öÏÖ¶à¸öÊ±£¬Ñ¡ÔñÁËµÚÒ»¸ö£¬ºóĞø¿ÉÓÅ»¯
+                        if maxfrequency>1
+                            neededsum=frequency_table(find(frequency_table(:,2)==maxfrequency),1);
+                            judge2(index(find(sumindex==neededsum(1))))=1;%å‡ºç°å¤šä¸ªæ—¶ï¼Œé€‰æ‹©äº†ç¬¬ä¸€ä¸ªï¼Œåç»­å¯ä¼˜åŒ–
+                        end
                     end
-
                 end
                 
                 if sum(judge1)>sum(judge2)
