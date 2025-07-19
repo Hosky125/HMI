@@ -75,14 +75,14 @@ We showcase the calculation of HMI with an empirical weighted two-layer networks
 ### Step 1: Import data
 ```
 layer = 2;
-Intra_Data = cell(1,layer);
+Intra_data = cell(1,layer);
 layer1 = importdata('SC_pollination.txt');
-Intra_Data{1} = layer1.data;
+Intra_data{1} = layer1.data;
 layer2 = importdata('SC_SeedDispersal.txt');
-Intra_Data{2} = layer2.data;
+Intra_data{2} = layer2.data;
 
-Inter_Data = importdata('inter_weight.txt');
-Inter_Data = Inter_Data.data;
+Inter_data = importdata('inter_weight.txt');
+Inter_data = Inter_data.data;
 ```
 ### Step 2: Calculate modularity and obtain module partition
 Before calculating modularity and obtaining module partition, the GenLouvain function needs to be installed  (https://github.com/GenLouvain/GenLouvain). 
