@@ -14,7 +14,7 @@ HMI (data, method, module_partition, interlayer_links_weight) requires three par
 'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
 
 ## A complete example of calculating HMI
-Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020). This example uses bird pollination and dispersal data from SC(San Cristobal) Island.
+Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020). This example uses bird pollination and dispersal data from San Cristobal(SC) Island.
 
 References:
 Hervías-Parejo S, Tur C,Heleno R, Nogales M, Timóteo S, Traveset A.2020 Species functional traits and abundance as drivers of multiplex ecological networks:first empirical quantification of inter-layer edge weights. Proc. R. Soc. B 287: 20202127.
