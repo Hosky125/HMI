@@ -9,8 +9,7 @@ calculate_modularity_obtain_module_partition ()  requires seven parameters:
 'iter' represents the number of iterations during module partitioning;
 'networktype' represents whether each layer of the network is a bipartite network ("bipartite" or "unipartite")
 'inter_links_type' represents interlayer links mode ("diagonal_coupling" or "multiplex").
-
-Among them, the MATLAB function HomoMI (method, module_partition, inter_data) is used to calculate HMI.
+The MATLAB function HomoMI (method, module_partition, inter_data) is used to calculate HMI.
 HomoMI () requires three parameters: 
 'method' specifies the module partitioning approach ("multilayer" or "monolayer"), 
 'module_partition' represents a matrix of node module partition, and 
