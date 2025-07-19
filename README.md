@@ -8,7 +8,7 @@ HMI (data, method, iter, interlayer_links_weight) requires four parameters:
 'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
 
 Among them, the MATLAB function HomoMI (method, module_partition, inter_data) is used to calculate HMI.
-HMI (method, module_partition, inter_data) requires three parameters: 
+HomoMI (method, module_partition, inter_data) requires three parameters: 
 'method' specifies the module partitioning approach ("multilayer" or "monolayer"), 
 'module_partition' represents a matrix of node module partition, and 
 'inter_data' represents a weight matrix of interlayer links if considered, or 0 otherwise.
