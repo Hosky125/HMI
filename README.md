@@ -2,13 +2,13 @@ The code folder contains all the code files used in this manuscript: "Introducin
 
 The MATLAB function calculate_modularity_obtain_module_partition (intra_data,inter_data,method,layer,iter,networktype,inter_links_type) is used to calculate modularity and obtain module partition.
 calculate_modularity_obtain_module_partition ()  requires seven parameters: 
-'intra_data' represents a matrix of intralayer links;
+'intra_data' data format is cell array, each element is a matrix, represents intralayer links;
 'inter_data' represents a matrix of interlayer links if considered, or 0 otherwise;
 'method' specifies the module partitioning approach ("multilayer" or "monolayer");
-'layer'
-'iter'
-'networktype'
-'inter_links_type'.
+'layer' represents the number of layers of the multilayer network;
+'iter' represents the number of iterations during module partitioning;
+'networktype' represents whether each layer of the network is a bipartite network ("bipartite" or "unipartite")
+'inter_links_type' represents interlayer links mode ("diagonal_coupling" or "multiplex").
 
 Among them, the MATLAB function HomoMI (method, module_partition, inter_data) is used to calculate HMI.
 HomoMI () requires three parameters: 
