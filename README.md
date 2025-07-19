@@ -38,45 +38,15 @@ Inter_Data = Inter_Data.data;
 ### Step 2: Calculate modularity and obtain module partition
 Before calculating modularity and obtaining module partition, need to be installed GenLouvain, refer to https://github.com/GenLouvain/GenLouvain. We follow Pilosof et al.(2017) modify the GenLouvain code from http://netwiki.amath.unc.edu/GenLouvain/GenLouvain by changing the null model Pijs, see generate_monolayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in monolayer networks), generate_multilayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in diagnol coupling networks) and generate_multilayer_modularity_matrix.m (applicable to generating supra adjacency matrix in bipartite multilayer networks or multiplex networks) in the code folder.
 ```
-layer = 2;
-Intra_Data = cell(1,layer);
-layer1 = importdata('SC_pollination.txt');
-Intra_Data{1} = layer1.data;
-layer2 = importdata('SC_SeedDispersal.txt');
-Intra_Data{2} = layer2.data;
-
-Inter_Data = importdata('inter_weight.txt');
-Inter_Data = Inter_Data.data;
+%
+[modularity, module_partition] = calculate_modularity_obtain_module_partition(Intra_data,Inter_data,"monolayer",layer,100,"bipartite","diagonal_coupling")
+%
+[modularity, module_partition] = calculate_modularity_obtain_module_partition(Intra_data,Inter_data,"multilayer",layer,100,"bipartite","diagonal_coupling")
 ```
 ### Step 3: Calculate HMI
 ```
-
-% Step 2:模块划分
-% Monolayer
-% Multilayer
-% 计算:monolayer HMI(无weight)和multilayer modularity
-p_N=min(size(p_h,1),size(p_p,1));
-% Calculate multilayer modularity(without interlayer links weight)
-% generate multilayer networks supra adjacency matrix
-[B_multilayer,mm_multilayer] = generate_multilayer_networks_supra_adjacency_matrix(p_h,p_p,1,interlayer_link_strength,0);
-
-iter=100;
-S1_multilayer_plant=zeros(p_N, iter);
-S2_multilayer_plant=zeros(p_N, iter);
-Q_multilayer_total=zeros(iter, 1);
-h_N=size(p_h,2);
-
-for j=1:iter
-    [S_multilayer,Q_multilayer] = genlouvain(B_multilayer,10000,0,1,1);
-    S1_multilayer_plant(:,j) = S_multilayer(1:p_N);
-    S2_multilayer_plant(:,j) = S_multilayer((p_N+h_N+1):(p_N+h_N+p_N));
-    Q_multilayer_total(j,1) = Q_multilayer/mm_multilayer;
-end
- 
-index = find(Q_multilayer_total==max(Q_multilayer_total));
-%calculate multilayer HMI(with interlayer links weight)
-module_partition=[S1_multilayer_plant(:,index(1))';S2_multilayer_plant(:,index(1))'];
-HomoMI("multilayer",module_partition,interlayer_link_strength);
+HMI=HomoMI("monolayer",module_partition,Inter_data)
+HMI=HomoMI("multilayer",module_partition,Inter_data)
 ```
 
 ## Example of calculating HMI through a diagonally coupled network
