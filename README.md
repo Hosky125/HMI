@@ -1,17 +1,17 @@
 The code folder contains all the code files used in this manuscript: "Introducing the Homo-Module Index (HMI) to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
 
-Among them, the MATLAB function HMI (data, method, iter, interlayer_links_weight) is used to calculate HMI.
+The MATLAB function calculate_modularity_obtain_module_partition(intra_data,inter_data,method,layer,iter,networktype,inter_links_type) is used to calculate modularity and obtain module partition.
 HMI (data, method, iter, interlayer_links_weight) requires four parameters: 
 'data' 数据格式为.txt，数据
 'method' specifies the module partitioning approach ("multilayer" or "monolayer"), 
 'iter' 模块划分的次数, and 
 'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
 
-Among them, the MATLAB function HMI (data, iter, method, module_partition, interlayer_links_weight) is used to calculate HMI.
-HMI (data, method, module_partition, interlayer_links_weight) requires three parameters: 
+Among them, the MATLAB function HomoMI (method, module_partition, inter_data) is used to calculate HMI.
+HMI (method, module_partition, inter_data) requires three parameters: 
 'method' specifies the module partitioning approach ("multilayer" or "monolayer"), 
 'module_partition' represents a matrix of node module partition, and 
-'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
+'inter_data' represents a weight matrix of interlayer links if considered, or 0 otherwise.
 
 ## A complete example of calculating HMI
 Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020). This example uses bird pollination and dispersal data from San Cristobal(SC) Island.
@@ -85,9 +85,6 @@ HomoMI("multilayer",module_partition,0)
 ```
 
 Schematic_Example1.m in the code folder is the sample code for calculating the HMI of the diagonal coupling network (see Figure 1 in the main text of the manuscript).
-Schematic_Example2.m in the code folder is the sample code for calculating the HMI of a temporal or spatial network.
-
-We follow Pilosof et al.(2017) modify the GenLouvain code from http://netwiki.amath.unc.edu/GenLouvain/GenLouvain by changing the null model Pijs, see generate_monolayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in monolayer networks), generate_multilayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in diagnol coupling networks) and generate_multilayer_modularity_matrix.m (applicable to generating supra adjacency matrix in bipartite multilayer networks or multiplex networks) in the code folder.
 
 DataProcess_PHP.R, DataProcess_PPH.R, DataProcess_TemNet_EMLN.R and DataProcess_SpaNet_EMLN.R in the code folder are used to preprocess data.
 NullModel_Intra_PPH_PHP.R, NullModel_Intra_TemNet.R and NullModel_Intra_SpaNet.R in the code folder are used to shuffle intralayer links.
