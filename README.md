@@ -23,9 +23,9 @@ This respository contains all the code files used in this manuscript: "Introduci
 <br> This function calculates Homo-Module Index.
 
 **Parameters**
-<br>**'method'** The module partitioning approach ("multilayer" or "monolayer"). 
-<br>**'module_partition'** A matrix indicating the module membership of connector nodes (rows indicate layers, column indicate connector nodes, and values indicate module membership)
-<br>**'inter_data'** A matrix to represent interlayer links if considered (Rows indicate interlayers, columns indicate connector nodes,values indicate weights), or NaN otherwise.
+<br>**method** The module partitioning approach ("multilayer" or "monolayer"). 
+<br>**module_partition** A matrix indicating the module membership of connector nodes (rows indicate layers, column indicate connector nodes, and values indicate module membership)
+<br>**inter_data** A matrix to represent interlayer links if considered (Rows indicate interlayers, columns indicate connector nodes,values indicate weights), or NaN otherwise.
 
 **Value**
 <br> Return the HMI value.
