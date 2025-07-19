@@ -1,7 +1,5 @@
 The code folder contains all the code files used in this manuscript: "Introducing the Homo-Module Index (HMI) to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
 
-Before calculating HMI, need to be installed GenLouvain for network module partition, refer to https://github.com/GenLouvain/GenLouvain.
-
 Among them, the MATLAB function HMI (data, method, iter, interlayer_links_weight) is used to calculate HMI.
 HMI (data, method, iter, interlayer_links_weight) requires four parameters: 
 'data' 数据格式为.txt，数据
@@ -15,8 +13,6 @@ HMI (data, method, module_partition, interlayer_links_weight) requires three par
 'module_partition' represents a matrix of node module partition, and 
 'interlayer_links_weight' represents a weight matrix of interlayer links if considered, or 0 otherwise.
 
-#无权重的网络
-#有权重的网络
 ## A complete example of calculating HMI
 Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020). This example uses bird pollination and dispersal data from SC(San Cristobal) Island.
 
@@ -36,7 +32,7 @@ Inter_Data = importdata('inter_weight.txt');
 Inter_Data = Inter_Data.data;
 ```
 ### Step 2: Calculate modularity and obtain module partition
-Before calculating modularity and obtaining module partition, need to be installed GenLouvain, refer to https://github.com/GenLouvain/GenLouvain. We follow Pilosof et al.(2017) modify the GenLouvain code from http://netwiki.amath.unc.edu/GenLouvain/GenLouvain by changing the null model Pijs, see generate_monolayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in monolayer networks), generate_multilayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in diagnol coupling networks) and generate_multilayer_modularity_matrix.m (applicable to generating supra adjacency matrix in bipartite multilayer networks or multiplex networks) in the code folder.
+Before calculating modularity and obtaining module partition, need to be installed GenLouvain, refer to https://github.com/GenLouvain/GenLouvain. We follow Pilosof et al.(2017) modify the GenLouvain code by changing the null model Pijs, see generate_monolayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in monolayer networks), generate_multilayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in diagnol coupling networks) and generate_multilayer_modularity_matrix.m (applicable to generating supra adjacency matrix in bipartite multilayer networks or multiplex networks) in the code folder.
 ```
 %
 [modularity, module_partition] = calculate_modularity_obtain_module_partition(Intra_data,Inter_data,"monolayer",layer,100,"bipartite","diagonal_coupling")
