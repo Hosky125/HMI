@@ -1,7 +1,7 @@
 This respository contains all the code files used in this manuscript: "Introducing the Homo-Module Index (HMI) to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
 
 ## Major functions
-### **multilayer_module_partition (intra_data,inter_data,method,layer,iter,networktype,inter_links_type)**
+### **multilayer_module_partition (intra_data, inter_data, method, layer, iter, networktype, inter_links_type)**
 
 **Discription**
 <br> This function performs module partition and calculates modularity for a multilayer network, based on GenLouvain method.
