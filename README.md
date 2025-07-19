@@ -1,19 +1,19 @@
 The code folder contains all the code files used in this manuscript: "Introducing the Homo-Module Index (HMI) to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
 
-The MATLAB function calculate_modularity_obtain_module_partition (intra_data,inter_data,method,layer,iter,networktype,inter_links_type) is used to calculate modularity and obtain module partition.
+The MATLAB function **calculate_modularity_obtain_module_partition (intra_data,inter_data,method,layer,iter,networktype,inter_links_type)** is used to calculate modularity and obtain module partition.
 calculate_modularity_obtain_module_partition ()  requires seven parameters: 
-'intra_data' data format is cell array, each element is a matrix, represents intralayer links;
-'inter_data' represents a matrix of interlayer links if considered, or 0 otherwise;
-'method' specifies the module partitioning approach ("multilayer" or "monolayer");
-'layer' represents the number of layers of the multilayer network;
-'iter' represents the number of iterations during module partitioning;
-'networktype' represents whether each layer of the network is a bipartite network ("bipartite" or "unipartite")
-'inter_links_type' represents interlayer links mode ("diagonal_coupling" or "multiplex").
-The MATLAB function HomoMI (method, module_partition, inter_data) is used to calculate HMI.
+**'intra_data'** data format is cell array, each element is a matrix, represents intralayer links;
+**'inter_data'** represents a matrix of interlayer links if considered, or 0 otherwise;
+**'method'** specifies the module partitioning approach ("multilayer" or "monolayer");
+**'layer'** represents the number of layers of the multilayer network;
+**'iter'** represents the number of iterations during module partitioning;
+**'networktype'** represents whether each layer of the network is a bipartite network ("bipartite" or "unipartite")
+**'inter_links_type'** represents interlayer links mode ("diagonal_coupling" or "multiplex").
+The MATLAB function **HomoMI (method, module_partition, inter_data)** is used to calculate HMI.
 HomoMI () requires three parameters: 
-'method' specifies the module partitioning approach ("multilayer" or "monolayer"), 
-'module_partition' represents a matrix of node module partition, and 
-'inter_data' represents a matrix of interlayer links if considered, or 0 otherwise.
+**'method'** specifies the module partitioning approach ("multilayer" or "monolayer"), 
+**'module_partition'** represents a matrix of node module partition, and 
+**'inter_data'** represents a matrix of interlayer links if considered, or 0 otherwise.
 
 ## A complete example of calculating HMI
 Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020). This example uses bird pollination and dispersal data from San Cristobal(SC) Island.
@@ -34,7 +34,7 @@ Inter_Data = importdata('inter_weight.txt');
 Inter_Data = Inter_Data.data;
 ```
 ### Step 2: Calculate modularity and obtain module partition
-Before calculating modularity and obtaining module partition, need to be installed GenLouvain, refer to https://github.com/GenLouvain/GenLouvain. We follow Pilosof et al.(2017) modify the GenLouvain code by changing the null model Pijs, see generate_monolayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in monolayer networks), generate_multilayer_networks_supra_adjacency_matrix.m (applicable to generating supra adjacency matrix in diagnol coupling networks) and generate_multilayer_modularity_matrix.m (applicable to generating supra adjacency matrix in bipartite multilayer networks or multiplex networks) in the code folder.
+Before calculating modularity and obtaining module partition, need to be installed GenLouvain, refer to https://github.com/GenLouvain/GenLouvain. We follow Pilosof et al.(2017) modify the GenLouvain code by changing the null model Pijs, see **generate_monolayer_networks_supra_adjacency_matrix.m** (applicable to generating supra adjacency matrix in monolayer networks), **generate_multilayer_networks_supra_adjacency_matrix.m** (applicable to generating supra adjacency matrix in diagnol coupling networks) and **generate_multilayer_modularity_matrix.m** (applicable to generating supra adjacency matrix in bipartite multilayer networks or multiplex networks) in the code folder.
 ```
 %module partition by monolayer algorithm
 [modularity, module_partition] = calculate_modularity_obtain_module_partition(Intra_data,Inter_data,"monolayer",layer,100,"bipartite","diagonal_coupling")
