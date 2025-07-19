@@ -1,7 +1,7 @@
 This respository contains all the code files used in this manuscript: "Introducing the Homo-Module Index (HMI) to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
 
 ## Major functions
-###**multilayer_module_partition (intra_data,inter_data,method,layer,iter,networktype,inter_links_type)**
+### **multilayer_module_partition (intra_data,inter_data,method,layer,iter,networktype,inter_links_type)**
 
 **Discription**
 <br> This function performs module partition and calculates modularity for a multilayer network, based on GenLouvain method.
@@ -18,7 +18,7 @@ This respository contains all the code files used in this manuscript: "Introduci
 **Value**
 <br> Return a matrix indicating the module membership of connector nodes (rows indicate layers, column indicate connector nodes, and values indicate module membership) and the modularity metric (a value for multilayer algorithm and an average value for monolayer algorithm).
 
-###**HomoMI (method, module_partition, inter_data)** 
+### **HomoMI (method, module_partition, inter_data)** 
 **Discription**
 <br> This function calculates Homo-Module Index.
 
@@ -30,7 +30,7 @@ This respository contains all the code files used in this manuscript: "Introduci
 **Value**
 <br> Return the HMI value.
 
-## Example of showing cross-layer module alignment and calculating HMI through a diagonally coupled toy network
+## Examples of showing cross-layer module alignment and calculating HMI through a diagonally coupled toy network
 ------
 ![image](https://github.com/Hosky125/HMI/blob/main/Figure1.jpg)
 ```
@@ -75,14 +75,14 @@ We showcase the calculation of HMI with an empirical weighted two-layer networks
 ### Step 1: Import data
 ```
 layer = 2;
-Intra_data = cell(1,layer);
+Intra_Data = cell(1,layer);
 layer1 = importdata('SC_pollination.txt');
-Intra_data{1} = layer1.data;
+Intra_Data{1} = layer1.data;
 layer2 = importdata('SC_SeedDispersal.txt');
-Intra_data{2} = layer2.data;
+Intra_Data{2} = layer2.data;
 
-Inter_data = importdata('inter_weight.txt');
-Inter_data = Inter_data.data;
+Inter_Data = importdata('inter_weight.txt');
+Inter_Data = Inter_Data.data;
 ```
 ### Step 2: Calculate modularity and obtain module partition
 Before calculating modularity and obtaining module partition, the GenLouvain function needs to be installed  (https://github.com/GenLouvain/GenLouvain). 
