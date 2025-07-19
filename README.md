@@ -1,21 +1,24 @@
-The code folder contains all the code files used in this manuscript: "Introducing the Homo-Module Index (HMI) to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
+This respository contains all the code files used in this manuscript: "Introducing the Homo-Module Index (HMI) to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
 
-The MATLAB function **calculate_modularity_obtain_module_partition (intra_data,inter_data,method,layer,iter,networktype,inter_links_type)** is used to calculate modularity and obtain module partition.
-calculate_modularity_obtain_module_partition ()  requires seven parameters: 
-**'intra_data'** data format is cell array, each element is a matrix, represents intralayer links;
-**'inter_data'** represents a matrix of interlayer links if considered, or 0 otherwise;
-**'method'** specifies the module partitioning approach ("multilayer" or "monolayer");
-**'layer'** represents the number of layers of the multilayer network;
-**'iter'** represents the number of iterations during module partitioning;
-**'networktype'** represents whether each layer of the network is a bipartite network ("bipartite" or "unipartite")
-**'inter_links_type'** represents interlayer links mode ("diagonal_coupling" or "multiplex").
+## Major functions
+The MATLAB function **calculate_modularity_obtain_module_partition** is used to calculate modularity and obtain module partition.
+
+Parameters: 
+<br>**'intra_data'** data format is cell array, each element is a matrix, represents intralayer links.
+<br>**'inter_data'** represents a matrix of interlayer links if considered, or 0 otherwise.
+<br>**'method'** specifies the module partitioning approach ("multilayer" or "monolayer").
+<br>**'layer'** represents the number of layers of the multilayer network.
+<br>**'iter'** represents the number of iterations during module partitioning.
+<br>**'networktype'** represents whether each layer of the network is a bipartite network ("bipartite" or "unipartite").
+<br>**'inter_links_type'** represents interlayer links mode ("diagonal_coupling" or "multiplex").
+
 The MATLAB function **HomoMI (method, module_partition, inter_data)** is used to calculate HMI.
 HomoMI () requires three parameters: 
 **'method'** specifies the module partitioning approach ("multilayer" or "monolayer"), 
 **'module_partition'** represents a matrix of node module partition, and 
 **'inter_data'** represents a matrix of interlayer links if considered, or 0 otherwise.
 
-## A complete example of calculating HMI
+## A worked example of calculating HMI
 Weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020). This example uses bird pollination and dispersal data from San Cristobal(SC) Island.
 
 References:
