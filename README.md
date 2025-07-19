@@ -34,7 +34,9 @@ Inter_Data = importdata('inter_weight.txt');
 Inter_Data = Inter_Data.data;
 ```
 ### Step 2: Calculate modularity and obtain module partition
-Before calculating modularity and obtaining module partition, need to be installed GenLouvain, refer to https://github.com/GenLouvain/GenLouvain. We follow Pilosof et al.(2017) modify the GenLouvain code by changing the null model Pijs, see **generate_monolayer_networks_supra_adjacency_matrix.m** (applicable to generating supra adjacency matrix in monolayer networks), **generate_multilayer_networks_supra_adjacency_matrix.m** (applicable to generating supra adjacency matrix in diagnol coupling networks) and **generate_multilayer_modularity_matrix.m** (applicable to generating supra adjacency matrix in bipartite multilayer networks or multiplex networks) in the code folder.
+Before calculating modularity and obtaining module partition, need to be installed GenLouvain (https://github.com/GenLouvain/GenLouvain). 
+
+We follow Pilosof et al.(2017) modify the GenLouvain code by changing the null model Pijs, see **generate_monolayer_networks_supra_adjacency_matrix.m** (applicable to generating supra adjacency matrix in monolayer networks), **generate_multilayer_networks_supra_adjacency_matrix.m** (applicable to generating supra adjacency matrix in diagnol coupling networks) and **generate_multilayer_modularity_matrix.m** (applicable to generating supra adjacency matrix in bipartite multilayer networks or multiplex networks) in the code folder.
 ```
 %module partition by monolayer algorithm
 [modularity, module_partition] = calculate_modularity_obtain_module_partition(Intra_data,Inter_data,"monolayer",layer,100,"bipartite","diagonal_coupling")
