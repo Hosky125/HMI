@@ -3,7 +3,7 @@ This respository contains all the code files used in this manuscript: "Introduci
 ## Major functions
 ### **multilayer_module_partition (intra_data, inter_data, method, layer, iter, networktype, inter_links_type)**
 
-**Discription**
+**Description**
 <br> This function performs module partition and calculates modularity for a multilayer network, based on GenLouvain method.
 
 **Parameters**
@@ -19,7 +19,7 @@ This respository contains all the code files used in this manuscript: "Introduci
 <br> Return a matrix indicating the module membership of connector nodes (rows indicate layers, column indicate connector nodes, and values indicate module membership) and the modularity metric (a value for multilayer algorithm and an average value for monolayer algorithm).
 
 ### **HomoMI (method, module_partition, inter_data)** 
-**Discription**
+**Description**
 <br> This function calculates Homo-Module Index.
 
 **Parameters**
@@ -110,7 +110,7 @@ DataProcess_PHP.R, DataProcess_PPH.R, DataProcess_TemNet_EMLN.R and DataProcess_
 <br>NullModel_Intra_PPH_PHP.R, NullModel_Intra_TemNet.R and NullModel_Intra_SpaNet.R in the code folder are used to shuffle intralayer links.
 <br>NullModel_HMI_MultiModularity_Analysis.R is the code for statistical analysis and plotting.
 
-**matlab codes for analysis**
+**Matlab codes for analysis**
 <br>PHP87_Raw_HMI_Modularity.m, PHP87_NullModel_Inter_HMI_Modularity.m, PHP87_NullModel_Intra_HMI_Modularity.m, PHP87_NullModel_Hybrid_HMI_Modularity.m,
 <br>PPH45_Raw_HMI_Modularity.m, PPH45_NullModel_Inter_HMI_Modularity.m, PPH45_NullModel_Intra_HMI_Modularity.m, PPH45_NullModel_Hybrid_HMI_Modularity.m,
 <br>TemNet_Raw_HMI_Modularity.m, TemNet_NullModel_Inter_HMI_Modularity.m, TemNet_NullModel_Intra_HMI_Modularity.m, TemNet_NullModel_Hybrid_HMI_Modularity.m,
@@ -119,4 +119,5 @@ in the code folder are used to partition modules and compute HMI, monomodularity
 
 
 ## **References**
-Hervías-Parejo S, Tur C,Heleno R, Nogales M, Timóteo S, Traveset A.2020 Species functional traits and abundance as drivers of multiplex ecological networks:first empirical quantification of inter-layer edge weights. Proc. R. Soc. B 287: 20202127.
+Hervías-Parejo S, Tur C,Heleno R, Nogales M, Timóteo S, Traveset A. 2020 Species functional traits and abundance as drivers of multiplex ecological networks:first empirical quantification of inter-layer edge weights. Proc. R. Soc. B 287: 20202127.
+<br>Pilosof, S., M. A. Porter, M. Pascual, and S. Kéfi. 2017. The multilayer nature of ecological networks. Nature Ecology & Evolution 1:0101.
