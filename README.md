@@ -1,4 +1,4 @@
-This respository contains all the code files used in this manuscript: "Introducing the Homo-Module Index (HMI) to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
+This respository contains all the code files used in this manuscript: "Introducing the Homo-Module Index to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
 
 ## Major functions
 ### **multilayer_module_partition (intra_data, inter_data, method, layer, iter, networktype, inter_links_type)**
