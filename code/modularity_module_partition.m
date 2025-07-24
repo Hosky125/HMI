@@ -11,8 +11,8 @@ if "monolayer"==method
         [B,mm]=generate_monolayer_networks_supra_adjacency_matrix(data,1);
         
         % calculate monolayer modularity
-        Q_iter=[];%1*iter��������ÿ�б�ʾһ��monolayer modularity
-        S_iter=cell(1,iter);%92*100�ľ���ÿ�б�ʾһ��module partition
+        Q_iter=[];%1*iter的向量，每列表示一次monolayer modularity
+        S_iter=cell(1,iter);%92*100的矩阵，每列表示一次module partition
         
         for t=1:iter
             [S,Q] = genlouvain(B,10000,0,1,1);
@@ -61,7 +61,8 @@ if "multilayer"==method
             A{k}=onemode;
         end
         
-        if inter_data==0
+        % if inter_data==0
+        if isnan(inter_data)==1
             inter_data=ones((layer-1),p+q);
         end
         
@@ -69,7 +70,7 @@ if "multilayer"==method
         [B,mm]=generate_multilayer_modularity_matrix(A,p,q,1,networktype,inter_links_type,inter_data);
         
         Q_multilayer_iter=[];
-        S_multilayer_iter=cell(1,iter);%(p+q)*iter�ľ���ÿ�б�ʾһ��module partition
+        S_multilayer_iter=cell(1,iter);%(p+q)*iter的矩阵，每列表示一次module partition
         for t=1:iter
             [S,Q] = genlouvain(B,10000,0,1,1);
             Q_multilayer_iter = [Q_multilayer_iter Q/(2*mm)];
@@ -92,7 +93,8 @@ if "multilayer"==method
         layer2=intra_data{2};
         
         connector_num=min(size(layer1,1),size(layer2,1));
-        if inter_data==0
+        % if inter_data==0
+        if isnan(inter_data)==1
             inter_data=ones(1,connector_num);
         end
         
