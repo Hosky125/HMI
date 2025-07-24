@@ -7,7 +7,7 @@ This respository contains all the code files used in this manuscript: "Introduci
 <br> This function performs module partition and calculates modularity for a multilayer network, based on GenLouvain method.
 
 **Parameters**
-<br>**intra_data** A three-dimensional array that represents the layers. Each layer is a matrix desribing intralayer interactions, and  rows and columns should be matched across layers. 
+<br>**intra_data** A three-dimensional array that represents the layers. Each layer is a matrix desribing intralayer interactions, and  rows should be matched across layers. 
 <br>**inter_data** A matrix to represent interlayer links if considered (Rows indicate interlayers, columns indicate connector nodes,values indicate weights), or NaN otherwise.
 <br>**method** The module partitioning approach ("multilayer" or "monolayer"). The "multilayer" algorithm performs module partition on all layer as a whole, while the "monolayer" algorithm performs module partition for each layer independently.
 <br>**layer** The number of layers.
