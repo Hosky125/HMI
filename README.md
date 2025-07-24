@@ -12,7 +12,7 @@ This respository contains all the code files used in this manuscript: "Introduci
 <br>**method** The module partitioning approach ("multilayer" or "monolayer"). The "multilayer" algorithm performs module partition on all layer as a whole, while the "monolayer" algorithm performs module partition for each layer independently.
 <br>**layer** The number of layers.
 <br>**iter** The number of iterations for module partitioning.
-<br>**networktype** The type of network within each layer("bipartite" or "unipartite").
+<br>**networktype** The type of network within each layer ("bipartite" or "unipartite").
 <br>**inter_links_type** The mode of interlayer links ("diagonal_coupling" or "multiplex").
 
 **Value**
