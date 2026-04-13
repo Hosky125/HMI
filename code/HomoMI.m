@@ -1,153 +1,229 @@
-function HMI=HomoMI(method,module_partition,interlayer_links_weight)
-%"method" indicates the method adopted for module partition. 
-%"monolayer" indicates that each layer independently divides the modules. 
+function HMI_MEAN=HomoMI(method,strategy,module_partition,inter_data)
+%"method" indicates the method adopted for module partition.
+%"strategy" indicates the criterion based on which the number of modules is determined, which can be maximum(max), minimum(min) or average(mean=(max+min)/2).
+%"monolayer" indicates that each layer independently divides the modules.
 % For monolayer, the module indexes of nodes divided at different layers are inconsistent.
 %"multilayer" indicates that the nodes of all layers are placed together for module partition.
 % For multilayer, the module indexes of node division are consistent.
-%"module_partition" represents the module partitioning situation of connector species(for example, m) in the n-layer network. 
+%"module_partition" represents the module partitioning situation of connector species(for example, m) in the n-layer network.
 % It is an n*m matrix, and each row represents the module partitioning of one layer.
 %If interlayer links weights is not taken into account, the interlayer_links_weight input is a matrix of (n-1)*m
 %If interlayer links weights is not taken into account, the interlayer_links_weight input is 0
 %-------------------------------------------------------------------------%
-%find smallest module number and which layer have this module number
-%find smallest module number
-smallest_module_find=[];%Used to record the layer number and the number of modules divided in each layer
-for i=1:size(module_partition,1)
-    smallest_module_find(i,1)=i;
-    smallest_module_find(i,2)=length(unique(module_partition(i,:)));
-end
-smallest_module_number=min(smallest_module_find(:,2));
-%which layer have this module number
-if length(find(smallest_module_find(:,2)==smallest_module_number))==1
-    smallest_module_layer_index=find(smallest_module_find(:,2)==smallest_module_number);
+%-------------------------------------------------------------------------%
+%%
+if string('min')==strategy
+    %calculate judge matrix
+    judge_matrix=calculate_judge_matrix(method,strategy,module_partition);
+    HMI_TOTAL = {};
+    for i = 1:size(judge_matrix,2)
+        %calculate HMI
+        % size(module_partition,1) % layer
+        % size(module_partition,2) % number of connector species
 
-    smallest_module=module_partition(smallest_module_layer_index,:);
-    smallest_module_index=unique(smallest_module);
-    %---------------------------------------------------------------------%
-    HMI=0;
-    for i=1:length(unique(smallest_module))
-        %for each module,find the nodes module partition in all layers, noted part_module_partition
-        nodeindex=find(smallest_module==smallest_module_index(i));
-
-        %When the number of nodes in the same module is equal to 1, the HMI of this module is 0
-        if length(nodeindex)==1
-            weight=0;
-            links_weight=1;
-        end
-
-        %Only if the number of nodes in the same module is greater than or equal to 2, it is considered to calculate the HMI
-        if length(nodeindex)>1
-            part_module_partition=module_partition(:,nodeindex);
-
-            %calculate judge matrix
-            judge_matrix=calculate_judge_matrix(method,part_module_partition,smallest_module_layer_index);
-
+        %Case1:without interlayer links weight
+        if size(inter_data,2)~=size(module_partition,2)
             %find max connected component
-            [max_comp, max_start, max_end] = find_max_connected_component(judge_matrix);
+            max_comp = find_max_connected_component(judge_matrix{i},inter_data);
 
-            %Case1:without interlayer links weight
-            if size(interlayer_links_weight,2)~=size(module_partition,2)
-                %size(part_module_partition,2)=|Rk|
-                %size(module_partition,2)=|Z1|+|Z2|+...+|Zpj|
-                %size(judge_matrix,1)=m-1
-                %each element in max_comp=s-1
-                weight=size(part_module_partition,2)/size(module_partition,2);
-                links_weight=(1/size(part_module_partition,2))*(sum(max_comp/size(judge_matrix,1)));
-            end
-
-            %Case2:with interlayer links weight
-            adj_judge_matrix=zeros(size(judge_matrix,1),size(judge_matrix,2));
-
-            for j=1:length(max_comp)
-                if max_comp(j)~=0
-                    adj_judge_matrix((max_start(j):max_end(j)),j)=1;
-                end
-            end
-
-            if size(interlayer_links_weight,2)==size(module_partition,2)
-                part_interlayer_links_weight=interlayer_links_weight(:,nodeindex);
-                if size(part_interlayer_links_weight,1)==1
-                    weight=(sum(part_interlayer_links_weight))/(sum(interlayer_links_weight));
-                    links_weight=(1/size(part_module_partition,2))*(sum((part_interlayer_links_weight.*adj_judge_matrix)./part_interlayer_links_weight));
-                else
-                    weight=(sum(sum(part_interlayer_links_weight)))/(sum(sum(interlayer_links_weight)));
-                    links_weight=(1/size(part_module_partition,2))*(sum(sum(part_interlayer_links_weight.*adj_judge_matrix)./sum(part_interlayer_links_weight)));
-                end
-
-            end
+            HMI = sum((1/size(module_partition,2)) * (sum(judge_matrix{i})/(size(module_partition,1)-1)));
+            % sum(sum(judge_matrix{i}))/((size(module_partition,1)-1)*size(module_partition,2))
+            % CI = sum(max_comp)/size(module_partition,2); % CI=ConsistencyIndex
+            NCI = (sum(max_comp)/size(module_partition,2))/(size(module_partition,1)-1); % NCI=NormalizedConsistencyIndex
+            HMI_TOTAL{i,1} = HMI;
+            HMI_TOTAL{i,2} = NCI;
+            HMI_TOTAL{i,3} = max_comp/(size(module_partition,1)-1);
         end
-        HMI=HMI+weight*links_weight;
-    end
-    %---------------------------------------------------------------------%
-else
-    smallest_module_layer_index_set=find(smallest_module_find(:,2)==smallest_module_number);
-    HMI_Total=[];
-    for k=1:length(smallest_module_layer_index_set)
-        smallest_module_layer_index=smallest_module_layer_index_set(k);
 
-        %smallest_module_layer_index;
-        smallest_module=module_partition(smallest_module_layer_index,:);
-        smallest_module_index=unique(smallest_module);
-        %-------------------------------------------------------------------------%
-        HMI=0;
-        for i=1:length(unique(smallest_module))
-            %for each module,find the nodes module partition in all layers, noted part_module_partition
-            nodeindex=find(smallest_module==smallest_module_index(i));
+        %Case2:with interlayer links weight
+        if size(inter_data,2)==size(module_partition,2)
+            %find max connected component
+            max_comp = find_max_connected_component(judge_matrix{i},inter_data);
 
-            %When the number of nodes in the same module is equal to 1, the HMI of this module is 0
-            if length(nodeindex)==1
-                weight=0;
-                links_weight=1;
-            end
-
-            %Only if the number of nodes in the same module is greater than or equal to 2, it is considered to calculate the HMI
-            if length(nodeindex)>1
-                part_module_partition=module_partition(:,nodeindex);
-
-                %calculate judge matrix
-                judge_matrix=calculate_judge_matrix(method,part_module_partition,smallest_module_layer_index);
-
-                %find max connected component
-                [max_comp, max_start, max_end] = find_max_connected_component(judge_matrix);
-
-                %Case1:without interlayer links weight
-                if size(interlayer_links_weight,2)~=size(module_partition,2)
-                    %size(part_module_partition,2)=|Rk|
-                    %size(module_partition,2)=|Z1|+|Z2|+...+|Zpj|
-                    %size(judge_matrix,1)=m-1
-                    %each element in max_comp=s-1
-                    weight=size(part_module_partition,2)/size(module_partition,2);
-                    links_weight=(1/size(part_module_partition,2))*(sum(max_comp/size(judge_matrix,1)));
-                end
-
-                %Case2:with interlayer links weight
-                adj_judge_matrix=zeros(size(judge_matrix,1),size(judge_matrix,2));
-
-                for j=1:length(max_comp)
-                    if max_comp(j)~=0
-                        adj_judge_matrix((max_start(j):max_end(j)),j)=1;
-                    end
-                end
-
-                if size(interlayer_links_weight,2)==size(module_partition,2)
-                    part_interlayer_links_weight=interlayer_links_weight(:,nodeindex);
-                    if size(part_interlayer_links_weight,1)==1
-                        weight=(sum(part_interlayer_links_weight))/(sum(interlayer_links_weight));
-                        links_weight=(1/size(part_module_partition,2))*(sum((part_interlayer_links_weight.*adj_judge_matrix)./part_interlayer_links_weight));
-                    else
-                        weight=(sum(sum(part_interlayer_links_weight)))/(sum(sum(interlayer_links_weight)));
-                        links_weight=(1/size(part_module_partition,2))*(sum(sum(part_interlayer_links_weight.*adj_judge_matrix)./sum(part_interlayer_links_weight)));
-                    end
-
-                end
-            end
-            HMI=HMI+weight*links_weight;
+            HMI = sum(sum(inter_data .* judge_matrix{i}))/sum(sum(inter_data));
+            NCI = sum(max_comp)/sum(sum(inter_data));
+            HMI_TOTAL{i,1} = HMI;
+            HMI_TOTAL{i,2} = NCI;
+            HMI_TOTAL{i,3} = max_comp./sum(inter_data);
         end
-        %-----------------------------------------------------------------%
-        HMI_Total=[HMI_Total,HMI];
     end
-    %HMI=sum(HMI_Total)/length(HMI_Total);
-    HMI=max(HMI_Total);
+
+    HMI = [];
+    NCI = [];
+    MaxComp = [];
+    for i = 1:size(HMI_TOTAL,1)
+        HMI = [HMI;HMI_TOTAL{i,1}];
+        NCI = [NCI;HMI_TOTAL{i,2}];
+        MaxComp = [MaxComp;HMI_TOTAL{i,3}];
+    end
+
+    if size(MaxComp,1)>1
+        HMI_MEAN = {mean(HMI),mean(NCI),mean(MaxComp)};
+    else
+        HMI_MEAN = {HMI,NCI,MaxComp};
+    end
 end
+
+%%
+if string('max')==strategy
+    %calculate judge matrix
+    judge_matrix=calculate_judge_matrix(method,strategy,module_partition);
+    HMI_TOTAL = {};
+    for i = 1:size(judge_matrix,2)
+        %calculate HMI
+        % size(module_partition,1) % layer
+        % size(module_partition,2) % number of connector species
+
+        %Case1:without interlayer links weight
+        if size(inter_data,2)~=size(module_partition,2)
+            %find max connected component
+            max_comp = find_max_connected_component(judge_matrix{i},inter_data);
+
+            HMI = sum((1/size(module_partition,2)) * (sum(judge_matrix{i})/(size(module_partition,1)-1)));
+            % sum(sum(judge_matrix{i}))/((size(module_partition,1)-1)*size(module_partition,2))
+            % CI = sum(max_comp)/size(module_partition,2); % CI=ConsistencyIndex
+            NCI = (sum(max_comp)/size(module_partition,2))/(size(module_partition,1)-1); % NCI=NormalizedConsistencyIndex
+            HMI_TOTAL{i,1} = HMI;
+            HMI_TOTAL{i,2} = NCI;
+            HMI_TOTAL{i,3} = max_comp/(size(module_partition,1)-1);
+        end
+
+        %Case2:with interlayer links weight
+        if size(inter_data,2)==size(module_partition,2)
+            %find max connected component
+            max_comp = find_max_connected_component(judge_matrix{i},inter_data);
+
+            HMI = sum(sum(inter_data .* judge_matrix{i}))/sum(sum(inter_data));
+            NCI = sum(max_comp)/sum(sum(inter_data));
+            HMI_TOTAL{i,1} = HMI;
+            HMI_TOTAL{i,2} = NCI;
+            HMI_TOTAL{i,3} = max_comp./sum(inter_data);
+        end
+    end
+
+    HMI = [];
+    NCI = [];
+    MaxComp = [];
+    for i = 1:size(HMI_TOTAL,1)
+        HMI = [HMI;HMI_TOTAL{i,1}];
+        NCI = [NCI;HMI_TOTAL{i,2}];
+        MaxComp = [MaxComp;HMI_TOTAL{i,3}];
+    end
+
+    if size(MaxComp,1)>1
+        HMI_MEAN = {mean(HMI),mean(NCI),mean(MaxComp)};
+    else
+        HMI_MEAN = {HMI,NCI,MaxComp};
+    end
+
+end
+
+if string('mean')==strategy
+    strategy = 'min';
+    %calculate judge matrix
+    judge_matrix=calculate_judge_matrix(method,strategy,module_partition);
+    HMI_TOTAL = {};
+    for i = 1:size(judge_matrix,2)
+        %calculate HMI
+        % size(module_partition,1) % layer
+        % size(module_partition,2) % number of connector species
+
+        %Case1:without interlayer links weight
+        if size(inter_data,2)~=size(module_partition,2)
+            %find max connected component
+            max_comp = find_max_connected_component(judge_matrix{i},inter_data);
+
+            HMI = sum((1/size(module_partition,2)) * (sum(judge_matrix{i})/(size(module_partition,1)-1)));
+            % sum(sum(judge_matrix{i}))/((size(module_partition,1)-1)*size(module_partition,2))
+            % CI = sum(max_comp)/size(module_partition,2); % CI=ConsistencyIndex
+            NCI = (sum(max_comp)/size(module_partition,2))/(size(module_partition,1)-1); % NCI=NormalizedConsistencyIndex
+            HMI_TOTAL{i,1} = HMI;
+            HMI_TOTAL{i,2} = NCI;
+            HMI_TOTAL{i,3} = max_comp/(size(module_partition,1)-1);
+        end
+
+        %Case2:with interlayer links weight
+        if size(inter_data,2)==size(module_partition,2)
+            %find max connected component
+            max_comp = find_max_connected_component(judge_matrix{i},inter_data);
+
+            HMI = sum(sum(inter_data .* judge_matrix{i}))/sum(sum(inter_data));
+            NCI = sum(max_comp)/sum(sum(inter_data));
+            HMI_TOTAL{i,1} = HMI;
+            HMI_TOTAL{i,2} = NCI;
+            HMI_TOTAL{i,3} = max_comp./sum(inter_data);
+        end
+    end
+
+    HMI = [];
+    NCI = [];
+    MaxComp = [];
+    for i = 1:size(HMI_TOTAL,1)
+        HMI = [HMI;HMI_TOTAL{i,1}];
+        NCI = [NCI;HMI_TOTAL{i,2}];
+        MaxComp = [MaxComp;HMI_TOTAL{i,3}];
+    end
+
+    if size(MaxComp,1)>1
+        HMI_MEAN1 = {mean(HMI),mean(NCI),mean(MaxComp)};
+    else
+        HMI_MEAN1 = {HMI,NCI,MaxComp};
+    end
+
+    %%
+    strategy = 'max';
+    %calculate judge matrix
+    judge_matrix=calculate_judge_matrix(method,strategy,module_partition);
+    HMI_TOTAL = {};
+    for i = 1:size(judge_matrix,2)
+        %calculate HMI
+        % size(module_partition,1) % layer
+        % size(module_partition,2) % number of connector species
+
+        %Case1:without interlayer links weight
+        if size(inter_data,2)~=size(module_partition,2)
+            %find max connected component
+            max_comp = find_max_connected_component(judge_matrix{i},inter_data);
+
+            HMI = sum((1/size(module_partition,2)) * (sum(judge_matrix{i})/(size(module_partition,1)-1)));
+            % sum(sum(judge_matrix{i}))/((size(module_partition,1)-1)*size(module_partition,2))
+            % CI = sum(max_comp)/size(module_partition,2); % CI=ConsistencyIndex
+            NCI = (sum(max_comp)/size(module_partition,2))/(size(module_partition,1)-1); % NCI=NormalizedConsistencyIndex
+            HMI_TOTAL{i,1} = HMI;
+            HMI_TOTAL{i,2} = NCI;
+            HMI_TOTAL{i,3} = max_comp/(size(module_partition,1)-1);
+        end
+
+        %Case2:with interlayer links weight
+        if size(inter_data,2)==size(module_partition,2)
+            %find max connected component
+            max_comp = find_max_connected_component(judge_matrix{i},inter_data);
+
+            HMI = sum(sum(inter_data .* judge_matrix{i}))/sum(sum(inter_data));
+            NCI = sum(max_comp)/sum(sum(inter_data));
+            HMI_TOTAL{i,1} = HMI;
+            HMI_TOTAL{i,2} = NCI;
+            HMI_TOTAL{i,3} = max_comp./sum(inter_data);
+        end
+    end
+
+    HMI = [];
+    NCI = [];
+    MaxComp = [];
+    for i = 1:size(HMI_TOTAL,1)
+        HMI = [HMI;HMI_TOTAL{i,1}];
+        NCI = [NCI;HMI_TOTAL{i,2}];
+        MaxComp = [MaxComp;HMI_TOTAL{i,3}];
+    end
+
+    if size(MaxComp,1)>1
+        HMI_MEAN2 = {mean(HMI),mean(NCI),mean(MaxComp)};
+    else
+        HMI_MEAN2 = {HMI,NCI,MaxComp};
+    end
+
+    HMI_MEAN = {mean([HMI_MEAN1{1};HMI_MEAN2{1}]),mean([HMI_MEAN1{2};HMI_MEAN2{2}]),mean([HMI_MEAN1{3};HMI_MEAN2{3}])};
+end
+
 
 end
