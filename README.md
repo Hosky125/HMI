@@ -114,7 +114,14 @@ HMI=HomoMI("multilayer",'mean',module_partition,Inter_data)
 ```
 
 ## Other functions to process data and analysis in the manuscript
-
+## Reproducing the manuscript analyses
+Generate the randomized networks using the null models described in the manuscript (<br>NullModel_Intra_PPH_PHP.R, NullModel_Intra_TemNet.R and NullModel_Intra_SpaNet.R). For each randomized network, repeat Steps 2 and 3 to obtain module assignments, modularity scores, and HMI values (PHP87_NullModel_Inter_HMI_Modularity.m, PHP87_NullModel_Intra_HMI_Modularity.m, PHP87_NullModel_Hybrid_HMI_Modularity.m,
+<br>PPH45_Raw_HMI_Modularity.m, PPH45_NullModel_Inter_HMI_Modularity.m, PPH45_NullModel_Intra_HMI_Modularity.m, PPH45_NullModel_Hybrid_HMI_Modularity.m,
+<br>TemNet_Raw_HMI_Modularity.m, TemNet_NullModel_Inter_HMI_Modularity.m, TemNet_NullModel_Intra_HMI_Modularity.m, TemNet_NullModel_Hybrid_HMI_Modularity.m,
+<br>SpaNet_Raw_HMI_Modularity.m, SpaNet_NullModel_Inter_HMI_Modularity.m, SpaNet_NullModel_Intra_HMI_Modularity.m, SpaNet_NullModel_Hybrid_HMI_Modularity.m). Use the resulting null distributions to test whether the observed HMI differs from random expectations. The HMI and modularity values from these runs also serve as inputs to the statistical analyses in the manuscript.
+Additional scripts
+- Infomap partitions. See aaaaa.R for an example of how to detect modules with Infomap and export the module assignments for HMI calculation.
+- Simulated temporal networks. See bbbbb.m for the MATLAB code used to generate the simulated multilayer temporal networks.
 **R codes to process data**
 
 DataProcess_PHP.R, DataProcess_PPH.R, DataProcess_TemNet_EMLN.R and DataProcess_SpaNet_EMLN.R in the code folder are used to preprocess PHP, PPH, temporal and spatial networks.
