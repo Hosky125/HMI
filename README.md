@@ -18,12 +18,13 @@ This respository contains all the code files used in this manuscript: "Introduci
 **Value**
 <br> Return a matrix indicating the module membership of connector nodes (rows indicate layers, column indicate connector nodes, and values indicate module membership) and the modularity metric (a value for multilayer algorithm and an average value for monolayer algorithm).
 
-### **HomoMI (method, module_partition, inter_data)** 
+### **HomoMI (method, strategy, module_partition, inter_data)** 
 **Description**
 <br> This function calculates Homo-Module Index.
 
 **Parameters**
 <br>**method** The module partitioning approach ("multilayer" or "monolayer"). 
+<br>**strategy** The criterion based on which the number of modules is determined, which can be maximum(max), minimum(min) or average(mean=(max+min)/2).
 <br>**module_partition** A matrix indicating the module membership of connector nodes (rows indicate layers, column indicate connector nodes, and values indicate module membership)
 <br>**inter_data** A matrix to represent interlayer links if considered (Rows indicate interlayers, columns indicate connector nodes,values indicate weights), or NaN otherwise.
 
@@ -40,31 +41,31 @@ This respository contains all the code files used in this manuscript: "Introduci
 %without interlayer links weight
 %Figure (a)
 module_partition=[1 1;2 2]
-HomoMI("monolayer",module_partition,NaN)
+HomoMI("monolayer",'mean',module_partition,NaN)
 
 %module partition by monolayer algorithm
 %without interlayer links weight
 %Figure (b)
 module_partition=[1 1;2 3]
-HomoMI("monolayer",module_partition,NaN)
+HomoMI("monolayer",'mean',module_partition,NaN)
 
 %module partition by multilayer algorithm
 %without interlayer links weight
 %Figure (c)
 module_partition=[1 1;1 1]
-HomoMI("multilayer",module_partition,NaN)
+HomoMI("multilayer",'mean',module_partition,NaN)
 
 %module partition by multilayer algorithm
 %without interlayer links weight
 %Figure (d)
 module_partition=[1 1;1 2]
-HomoMI("multilayer",module_partition,NaN)
+HomoMI("multilayer",'mean',module_partition,NaN)
 
 %module partition by multilayer algorithm
 %without interlayer links weight
 %Figure (e)
 module_partition=[1 1;2 3]
-HomoMI("multilayer",module_partition,NaN)
+HomoMI("multilayer",'mean',module_partition,NaN)
 ```
 
 Schematic_Example1.m in the code folder is the example code for calculating the HMI of the diagonal coupling toy network (see Figure 1 in the main text of the manuscript).
@@ -97,9 +98,9 @@ We follow Pilosof et al.(2017) to modify the GenLouvain code by changing the nul
 ### Step 3: Calculate HMI
 ```
 %module partition by monolayer algorithm
-HMI=HomoMI("monolayer",module_partition,Inter_data)
+HMI=HomoMI("monolayer",'mean',module_partition,Inter_data)
 %module partition by multilayer algorithm
-HMI=HomoMI("multilayer",module_partition,Inter_data)
+HMI=HomoMI("multilayer",'mean',module_partition,Inter_data)
 ```
 
 ## Other functions to process data and analysis in the manuscript
