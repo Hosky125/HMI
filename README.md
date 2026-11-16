@@ -31,6 +31,9 @@ This respository contains all the code files used in this manuscript: "Introduci
 **Value**
 <br> Return the HMI value.
 
+**Notes**
+HomoMI.m requires the following four functions to run successfully: find_max_connected_component.m, calculate_judge_matrix.m, generate_matrices.m, and generate_vector_sums.m.
+
 ## Examples of showing cross-layer module alignment and calculating HMI through a diagonally coupled toy network
 ------
 ![image](https://github.com/Hosky125/HMI/blob/main/Figure1.jpg)
