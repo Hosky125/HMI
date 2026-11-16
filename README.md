@@ -31,7 +31,7 @@ This respository contains all the code files used in this manuscript: "Introduci
 **Value**
 <br> Return the HMI value.
 
-**Notes**
+**Note**
 
 HomoMI.m requires the following four functions to run successfully: find_max_connected_component.m, calculate_judge_matrix.m, generate_matrices.m, and generate_vector_sums.m.
 
