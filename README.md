@@ -71,7 +71,7 @@ HomoMI("multilayer",'mean',module_partition,NaN)
 Schematic_Example1.m in the code folder is the example code for calculating the HMI of the diagonal coupling toy network (see Figure 1 in the main text of the manuscript).
 
 ## A worked example of calculating HMI
-We showcase the calculation of HMI with an empirical weighted two-layer networks of bird pollination and dispersal from Hervías-Parejo et al. (2020). This example uses bird pollination and dispersal data from San Cristobal(SC) Island.
+We showcase the calculation of HMI with an empirical weighted two-layer network of bird pollination and dispersal from Hervías-Parejo et al. (2020). This example uses bird pollination and dispersal data from San Cristobal(SC) Island.
 
 ### Step 1: Import data
 ```
@@ -86,7 +86,7 @@ Inter_Data = importdata('inter_weight.txt');
 Inter_Data = Inter_Data.data;
 ```
 ### Step 2: Calculate modularity and obtain module partition
-Before calculating modularity and obtaining module partition, the GenLouvain function needs to be installed  (https://github.com/GenLouvain/GenLouvain). 
+Before calculating modularity and obtaining module partition, the GenLouvain function needs to be installed  (https://github.com/GenLouvain/GenLouvain). We provide GenLouvain2.0.zip in the Code folder. Extract the archive and add the extracted folder to the MATLAB search path.
 
 We follow Pilosof et al.(2017) to modify the GenLouvain code by changing the null model Pijs, see **generate_monolayer_networks_supra_adjacency_matrix.m** (applicable to generating supra adjacency matrix in monolayer networks), **generate_multilayer_networks_supra_adjacency_matrix.m** (applicable to generating supra adjacency matrix in diagnol coupling networks) and **generate_multilayer_modularity_matrix.m** (applicable to generating supra adjacency matrix in bipartite multilayer networks or multiplex networks) in the code folder.
 ```
