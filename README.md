@@ -24,6 +24,10 @@ These three steps constitute the workflow for calculating HMI. If the interactio
 **Value**
 <br> Return a matrix indicating the module membership of connector nodes (rows indicate layers, column indicate connector nodes, and values indicate module membership) and the modularity metric (a value for multilayer algorithm and an average value for monolayer algorithm).
 
+**Note**
+
+**multilayer_module_partition.m** requires the following three functions to run successfully: **generate_monolayer_networks_supra_adjacency_matrix.m**, **generate_multilayer_networks_supra_adjacency_matrix.m** and **generate_multilayer_modularity_matrix.m** (**02Module Partition**).
+
 ### **HomoMI (method, strategy, module_partition, inter_data)** 
 **Description**
 <br> This function calculates Homo-Module Index.
@@ -39,7 +43,8 @@ These three steps constitute the workflow for calculating HMI. If the interactio
 
 **Note**
 
-HomoMI.m requires the following four functions to run successfully: find_max_connected_component.m, calculate_judge_matrix.m, generate_matrices.m, and generate_vector_sums.m.
+**HomoMI.m** requires the following four functions to run successfully: **find_max_connected_component.m**, **calculate_judge_matrix.m**, **generate_matrices.m** and **generate_vector_sums.m** (**03Calculate HMI**).
+.
 
 ## Examples of showing cross-layer module alignment and calculating HMI through a diagonally coupled toy network
 ------
