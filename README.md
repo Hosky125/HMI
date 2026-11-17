@@ -142,7 +142,7 @@ Analyze how the fitted slope of the HMI–multilayer modularity relationship var
 Run the four controlled examples with prescribed module assignments. The examples compare consecutive and interrupted alignment, redistribute interlayer weights while keeping module assignments fixed, and examine module correspondence under splitting and merging. 
 
 <br>**08Infomap**
-Use Infomap to obtain alternative module assignments for independent layer partitions and joint multilayer partitions. Match the exported module labels to species and layers before passing them to the HMI calculation in 03Calculate HMI.
+Use Infomap to obtain alternative module assignments for monolayer partitions and multilayer partitions. Match the exported module labels to species and layers before passing them to the HMI calculation in 03Calculate HMI.
 
 ## **References**
 Hervías-Parejo S, Tur C,Heleno R, Nogales M, Timóteo S, Traveset A. 2020 Species functional traits and abundance as drivers of multiplex ecological networks:first empirical quantification of inter-layer edge weights. Proc. R. Soc. B 287: 20202127.
