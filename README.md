@@ -1,4 +1,4 @@
-This repository contains the code for calculating the Homo-Module Index (HMI) and reproducing the analyses in the manuscript (Introducing the Homo-Module Index to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks). HMI measures how consistently connector species are assigned to corresponding modules across network layers. The core workflow is 01Data Process → 02Module Partition → 03Calculate HMI. 
+This repository contains the code for calculating the Homo-Module Index (HMI) and reproducing the analyses in the manuscript (Introducing the Homo-Module Index to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks). HMI measures how consistently connector species are assigned to corresponding modules across network layers.
 
 ## Core HMI workflow
 <br>**Step 1: Data Process** Organize the interaction data for each layer into a matrix and save each matrix as a .txt or .csv file.
