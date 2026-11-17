@@ -1,8 +1,8 @@
 This respository contains all the code files used in this manuscript: "Introducing the Homo-Module Index to Quantify Cross-Layer Modular Alignment in Multilayer Ecological Networks".
 
 ## Core HMI workflow
-<br>**Step 1: Prepare the network data** Organize the interaction data for each layer into a matrix and save each matrix as a .txt or .csv file.
-<br>**Step 2: Detect modules**  Use the generalized Louvain algorithm in MATLAB to partition the network. We provide two partitioning schemes. In the monolayer scheme, each layer is partitioned independently. In the multilayer scheme, all layers are partitioned jointly. Both schemes return a module assignment for each node in each layer.
+<br>**Step 1: Data Process** Organize the interaction data for each layer into a matrix and save each matrix as a .txt or .csv file.
+<br>**Step 2: Module Partition**  Use the generalized Louvain algorithm in MATLAB to partition the network. We provide two partitioning schemes. In the monolayer scheme, each layer is partitioned independently. In the multilayer scheme, all layers are partitioned jointly. Both schemes return a module assignment for each node in each layer.
 <br>**Step 3: Calculate HMI** Use the module assignments from Step 2 as input to the MATLAB implementation of HMI. 
 These three steps constitute the workflow for calculating HMI. If the interaction matrices are already prepared, start at Step 2. If module assignments are already available, start at Step 3.
 
