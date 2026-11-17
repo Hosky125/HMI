@@ -120,10 +120,13 @@ Generate randomized networks under the three null models used in the manuscript:
 - N2 randomizes intralayer interactions while retaining interlayer links.
 - N3 randomizes both intralayer interactions and interlayer links.
 For each randomized network, repeat the module detection and HMI calculation in 02Module Partition and 03Calculate HMI. Keep the network ID and randomization ID with each HMI and modularity value. The resulting N1 distributions are used to test whether observed HMI differs from random expectations. The randomized HMI and modularity values also provide inputs for the regression and standardization analyses in the manuscript.
+
 **06Alignment Decay**
 Analyze how the fitted slope of the HMI–multilayer modularity relationship varies with the number of temporal layers. First, estimate a slope for each temporal network by regressing multilayer modularity on HMI across its N1 randomizations. Then relate the estimated slopes to the number of layers. This folder also contains the analyses that check the empirical pattern by omitting one network at a time and explore a wider range of layer counts using simulated temporal networks.
+
 **07Controlled Examples**
 Run the four controlled examples with prescribed module assignments. The examples compare consecutive and interrupted alignment, redistribute interlayer weights while keeping module assignments fixed, and examine module correspondence under splitting and merging. 
+
 **08Infomap**
 Use Infomap to obtain alternative module assignments for independent layer partitions and joint multilayer partitions. Match the exported module labels to species and layers before passing them to the HMI calculation in 03Calculate HMI.
 
