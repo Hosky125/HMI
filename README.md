@@ -49,33 +49,43 @@ HomoMI.m requires the following four functions to run successfully: find_max_con
 %-----------------------------------------------------%
 %module partition by monolayer algorithm
 %without interlayer links weight
-%Figure (a)
-module_partition=[1 1;2 2]
-HomoMI("monolayer",'mean',module_partition,NaN)
+%Figure 1(a)
+inter_data = [];
+module_partition=[1 1;2 2];
+Result = HomoMI("monolayer",'mean',module_partition,inter_data);
+HMI = Result{2}
 
 %module partition by monolayer algorithm
 %without interlayer links weight
-%Figure (b)
-module_partition=[1 1;2 3]
-HomoMI("monolayer",'mean',module_partition,NaN)
+%Figure 1(b)
+inter_data = [];
+module_partition=[1 1;2 3];
+Result = HomoMI("monolayer",'mean',module_partition,inter_data);
+HMI = Result{2}
 
 %module partition by multilayer algorithm
 %without interlayer links weight
-%Figure (c)
-module_partition=[1 1;1 1]
-HomoMI("multilayer",'mean',module_partition,NaN)
+%Figure 1(c)
+inter_data = [];
+module_partition=[1 1;1 1];
+Result = HomoMI("multilayer",'mean',module_partition,inter_data);
+HMI = Result{2}
 
 %module partition by multilayer algorithm
 %without interlayer links weight
-%Figure (d)
-module_partition=[1 1;1 2]
-HomoMI("multilayer",'mean',module_partition,NaN)
+%Figure 1(d)
+inter_data = [];
+module_partition=[1 1;1 2];
+Result = HomoMI("multilayer",'mean',module_partition,inter_data);
+HMI = Result{2}
 
 %module partition by multilayer algorithm
 %without interlayer links weight
-%Figure (e)
-module_partition=[1 1;2 3]
-HomoMI("multilayer",'mean',module_partition,NaN)
+%Figure 1(e)
+inter_data = [];
+module_partition=[1 1;2 3];
+Result = HomoMI("multilayer",'mean',module_partition,inter_data);
+HMI = Result{2}
 ```
 
 Schematic_Example1.m in the code folder is the example code for calculating the HMI of the diagonal coupling toy network (see Figure 1 in the main text of the manuscript).
