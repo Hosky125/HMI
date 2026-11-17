@@ -88,7 +88,7 @@ Result = HomoMI("multilayer",'mean',module_partition,inter_data);
 HMI = Result{2}
 ```
 
-Schematic_Example1.m in the code folder (<br>**04Schematic Example**) is the example code for calculating the HMI of the diagonal coupling toy network (see Figure 1 in the main text of the manuscript).
+Schematic_Example1.m in the code folder (**04Schematic Example**) is the example code for calculating the HMI of the diagonal coupling toy network (see Figure 1 in the main text of the manuscript).
 
 ## A worked example of calculating HMI
 We showcase the calculation of HMI with an empirical weighted two-layer network of bird pollination and dispersal from Hervías-Parejo et al. (2020). This example uses bird pollination and dispersal data from San Cristobal(SC) Island.
