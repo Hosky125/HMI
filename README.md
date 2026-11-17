@@ -44,7 +44,6 @@ These three steps constitute the workflow for calculating HMI. If the interactio
 **Note**
 
 **HomoMI.m** requires the following four functions to run successfully: **find_max_connected_component.m**, **calculate_judge_matrix.m**, **generate_matrices.m** and **generate_vector_sums.m** (**03Calculate HMI**).
-.
 
 ## Examples of showing cross-layer module alignment and calculating HMI through a diagonally coupled toy network
 ------
