@@ -113,13 +113,19 @@ HMI=HomoMI("monolayer",'mean',module_partition,Inter_data)
 HMI=HomoMI("multilayer",'mean',module_partition,Inter_data)
 ```
 
-## Other functions to process data and analysis in the manuscript
 ## Reproducing the manuscript analyses
-Generate the randomized networks using the null models described in the manuscript (<br> **NullModel_Intra_##.R**). For each randomized network, repeat Steps 2 and 3 to obtain module assignments, modularity scores, and HMI values (<br> **##_NullModel_Inter_HMI_Modularity.m, ##_NullModel_Intra_HMI_Modularity.m, ##_NullModel_Hybrid_HMI_Modularity.m**). The results of the null model are used to test whether the observed HMI differs from random expectation. Use the resulting null distributions to test whether the observed HMI differs from random expectations. The HMI and modularity values from these runs also serve as inputs to the statistical analyses in the manuscript (<br> **NullModel_HMI_MultiModularity_Analysis.R**).
-
-## Additional scripts
-- Infomap partitions. See aaaaa.R for an example of how to detect modules with Infomap and export the module assignments for HMI calculation.
-- Simulated temporal networks. See bbbbb.m for the MATLAB code used to generate the simulated multilayer temporal networks.
+**05Null Model**
+Generate randomized networks under the three null models used in the manuscript:
+- N1 randomizes interlayer links while preserving intralayer structure.
+- N2 randomizes intralayer interactions while retaining interlayer links.
+- N3 randomizes both intralayer interactions and interlayer links.
+For each randomized network, repeat the module detection and HMI calculation in 02Module Partition and 03Calculate HMI. Keep the network ID and randomization ID with each HMI and modularity value. The resulting N1 distributions are used to test whether observed HMI differs from random expectations. The randomized HMI and modularity values also provide inputs for the regression and standardization analyses in the manuscript.
+**06Alignment Decay**
+Analyze how the fitted slope of the HMI–multilayer modularity relationship varies with the number of temporal layers. First, estimate a slope for each temporal network by regressing multilayer modularity on HMI across its N1 randomizations. Then relate the estimated slopes to the number of layers. This folder also contains the analyses that check the empirical pattern by omitting one network at a time and explore a wider range of layer counts using simulated temporal networks.
+**07Controlled Examples**
+Run the four controlled examples with prescribed module assignments. The examples compare consecutive and interrupted alignment, redistribute interlayer weights while keeping module assignments fixed, and examine module correspondence under splitting and merging. 
+**08Infomap**
+Use Infomap to obtain alternative module assignments for independent layer partitions and joint multilayer partitions. Match the exported module labels to species and layers before passing them to the HMI calculation in 03Calculate HMI.
 
 ## **References**
 Hervías-Parejo S, Tur C,Heleno R, Nogales M, Timóteo S, Traveset A. 2020 Species functional traits and abundance as drivers of multiplex ecological networks:first empirical quantification of inter-layer edge weights. Proc. R. Soc. B 287: 20202127.
